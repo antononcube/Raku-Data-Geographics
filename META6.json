@@ -1,0 +1,40 @@
+{
+  "name": "Data::Geographics",
+  "description": "Country data and city data.",
+  "version": "0.1.0",
+  "perl": "6.d",
+  "authors": [
+    "Anton Antonov"
+  ],
+  "auth": "zef:antononcube",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Data::Geographics": "lib/Data/Geographics.rakumod"
+  },
+  "resources": [
+    "dfBotswanaCityRecords.csv",
+    "dfBulgariaCityRecords.csv",
+    "dfCanadaCityRecords.csv",
+    "dfGermanyCityRecords.csv",
+    "dfHungaryCityRecords.csv",
+    "dfRussiaCityRecords.csv",
+    "dfSpainCityRecords.csv",
+    "dfUkraineCityRecords.csv",
+    "dfUnitedStatesCityRecords.csv"
+  ],
+  "license": "Artistic-2.0",
+  "tags": [
+    "city data",
+    "city",
+    "country data",
+    "country",
+    "data",
+    "geographical data",
+    "geographical",
+    "geographics"
+  ],
+  "api": "1",
+  "source-url": "https://github.com/antononcube/Raku-Data-Geographics.git"
+}
