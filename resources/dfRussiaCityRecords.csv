@@ -140,7 +140,7 @@
 "Russia","Stavropol","Nevinnomyssk",117676,44.63,41.95,3.3e2
 "Russia","Volgograd","Kamyshin",117297,50.1,45.4,13.
 "Russia","KarachaiCherkessRepublic","Cherkessk",116947,44.29,42.06,4.9e2
-"Russia","MoskovskayaOblast","Zheleznodorozhnyy",116456,55.75,38.0167,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Zheleznodorozhnyy",116456,55.75,38.0167,"null"
 "Russia","MoskovskayaOblast","Noginsk",116277,55.85,38.44,1.5e2
 "Russia","Ulyanovsk","Dimitrovgrad",116055,54.25,49.550000000000004,1.3e2
 "Russia","Tyva","Kyzyl",116015,51.71,94.38,6.1e2
@@ -406,7 +406,7 @@
 "Russia","Vologda","Sokol",41186,59.46,40.12,1.2e2
 "Russia","Krasnodar","Korenovsk",41135,45.47,39.45,32.
 "Russia","Volgograd","Uryupinsk",41081,50.78,42.,76.
-"Russia","KhantyMansi","PytYakh",41005,60.75,72.7833,"Missing[""NotAvailable""]"
+"Russia","KhantyMansi","PytYakh",41005,60.75,72.7833,"null"
 "Russia","KhantyMansi","Langepas",40796,61.17,75.39,20.
 "Russia","Orenburg","Gay",40783,51.47,58.46,3.8e2
 "Russia","Chelyabinsk","Kyshtym",40759,55.7,60.56,2.8e2
@@ -518,7 +518,7 @@
 "Russia","Yaroslavl","Rostov",31792,57.19,39.4,1.e2
 "Russia","NizhnyNovgorod","Gorodets",31707,56.65,43.480000000000004,1.e2
 "Russia","Voronezh","Ostrogozhsk",31700,50.870000000000005,39.08,1.2e2
-"Russia","MoskovskayaOblast","Yubileynyy",31647,55.9333,37.85,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Yubileynyy",31647,55.9333,37.85,"null"
 "Russia","MoskovskayaOblast","Shatura",31523,55.58,39.54,1.3e2
 "Russia","KhantyMansi","Yugorsk",31515,61.31,63.33,1.1e2
 "Russia","Vladimir","Kirzhach",31472,56.17,38.87,1.4e2
@@ -541,7 +541,7 @@
 "Russia","Krasnodar","Starominskaya",30000,46.53,39.050000000000004,21.
 "Russia","Krasnodar","Kushchevskaya",30000,46.56,39.64,13.
 "Russia","Karelia","Kostomuksha",29825,64.68,30.82,1.6e2
-"Russia","MoskovskayaOblast","Golitsino2",29774,55.6,37.0333,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Golitsino2",29774,55.6,37.0333,"null"
 "Russia","KhabarovskKrai","SovetskayaGavan",29634,48.97,140.28,38.
 "Russia","Chelyabinsk","Yemanzhelinsk",29574,54.75,61.300000000000004,2.3e2
 "Russia","Ryazan","Sasovo",29568,54.35,41.910000000000004,1.1e2
@@ -646,7 +646,7 @@
 "Russia","Voronezh","Semiluki",23940,51.69,39.02,1.4e2
 "Russia","Ingushetia","Troitskaya",23745,43.300000000000004,45.01,3.3e2
 "Russia","Omsk","Kalachinsk",23705,55.050000000000004,74.57000000000001,1.e2
-"Russia","MoskovskayaOblast","Kalininets",23676,55.5585,36.9749,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Kalininets",23676,55.5585,36.9749,"null"
 "Russia","Penza","NizhniyLomov",23624,53.52,43.68,1.5e2
 "Russia","Leningrad","Kirovsk",23602,59.870000000000005,31.,21.
 "Russia","Murmansk","Olenegorsk",23581,68.15,33.3,1.6e2
@@ -769,7 +769,7 @@
 "Russia","Ingushetia","Nesterovskaya",19186,43.230000000000004,45.03,4.5e2
 "Russia","MoskovskayaOblast","Kraskovo",19148,55.65,37.980000000000004,1.3e2
 "Russia","Nenets","NaryanMar",19127,67.65,53.050000000000004,10.
-"Russia","Bashkortostan","Mezhgorye",19119,54.05,57.8167,"Missing[""NotAvailable""]"
+"Russia","Bashkortostan","Mezhgorye",19119,54.05,57.8167,"null"
 "Russia","MoskovskayaOblast","Kurovskoye",19097,55.58,38.910000000000004,1.2e2
 "Russia","Samara","Neftegorsk",19084,52.82,51.2,63.
 "Russia","Ryazan","Rybnoye",19039,54.730000000000004,39.51,1.e2
@@ -823,7 +823,7 @@
 "Russia","Kostroma","Volgorechensk",17825,57.44,41.160000000000004,1.1e2
 "Russia","Tula","Yasnogorsk",17806,54.480000000000004,37.7,2.5e2
 "Russia","Kurgan","Kurtamysh",17791,54.910000000000004,64.43,1.1e2
-"Russia","Vladimir","Raduzhnyy",17787,55.9978,40.3297,"Missing[""NotAvailable""]"
+"Russia","Vladimir","Raduzhnyy",17787,55.9978,40.3297,"null"
 "Russia","Stavropol","Svobody",17771,44.03,43.050000000000004,5.e2
 "Russia","Kemerovo","Kedrovka",17752,55.52,86.09,1.6e2
 "Russia","Adygeya","Enem",17733,44.93,38.9,21.
@@ -847,7 +847,7 @@
 "Russia","Stavropol","Suvorovskaya",17261,44.19,42.65,4.6e2
 "Russia","Leningrad","Nikolskoye",17200,59.5,34.96,1.8e2
 "Russia","Kursk","Rylsk",17193,51.57,34.68,1.7e2
-"Russia","Tambov","Stroitel",17176,50.7833,36.4833,"Missing[""NotAvailable""]"
+"Russia","Tambov","Stroitel",17176,50.7833,36.4833,"null"
 "Russia","Leningrad","Boksitogorsk",17149,59.480000000000004,33.85,95.
 "Russia","NizhnyNovgorod","Navashino",17123,55.53,42.2,76.
 "Russia","Bryansk","Pochyop",17094,52.93,33.46,1.4e2
@@ -862,7 +862,7 @@
 "Russia","Saratov","Novouzensk",16866,50.46,48.14,23.
 "Russia","Voronezh","Gribanovskiy",16801,51.46,41.97,1.6e2
 "Russia","Chechnya","AchkhoyMartan",16779,43.19,45.29,2.4e2
-"Russia","KhantyMansi","Pokachi",16747,61.75,75.5833,"Missing[""NotAvailable""]"
+"Russia","KhantyMansi","Pokachi",16747,61.75,75.5833,"null"
 "Russia","Tatarstan","Vasilyevo",16730,55.84,48.75,58.
 "Russia","Yaroslavl","Danilov",16573,58.18,40.18,1.6e2
 "Russia","MariEl","Medvedevo",16572,56.63,47.82,1.1e2
@@ -891,7 +891,7 @@
 "Russia","Tyumen","Borovskiy",16046,57.04,65.73,57.
 "Russia","Volgograd","Nikolajevsk",16044,50.02,45.43,8.
 "Russia","Ryazan","Shilovo",16024,54.32,40.88,97.
-"Russia","Kemerovo","NovyyGorodok",15993,54.3,86.2833,"Missing[""NotAvailable""]"
+"Russia","Kemerovo","NovyyGorodok",15993,54.3,86.2833,"null"
 "Russia","Kaluga","Sukhinichi",15989,54.1,35.34,2.2e2
 "Russia","Chechnya","TsotsinYurt",15970,43.24,46.,1.4e2
 "Russia","Novosibirsk","Koltsovo",15938,54.92,83.25,1.9e2
@@ -967,11 +967,11 @@
 "Russia","Novgorod","Chudovo",14730,59.13,31.66,32.
 "Russia","Rostov","Tsimlyansk",14727,47.65,42.1,81.
 "Russia","AltaiRepublic","Belokurikha",14727,51.99,84.99,3.3e2
-"Russia","Orenburg","Akbulak",14719,51.0058,55.6194,"Missing[""NotAvailable""]"
+"Russia","Orenburg","Akbulak",14719,51.0058,55.6194,"null"
 "Russia","Irkutsk","Svirsk",14712,53.09,103.33,4.4e2
 "Russia","Rostov","Chaltyr",14689,47.29,39.5,18.
 "Russia","Rostov","Kuleshovka",14668,47.07,39.56,6.
-"Russia","MoskovskayaOblast","Peresvet",14654,56.4167,38.1833,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Peresvet",14654,56.4167,38.1833,"null"
 "Russia","Chelyabinsk","Novosineglazovskiy",14620,55.03,61.38,2.5e2
 "Russia","Krasnoyarsk","Kuragino",14620,53.9,92.67,2.8e2
 "Russia","Krasnodar","Krylovskaya",14605,46.32,39.97,27.
@@ -1310,7 +1310,7 @@
 "Russia","MariEl","Sovetskiy",10561,56.76,48.480000000000004,1.5e2
 "Russia","Buryatia","Onokhoy",10561,51.92,108.03,5.3e2
 "Russia","KabardinoBalkaria","Zayukovo",10559,43.62,43.33,7.7e2
-"Russia","Zabaykalsky","Gornyy",10559,62.0958,126.702,"Missing[""NotAvailable""]"
+"Russia","Zabaykalsky","Gornyy",10559,62.0958,126.702,"null"
 "Russia","Dagestan","Tarki",10554,42.94,47.49,3.5e2
 "Russia","Novosibirsk","Krasnozerskoye",10542,54.,79.24,1.4e2
 "Russia","NizhnyNovgorod","Volodarsk",10510,56.230000000000004,43.19,75.
@@ -1404,7 +1404,7 @@
 "Russia","Smolensk","Dorogobuzh",9966,54.93,33.29,2.1e2
 "Russia","MoskovskayaOblast","Pervomayskiy",9964,55.52,37.22,1.6e2
 "Russia","Tver","ZapadnayaDvina",9962,56.26,32.08,1.9e2
-"Russia","KhantyMansi","Solnechnyy",9954,50.583333333,137.033333333,"Missing[""NotAvailable""]"
+"Russia","KhantyMansi","Solnechnyy",9954,50.583333333,137.033333333,"null"
 "Russia","Yakutia","Vilyuysk",9949,63.76,121.62,1.2e2
 "Russia","Tyumen","Bogandinskiy",9930,56.9,65.88,74.
 "Russia","Sverdlovsk","Svobodnyy",9920,58.03,60.370000000000005,2.3e2
@@ -1534,7 +1534,7 @@
 "Russia","Khakasia","Cheryomushki",9114,52.84,91.39,4.5e2
 "Russia","MariEl","Sernur",9113,56.93,49.15,1.6e2
 "Russia","YamaloNenets","Purpe",9099,64.48,76.69,49.
-"Russia","Primorski","Mikhaylovka",9097,50.0667,43.2333,"Missing[""NotAvailable""]"
+"Russia","Primorski","Mikhaylovka",9097,50.0667,43.2333,"null"
 "Russia","Mordovia","Lukhovka",9084,54.15,45.230000000000004,1.7e2
 "Russia","Krasnodar","Gostagaevskaya",9078,45.02,37.5,57.
 "Russia","Dagestan","Pervomayskoye",9073,43.92,46.71,-12.
@@ -1639,7 +1639,7 @@
 "Russia","Sverdlovsk","Lobva",8403,59.19,60.49,89.
 "Russia","Bashkortostan","Mrakovo",8394,52.72,56.620000000000005,2.4e2
 "Russia","Chelyabinsk","Mezhozyornyy",8385,54.15,59.370000000000005,5.2e2
-"Russia","KhantyMansi","Vysokiy",8372,44.7856,40.9106,"Missing[""NotAvailable""]"
+"Russia","KhantyMansi","Vysokiy",8372,44.7856,40.9106,"null"
 "Russia","Primorski","Tavrichanka",8352,43.34,131.86,12.
 "Russia","Komi","TroitskoPechorsk",8330,62.7,56.2,1.e2
 "Russia","Ryazan","SpasskRyazanskiy",8317,54.410000000000004,40.38,1.1e2
@@ -1685,7 +1685,7 @@
 "Russia","Zabaykalsky","Priargunsk",8111,50.35,119.10000000000001,5.1e2
 "Russia","Vologda","Kirillov",8108,59.870000000000005,38.38,1.3e2
 "Russia","Primorski","Dunay",8106,42.88,132.34,30.
-"Russia","Dagestan","Semender",8092,42.9883,47.4036,"Missing[""NotAvailable""]"
+"Russia","Dagestan","Semender",8092,42.9883,47.4036,"null"
 "Russia","Ivanovo","Lezhnyovo",8088,56.78,40.89,1.1e2
 "Russia","Samara","Koshki",8086,54.2,50.47,68.
 "Russia","Sakhalin","Aniva",8085,46.72,142.53,0
@@ -2108,7 +2108,7 @@
 "Russia","Samara","Smyshlyayevka",6390,53.25,50.4,36.
 "Russia","Omsk","Novovarshavka",6385,54.18,74.7,79.
 "Russia","Bashkortostan","Bizhbulyak",6385,53.72,54.27,3.2e2
-"Russia","MoskovskayaOblast","Novosinkovo",6385,56.376,37.3284,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Novosinkovo",6385,56.376,37.3284,"null"
 "Russia","Ryazan","Sarai",6384,53.72,40.99,1.2e2
 "Russia","Khakasia","Tashtyp",6379,52.79,89.9,4.5e2
 "Russia","Astrakhan","KrasnyyeBarrikady",6370,46.21,47.85,-24.
@@ -2254,14 +2254,14 @@
 "Russia","Tula","Gritsovskiy",5877,54.13,38.18,1.8e2
 "Russia","Sverdlovsk","Bilimbay",5875,56.96,59.81,2.9e2
 "Russia","Bashkortostan","Zilair",5872,52.230000000000004,57.44,4.8e2
-"Russia","Tula","Arsenyevo",5871,53.74,36.6542,"Missing[""NotAvailable""]"
+"Russia","Tula","Arsenyevo",5871,53.74,36.6542,"null"
 "Russia","KabardinoBalkaria","Karagach",5870,43.81,43.78,2.7e2
 "Russia","Omsk","Pavlogradka",5869,54.2,73.55,1.2e2
 "Russia","Stavropol","Staromaryevka",5869,45.1,42.25,2.5e2
 "Russia","Krasnodar","Novomalorossiyskaya",5867,45.63,39.9,39.
 "Russia","Kurgan","Lesnikovo",5864,55.28,65.32000000000001,86.
 "Russia","Voronezh","Kolodeznyy",5857,51.33,39.18,86.
-"Russia","Primorski","Novyy",5855,48.5923,131.783,"Missing[""NotAvailable""]"
+"Russia","Primorski","Novyy",5855,48.5923,131.783,"null"
 "Russia","Krasnodar","Shirochanka",5853,46.660000000000004,38.33,8.
 "Russia","Tyumen","Kazanskoye",5851,55.64,69.24,87.
 "Russia","Buryatia","Kurumkan",5848,54.300000000000004,110.3,4.9e2
@@ -2291,7 +2291,7 @@
 "Russia","Bashkortostan","Sterlibashevo",5786,53.47,55.25,3.e2
 "Russia","Chelyabinsk","Magnitka",5784,55.35,59.7,3.7e2
 "Russia","Udmurtia","Sigayevo",5780,56.42,53.78,77.
-"Russia","Leningrad","Telmana",5778,59.7222,30.6133,"Missing[""NotAvailable""]"
+"Russia","Leningrad","Telmana",5778,59.7222,30.6133,"null"
 "Russia","Stavropol","Edissiya",5775,44.050000000000004,44.54,1.5e2
 "Russia","Dagestan","ShamkhalTermen",5774,43.04,47.31,25.
 "Russia","Kalmykia","TsaganAman",5769,47.57,46.72,-14.
@@ -2356,7 +2356,7 @@
 "Russia","Kalmykia","Priyutnoye",5632,46.1,43.51,27.
 "Russia","Chelyabinsk","Berdyaush",5631,55.160000000000004,59.14,3.9e2
 "Russia","Kaluga","PolotnyanyyZavod",5628,54.72,35.97,1.6e2
-"Russia","Udmurtia","Novyy",5626,48.5923,131.783,"Missing[""NotAvailable""]"
+"Russia","Udmurtia","Novyy",5626,48.5923,131.783,"null"
 "Russia","Voronezh","Davydovka",5625,51.160000000000004,39.43,96.
 "Russia","Novosibirsk","VerkhTula",5625,54.89,82.78,1.2e2
 "Russia","Volgograd","Gumrak",5623,48.79,44.37,1.4e2
@@ -2412,7 +2412,7 @@
 "Russia","Kaliningrad","Yantarnyy",5529,54.870000000000005,19.94,20.
 "Russia","Karelia","Loukhi",5528,66.08,33.04,95.
 "Russia","KhantyMansi","Barsovo",5528,61.17,73.17,42.
-"Russia","Leningrad","NovyySvet",5525,59.5583,30.1972,"Missing[""NotAvailable""]"
+"Russia","Leningrad","NovyySvet",5525,59.5583,30.1972,"null"
 "Russia","Udmurtia","Selty",5523,57.31,52.14,1.5e2
 "Russia","Krasnodar","Mingrelskaya",5522,45.01,38.34,6.
 "Russia","Pskov","Gdov",5521,58.74,27.810000000000002,37.
@@ -2422,7 +2422,7 @@
 "Russia","Perm","Sars",5509,56.56,57.13,3.e2
 "Russia","Chechnya","EngelYurt",5508,43.33,46.36,47.
 "Russia","Sverdlovsk","Novoutkinsk",5507,56.99,59.550000000000004,2.8e2
-"Russia","MoskovskayaOblast","Voskresenskoye",5503,59.475,30.1261,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Voskresenskoye",5503,59.475,30.1261,"null"
 "Russia","Krasnodar","Kislyakovskaya",5501,46.44,39.67,22.
 "Russia","Omsk","KrasnyyYar",5501,55.24,72.94,66.
 "Russia","NizhnyNovgorod","Mukhtolovo",5498,55.46,43.2,1.6e2
@@ -2450,7 +2450,7 @@
 "Russia","Leningrad","Primorsk",5458,60.370000000000005,28.6,0
 "Russia","MoskovskayaOblast","Skoropuskovskiy",5453,56.370000000000005,38.17,2.e2
 "Russia","Chechnya","Alkhazurovo",5452,43.06,45.65,4.1e2
-"Russia","Penza","Prigorodnoye",5452,46.6275,142.903,"Missing[""NotAvailable""]"
+"Russia","Penza","Prigorodnoye",5452,46.6275,142.903,"null"
 "Russia","Primorski","VladimiroAleksandrovskoye",5444,42.89,133.08,30.
 "Russia","AltaiRepublic","Sovetskoye",5441,52.300000000000004,85.42,1.9e2
 "Russia","Bryansk","Zlynka",5441,52.43,31.740000000000002,1.5e2
@@ -2465,7 +2465,7 @@
 "Russia","Volgograd","Chernyshkovskiy",5413,48.42,42.22,70.
 "Russia","AltaiRepublic","Onguday",5406,50.75,86.15,8.2e2
 "Russia","Samara","Krasnoarmeyskoye",5403,52.71,50.03,57.
-"Russia","Arkhangelsk","Severoonezhsk",5398,62.5917,39.8478,"Missing[""NotAvailable""]"
+"Russia","Arkhangelsk","Severoonezhsk",5398,62.5917,39.8478,"null"
 "Russia","Samara","Krotovka",5398,53.300000000000004,51.17,39.
 "Russia","Dagestan","Bavtugay",5398,43.17,46.84,95.
 "Russia","MoskovskayaOblast","Lotoshino",5397,56.230000000000004,35.64,1.6e2
@@ -2550,11 +2550,11 @@
 "Russia","Rostov","Nikolayevka",5220,47.31,38.84,16.
 "Russia","Stavropol","Arkhangelskoye",5217,44.61,44.09,1.1e2
 "Russia","Dagestan","Manas",5216,42.74,47.7,38.
-"Russia","MoskovskayaOblast","Obolensk",5215,54.975,37.2194,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Obolensk",5215,54.975,37.2194,"null"
 "Russia","Kirov","Leninskoye",5214,58.31,47.09,1.5e2
 "Russia","Novosibirsk","Chik",5214,55.02,82.45,1.e2
 "Russia","JewishRepublic","Amurzet",5213,47.7,131.1,66.
-"Russia","Amur","Svobodnyy18",5213,49.0667,142.033,"Missing[""NotAvailable""]"
+"Russia","Amur","Svobodnyy18",5213,49.0667,142.033,"null"
 "Russia","Lipetsk","Stanovoye",5211,52.77,38.36,2.1e2
 "Russia","Buryatia","Vydrino",5211,51.49,104.85000000000001,4.6e2
 "Russia","Penza","Makhalino",5210,53.09,46.22,2.3e2
@@ -2654,7 +2654,7 @@
 "Russia","Tula","Shvartsevskiy",5034,54.1,37.99,2.2e2
 "Russia","Chechnya","Goragorskiy",5034,43.5,45.08,4.1e2
 "Russia","Rostov","Bokovskaya",5032,49.230000000000004,41.83,94.
-"Russia","Bashkortostan","Alkino2",5030,55.0894,58.0785,"Missing[""NotAvailable""]"
+"Russia","Bashkortostan","Alkino2",5030,55.0894,58.0785,"null"
 "Russia","Leningrad","Agalatovo",5028,60.22,30.3,83.
 "Russia","Chechnya","Pervomayskaya",5026,43.4,45.53,1.7e2
 "Russia","Tomsk","Podgornoye",5024,57.79,82.65,89.
@@ -2702,7 +2702,7 @@
 "Russia","Kamchatka","UstKamchatsk",4939,56.230000000000004,162.46,-3.
 "Russia","AltaiRepublic","Shebalino",4939,51.29,85.68,8.9e2
 "Russia","Chechnya","ZakanYurt",4939,43.26,45.42,1.7e2
-"Russia","KhantyMansi","Talinka",4939,61.5475,66.4492,"Missing[""NotAvailable""]"
+"Russia","KhantyMansi","Talinka",4939,61.5475,66.4492,"null"
 "Russia","AltaiRepublic","Togul",4937,53.480000000000004,85.92,2.2e2
 "Russia","Kalmykia","BolshoyTsaryn",4936,47.85,45.42,4.
 "Russia","Dagestan","Khamamatyurt",4935,43.61,46.5,3.
@@ -2794,7 +2794,7 @@
 "Russia","Penza","Zasechnoye",4733,53.1,45.08,1.8e2
 "Russia","Sverdlovsk","Zaykovo",4731,57.56,62.77,74.
 "Russia","Rostov","Aleksandrovka",4731,46.78,38.99,16.
-"Russia","Vologda","Fedotovo",4730,59.1972,39.165,"Missing[""NotAvailable""]"
+"Russia","Vologda","Fedotovo",4730,59.1972,39.165,"null"
 "Russia","Sverdlovsk","Is",4729,58.79,59.72,1.8e2
 "Russia","Krasnodar","Kiyevskoye",4727,45.03,37.88,24.
 "Russia","Kalmykia","Yashalta",4723,46.34,42.27,37.
@@ -2963,7 +2963,7 @@
 "Russia","KabardinoBalkaria","Urukh",4360,43.29,44.03,4.7e2
 "Russia","Voronezh","NizhniyKislyay",4359,50.86,40.17,1.e2
 "Russia","Kaliningrad","Znamensk",4359,54.61,21.27,17.
-"Russia","Perm","Markovskiy",4358,53.8536,55.9906,"Missing[""NotAvailable""]"
+"Russia","Perm","Markovskiy",4358,53.8536,55.9906,"null"
 "Russia","Bashkortostan","Starosubkhangulovo",4351,53.1,57.43,3.2e2
 "Russia","Khakasia","VershinaTeya",4347,53.26,89.56,9.3e2
 "Russia","Bashkortostan","Mikhaylovka",4344,54.800000000000004,55.9,87.
@@ -3027,7 +3027,7 @@
 "Russia","Amur","Urusha",4250,54.050000000000004,122.9,4.6e2
 "Russia","Stavropol","Borgustanskaya",4250,44.06,42.53,9.5e2
 "Russia","Kemerovo","Chistogorskiy",4240,53.980000000000004,87.33,1.8e2
-"Russia","Primorski","Roshchino",4240,60.2472,29.6111,"Missing[""NotAvailable""]"
+"Russia","Primorski","Roshchino",4240,60.2472,29.6111,"null"
 "Russia","Irkutsk","Mama",4239,58.31,112.9,2.3e2
 "Russia","Kurgan","Glyadyanskoye",4237,54.910000000000004,65.09,76.
 "Russia","Dagestan","Rutul",4237,41.53,47.43,1.4e3
@@ -3158,7 +3158,7 @@
 "Russia","Yaroslavl","KrasnyyeTkachi",4019,57.5,39.75,98.
 "Russia","Dagestan","AdilYangiyurt",4017,43.56,46.59,4.
 "Russia","Tambov","Bokino",4016,52.64,41.47,1.1e2
-"Russia","Saratov","Dubki",4016,54.4,20.7333,"Missing[""NotAvailable""]"
+"Russia","Saratov","Dubki",4016,54.4,20.7333,"null"
 "Russia","KabardinoBalkaria","Aleksandrovskaya",4014,43.480000000000004,43.65,4.6e2
 "Russia","Dagestan","Burtunay",4014,42.99,46.63,1.1e3
 "Russia","Primorski","Volchanets",4013,42.910000000000004,132.75,-2.
@@ -3234,7 +3234,7 @@
 "Russia","Dagestan","Kuli",3893,42.02,47.25,2.e3
 "Russia","Krasnoyarsk","Koshurnikovo",3892,54.17,93.3,5.5e2
 "Russia","Rostov","Krasnoyarskaya2",3889,47.49,42.19,50.
-"Russia","Tula","Rassvet",3889,54.4708,54.7611,"Missing[""NotAvailable""]"
+"Russia","Tula","Rassvet",3889,54.4708,54.7611,"null"
 "Russia","KabardinoBalkaria","Kotlyarevskaya",3887,43.58,44.06,2.3e2
 "Russia","AltaiRepublic","Berezovka",3885,53.4,83.95,1.5e2
 "Russia","Kalmykia","Komsomolskiy",3878,45.33,46.04,-2.
@@ -3422,7 +3422,7 @@
 "Russia","Tambov","Satinka",3599,52.370000000000005,41.67,1.7e2
 "Russia","Dagestan","Gimry",3599,42.76,46.84,4.6e2
 "Russia","Dagestan","Sabnova",3598,42.06,48.25,4.e2
-"Russia","Yakutia","Svetlyy",3598,54.6833,20.1333,"Missing[""NotAvailable""]"
+"Russia","Yakutia","Svetlyy",3598,54.6833,20.1333,"null"
 "Russia","Komi","Voyvozh",3596,62.9,54.97,2.1e2
 "Russia","Rostov","Peshkovo",3596,47.02,39.39,4.
 "Russia","Amur","Ovsyanka",3588,53.58,126.88000000000001,2.1e2
@@ -3489,7 +3489,7 @@
 "Russia","Krasnodar","Volnoye",3495,44.95,41.21,1.8e2
 "Russia","Stavropol","Kangly",3494,44.25,43.03,3.2e2
 "Russia","Novgorod","Kholm",3493,59.27,32.85,73.
-"Russia","Tatarstan","NovyyBiklyan",3493,55.6244,52.1753,"Missing[""NotAvailable""]"
+"Russia","Tatarstan","NovyyBiklyan",3493,55.6244,52.1753,"null"
 "Russia","Belgorod","Gorodishche",3492,51.15,38.14,1.8e2
 "Russia","Bryansk","Sven",3491,53.18,34.550000000000004,1.8e2
 "Russia","Perm","Bershet",3489,57.730000000000004,56.370000000000005,2.e2
@@ -3591,7 +3591,7 @@
 "Russia","NizhnyNovgorod","Ulyanovo",3361,55.050000000000004,44.4,1.6e2
 "Russia","Stavropol","KaraTyube",3359,44.63,45.44,21.
 "Russia","Komi","Aykino",3358,62.22,50.,72.
-"Russia","Stavropol","Pervomayskiy",3357,54.6728,54.7947,"Missing[""NotAvailable""]"
+"Russia","Stavropol","Pervomayskiy",3357,54.6728,54.7947,"null"
 "Russia","Saratov","Storozhovka",3355,51.65,45.800000000000004,90.
 "Russia","Tula","Brusyanskiy",3355,53.980000000000004,38.08,2.1e2
 "Russia","Saratov","KrasnyyOktyabr",3354,51.550000000000004,45.7,2.6e2
@@ -3624,7 +3624,7 @@
 "Russia","MoskovskayaOblast","Shaturtorf",3312,55.57,39.42,1.3e2
 "Russia","Astrakhan","Marfino",3312,46.410000000000004,48.72,-25.
 "Russia","AltaiRepublic","Yeltsovka",3311,51.92,82.41,1.8e2
-"Russia","KarachaiCherkessRepublic","KrasnyyVostok",3311,48.6453,132.971,"Missing[""NotAvailable""]"
+"Russia","KarachaiCherkessRepublic","KrasnyyVostok",3311,48.6453,132.971,"null"
 "Russia","Novosibirsk","Novolugovoye",3308,54.97,83.12,1.e2
 "Russia","Belgorod","Ilovka",3308,50.71,38.64,1.9e2
 "Russia","Voronezh","Zabolotovka",3308,50.28,39.32,88.
@@ -3660,7 +3660,7 @@
 "Russia","NizhnyNovgorod","Savasleyka",3261,55.45,42.31,1.e2
 "Russia","Sverdlovsk","Ufimskiy",3260,56.71,58.050000000000004,2.3e2
 "Russia","Voronezh","Pereleshinskiy",3257,51.7,40.18,1.7e2
-"Russia","Khakasia","Prigorsk",3256,53.911,91.2619,"Missing[""NotAvailable""]"
+"Russia","Khakasia","Prigorsk",3256,53.911,91.2619,"null"
 "Russia","Leningrad","Nurma",3256,59.550000000000004,31.02,58.
 "Russia","Arkhangelsk","Katunino",3255,64.38,40.62,12.
 "Russia","Chechnya","Belgatoy",3254,43.18,45.83,2.e2
@@ -3710,7 +3710,7 @@
 "Russia","Buryatia","GusinoyeOzero",3208,51.11,106.26,5.5e2
 "Russia","Arkhangelsk","Privodino",3208,61.08,46.5,94.
 "Russia","Krasnoyarsk","Khatanga",3205,71.97,102.5,62.
-"Russia","Vladimir","Lesnoy",3205,58.6333,59.7833,"Missing[""NotAvailable""]"
+"Russia","Vladimir","Lesnoy",3205,58.6333,59.7833,"null"
 "Russia","Krasnodar","Kubanskiy",3200,45.93,40.57,95.
 "Russia","Kaluga","Peremyshl",3199,54.26,36.160000000000004,1.3e2
 "Russia","Smolensk","Stodolishche",3198,54.18,32.65,1.9e2
@@ -3738,7 +3738,7 @@
 "Russia","Tula","Priupskiy",3175,53.89,37.78,2.3e2
 "Russia","Astrakhan","Solyanka",3173,46.38,48.,-24.
 "Russia","Ulyanovsk","Mirnyy",3171,54.370000000000005,48.75,75.
-"Russia","Buryatia","Zaozyornyy",3171,55.9667,94.7,"Missing[""NotAvailable""]"
+"Russia","Buryatia","Zaozyornyy",3171,55.9667,94.7,"null"
 "Russia","Krasnodar","Prikubanskiy",3168,45.,41.2,2.2e2
 "Russia","MoskovskayaOblast","KrasnyyTkach",3166,55.47,39.08,1.3e2
 "Russia","Irkutsk","Shumskiy",3161,54.83,99.13,4.2e2
@@ -3820,7 +3820,7 @@
 "Russia","Stavropol","Staropavlovskaya",3081,43.85,43.63,3.3e2
 "Russia","Ivanovo","Lukh",3080,57.01,42.26,1.e2
 "Russia","Samara","Osinki",3080,52.85,49.51,95.
-"Russia","Yaroslavl","LesnayaPolyana",3080,57.6868,39.8943,"Missing[""NotAvailable""]"
+"Russia","Yaroslavl","LesnayaPolyana",3080,57.6868,39.8943,"null"
 "Russia","Rostov","Almaznyy",3080,48.03,40.050000000000004,2.2e2
 "Russia","Ivanovo","Novopistsovo",3079,57.32,41.84,1.e2
 "Russia","Bashkortostan","Kabakovo",3078,54.54,56.14,96.
@@ -3855,7 +3855,7 @@
 "Russia","Chechnya","IshkhoyYurt",3051,43.21,46.39,2.4e2
 "Russia","MoskovskayaOblast","ImeniPervoyeMaya",3049,55.77,39.2,1.2e2
 "Russia","AltaiRepublic","Srostki",3049,52.43,85.72,2.1e2
-"Russia","Leningrad","Villozi",3049,59.6969,30.1075,"Missing[""NotAvailable""]"
+"Russia","Leningrad","Villozi",3049,59.6969,30.1075,"null"
 "Russia","Tula","Zhdankovskiy",3046,53.75,38.18,2.3e2
 "Russia","KhabarovskKrai","Lososina",3044,49.02,140.35,16.
 "Russia","Sverdlovsk","Shchelkun",3044,56.31,60.95,2.6e2
@@ -3883,7 +3883,7 @@
 "Russia","Primorski","Ivanovka",3011,43.97,132.48,1.2e2
 "Russia","AltaiRepublic","VerkhneKatunskoye",3009,52.47,85.45,1.9e2
 "Russia","Perm","Chaykovskaya",3007,58.13,55.53,1.2e2
-"Russia","MoskovskayaOblast","Mir",3006,62.5294,113.994,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Mir",3006,62.5294,113.994,"null"
 "Russia","Sverdlovsk","Druzhinino",3005,56.79,59.51,3.5e2
 "Russia","NizhnyNovgorod","ImeniStepanaRazina",3000,54.9,44.300000000000004,1.5e2
 "Russia","Ivanovo","Bogorodskoye",2998,57.050000000000004,41.02,1.2e2
@@ -3923,7 +3923,7 @@
 "Russia","Ivanovo","Kitovo",2934,56.870000000000005,41.300000000000004,1.2e2
 "Russia","NorthOssetia","Mizur",2934,42.86,44.08,1.1e3
 "Russia","Zabaykalsky","Smolenka",2933,52.15,113.47,6.6e2
-"Russia","Irkutsk","SosnovyyBor",2929,59.9,29.1,"Missing[""NotAvailable""]"
+"Russia","Irkutsk","SosnovyyBor",2929,59.9,29.1,"null"
 "Russia","Leningrad","Vazhiny",2926,60.96,34.02,10.
 "Russia","Komi","Koygorodok",2924,60.44,51.,1.4e2
 "Russia","Chuvashia","Morgaushi",2922,55.97,46.77,1.4e2
@@ -3931,13 +3931,13 @@
 "Russia","KhantyMansi","Agirish",2920,61.92,63.02,1.5e2
 "Russia","Kirov","Pinyug",2915,60.25,47.78,1.5e2
 "Russia","Chelyabinsk","Suleya",2911,55.17,58.78,3.7e2
-"Russia","Zabaykalsky","Step",2906,51.0167,115.433,"Missing[""NotAvailable""]"
+"Russia","Zabaykalsky","Step",2906,51.0167,115.433,"null"
 "Russia","Rostov","Uglerodovskiy",2902,48.14,40.07,2.3e2
 "Russia","Sverdlovsk","Kalinovo",2901,57.13,60.15,2.9e2
 "Russia","MoskovskayaOblast","Zhavoronki",2899,55.65,37.1,2.e2
 "Russia","Tula","Komsomolskiy",2899,53.910000000000004,38.29,2.3e2
 "Russia","Dagestan","Mekhelta",2898,42.800000000000004,46.49,1.6e3
-"Russia","Zabaykalsky","Novoorlovsk",2897,51.07,114.75,"Missing[""NotAvailable""]"
+"Russia","Zabaykalsky","Novoorlovsk",2897,51.07,114.75,"null"
 "Russia","Sverdlovsk","NeyvoRudyanka",2895,57.34,60.14,2.5e2
 "Russia","Ulyanovsk","ImeniLenina",2889,53.57,46.97,1.9e2
 "Russia","NizhnyNovgorod","Yuganets",2887,56.25,43.24,87.
@@ -3977,7 +3977,7 @@
 "Russia","Penza","Zolotaryovka",2785,53.08,45.32,1.9e2
 "Russia","MoskovskayaOblast","Kerva",2784,55.620000000000005,39.58,1.2e2
 "Russia","Kurgan","Chastoozerye",2779,55.57,67.88,1.3e2
-"Russia","Sakhalin","Vostok",2779,48.977996,142.919079,"Missing[""NotAvailable""]"
+"Russia","Sakhalin","Vostok",2779,48.977996,142.919079,"null"
 "Russia","Ivanovo","Pistsovo",2775,57.18,40.53,1.4e2
 "Russia","Bryansk","Ardon",2775,52.74,32.27,1.7e2
 "Russia","KhantyMansi","Kuminskiy",2769,58.67,66.57000000000001,62.
@@ -4122,7 +4122,7 @@
 "Russia","Saratov","Khvatovka",2301,52.35,46.57,2.6e2
 "Russia","MoskovskayaOblast","Baksheyevo",2296,55.71,39.88,1.2e2
 "Russia","Rostov","Sovetskaya",2293,49.01,42.12,80.
-"Russia","Krasnoyarsk","Kholmogorskoye",2291,55.4672,89.1389,"Missing[""NotAvailable""]"
+"Russia","Krasnoyarsk","Kholmogorskoye",2291,55.4672,89.1389,"null"
 "Russia","Penza","Sura",2291,53.89,45.77,1.3e2
 "Russia","Kamchatka","Oktyabrskiy",2285,52.660000000000004,156.24,4.
 "Russia","Udmurtia","Pudem",2278,58.300000000000004,52.17,1.4e2
@@ -4234,7 +4234,7 @@
 "Russia","Ivanovo","VerkhniyLandekh",1948,56.84,42.6,1.1e2
 "Russia","Bryansk","Lopandino",1938,52.46,34.81,1.9e2
 "Russia","Orenburg","Kargala",1937,51.980000000000004,55.19,1.6e2
-"Russia","MoskovskayaOblast","Voskhod",1935,55.9742,36.4572,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Voskhod",1935,55.9742,36.4572,"null"
 "Russia","AltaiRepublic","Choya",1930,52.02,86.55,3.1e2
 "Russia","Kaluga","Seredeyskiy",1927,54.050000000000004,35.230000000000004,2.2e2
 "Russia","NizhnyNovgorod","Pyra",1924,56.31,43.36,1.e2
@@ -4278,7 +4278,7 @@
 "Russia","Novgorod","BolshayaVishera",1811,58.92,32.08,50.
 "Russia","Bashkortostan","Tukan",1808,53.84,57.45,5.6e2
 "Russia","Irkutsk","Kropotkin",1805,58.51,115.32000000000001,7.7e2
-"Russia","Pskov","SosnovyyBor",1802,59.9,29.1,"Missing[""NotAvailable""]"
+"Russia","Pskov","SosnovyyBor",1802,59.9,29.1,"null"
 "Russia","Arkhangelsk","Solginskiy",1802,61.050000000000004,41.34,1.2e2
 "Russia","Orel","KrasnayaZarya",1802,52.77,37.7,2.5e2
 "Russia","Murmansk","Afrikanda",1800,67.44,32.78,1.5e2
@@ -4291,7 +4291,7 @@
 "Russia","Yakutia","Almaznyy",1772,62.45,114.33,2.6e2
 "Russia","Irkutsk","Listvyanka",1769,51.86,104.86,4.5e2
 "Russia","Kirov","Torfyanoy",1762,58.49,49.2,1.1e2
-"Russia","MoskovskayaOblast","Nemchinovka2",1754,55.7159,37.3752,"Missing[""NotAvailable""]"
+"Russia","MoskovskayaOblast","Nemchinovka2",1754,55.7159,37.3752,"null"
 "Russia","Perm","Shirokovskiy",1748,58.85,57.76,2.2e2
 "Russia","Tula","Podlesnyy",1745,53.95,38.27,2.3e2
 "Russia","Sverdlovsk","Basyanovskiy",1744,58.31,60.74,1.8e2
@@ -4315,7 +4315,7 @@
 "Russia","Irkutsk","Balakhninskiy",1675,58.01,114.28,3.8e2
 "Russia","Vologda","Chebsara",1672,59.2,38.83,1.7e2
 "Russia","Kostroma","Kosmynino",1670,57.58,40.76,1.3e2
-"Russia","Rostov","Krasnyy",1669,44.5392,41.156,"Missing[""NotAvailable""]"
+"Russia","Rostov","Krasnyy",1669,44.5392,41.156,"null"
 "Russia","Yakutia","BatagayAlyta",1666,67.8,130.41,4.9e2
 "Russia","NizhnyNovgorod","Frolishchi",1659,56.42,42.65,1.e2
 "Russia","Kamchatka","Kozyryovsk",1658,56.07,159.87,30.
@@ -4327,7 +4327,7 @@
 "Russia","Vladimir","Novki",1639,56.370000000000005,41.1,90.
 "Russia","Zabaykalsky","VershinoShakhtaminskiy",1633,51.300000000000004,117.9,9.9e2
 "Russia","Sakhalin","Mgachi",1632,51.050000000000004,142.27,60.
-"Russia","Kamchatka","Vulkannyy",1629,53.0958,158.35,"Missing[""NotAvailable""]"
+"Russia","Kamchatka","Vulkannyy",1629,53.0958,158.35,"null"
 "Russia","Kaluga","Myatlevo",1627,54.89,35.68,2.e2
 "Russia","KhabarovskKrai","Dormidontovka",1622,47.800000000000004,134.9,49.
 "Russia","Zabaykalsky","Klyuchevskiy",1621,53.550000000000004,119.43,8.1e2
@@ -4348,7 +4348,7 @@
 "Russia","Kirov","ChernayaKholunitsa",1539,58.85,51.71,1.9e2
 "Russia","Smolensk","Yekimovichi",1534,54.120000000000005,33.3,1.9e2
 "Russia","Perm","Komarikhinskiy",1533,58.09,57.120000000000005,1.8e2
-"Russia","Bryansk","Mirnyy",1527,62.7603,40.3353,"Missing[""NotAvailable""]"
+"Russia","Bryansk","Mirnyy",1527,62.7603,40.3353,"null"
 "Russia","SaintPetersburg","Tyarlevo",1523,59.7,30.45,42.
 "Russia","Amur","Shirokiy",1521,49.75,129.5,2.e2
 "Russia","Sverdlovsk","Karpushikha",1497,57.5,59.9,2.9e2
@@ -4382,7 +4382,7 @@
 "Russia","Komi","Parma",1351,66.,57.7,64.
 "Russia","Ivanovo","Zarechnyy",1335,57.47,42.29,84.
 "Russia","Tver","Selishche",1328,56.89,33.26,2.2e2
-"Russia","Irkutsk","Radishchev",1323,57.22,103.485,"Missing[""NotAvailable""]"
+"Russia","Irkutsk","Radishchev",1323,57.22,103.485,"null"
 "Russia","Sakhalin","Tungor",1322,53.38,142.96,15.
 "Russia","NizhnyNovgorod","Sitniki",1321,56.44,44.06,79.
 "Russia","Magadan","Kholodnyy",1314,62.72,147.95000000000002,6.2e2
@@ -4462,11 +4462,11 @@
 "Russia","Karelia","Sheltozero",1012,61.370000000000005,35.37,40.
 "Russia","Komi","Synya",1011,65.38,58.02,90.
 "Russia","Perm","Biser",1006,58.42,58.88,3.2e2
-"Russia","Irkutsk","Yangel",998,57.0811,103.648,"Missing[""NotAvailable""]"
+"Russia","Irkutsk","Yangel",998,57.0811,103.648,"null"
 "Russia","Leningrad","Svirstroy",997,60.81,33.72,21.
 "Russia","Ivanovo","Kholuy",996,56.58,41.87,80.
 "Russia","Zabaykalsky","Tupik",996,54.43,119.93,6.3e2
-"Russia","YamaloNenets","Zapolyarnyy",989,69.4167,30.8,"Missing[""NotAvailable""]"
+"Russia","YamaloNenets","Zapolyarnyy",989,69.4167,30.8,"null"
 "Russia","Murmansk","Zasheyek",983,67.4,32.5,1.3e2
 "Russia","Sverdlovsk","Vorontsovka",983,59.660000000000004,60.24,1.9e2
 "Russia","Zabaykalsky","Davenda",978,53.550000000000004,119.3,7.5e2
@@ -4477,7 +4477,7 @@
 "Russia","Sakhalin","Vostochnyy",936,48.28,142.62,16.
 "Russia","Kemerovo","Berikulskiy",932,55.53,88.14,4.1e2
 "Russia","Bashkortostan","Novomikhaylovskiy",930,53.9,54.13,3.2e2
-"Russia","KhantyMansi","Sentyabrskiy",920,60.493056,72.196389,"Missing[""NotAvailable""]"
+"Russia","KhantyMansi","Sentyabrskiy",920,60.493056,72.196389,"null"
 "Russia","Arkhangelsk","Solovetskiy",919,65.03,35.72,15.
 "Russia","Ivanovo","Mugreyevskiy",917,56.6,42.35,98.
 "Russia","Sverdlovsk","Zyryanovskiy",896,57.730000000000004,61.7,1.8e2
@@ -4563,7 +4563,7 @@
 "Russia","Magadan","Atka",560,60.83,151.8,8.9e2
 "Russia","Sverdlovsk","Tavatuy",559,57.15,60.21,2.7e2
 "Russia","Chukotka","Komsomolskiy",556,69.17,172.70000000000002,2.5e2
-"Russia","SaintPetersburg","Smolyachkovo",556,60.18,29.4758,"Missing[""NotAvailable""]"
+"Russia","SaintPetersburg","Smolyachkovo",556,60.18,29.4758,"null"
 "Russia","Tula","Pesochenskiy",547,54.17,36.12,1.7e2
 "Russia","Magadan","Shirokiy",543,63.120000000000005,147.95000000000002,7.3e2
 "Russia","Perm","Nagornskiy",540,58.77,57.54,3.1e2
@@ -4600,7 +4600,7 @@
 "Russia","Perm","Lunyovka",354,59.15,57.68,2.9e2
 "Russia","Krasnoyarsk","Chibizhek",348,54.4,93.60000000000001,5.3e2
 "Russia","Magadan","Bolshevik",344,62.730000000000004,147.5,7.1e2
-"Russia","Ingushetia","Magas",337,43.1667,44.8167,"Missing[""NotAvailable""]"
+"Russia","Ingushetia","Magas",337,43.1667,44.8167,"null"
 "Russia","Yakutia","EseKhayya",325,67.52,134.67000000000002,2.6e2
 "Russia","Chukotka","Shakhtyorskiy",306,64.78,177.6,10.
 "Russia","Yakutia","AllakhYun",296,61.13,138.05,5.7e2

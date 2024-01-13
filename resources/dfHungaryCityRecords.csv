@@ -842,10 +842,10 @@
 "Hungary","HajduBihar","Hortobagy",1470,47.58,21.17,86.
 "Hungary","Csongrad","Pusztaszer",1365,46.550000000000004,19.98,83.
 "Hungary","Baranya","Keszu",1248,46.01667,18.18333,1.4e2
-"Hungary","BorsodAbaujZemplen","Szalonna",1163,48.45093,20.74045,"Missing[""NotAvailable""]"
+"Hungary","BorsodAbaujZemplen","Szalonna",1163,48.45093,20.74045,"null"
 "Hungary","GyorMosonSopron","Mihalyi",1020,47.52,17.1,1.2e2
 "Hungary","Baranya","Godre",859,46.29,17.96,2.2e2
-"Hungary","Vas","Magyarlak",776,46.95076,16.34379,"Missing[""NotAvailable""]"
+"Hungary","Vas","Magyarlak",776,46.95076,16.34379,"null"
 "Hungary","Fejer","Vereb",762,47.31386,18.62959,1.8e2
 "Hungary","Veszprem","Band",648,47.12,17.8,3.e2
-"Hungary","Bekes","Kisdombegyhaz",467,46.36667,21.1,"Missing[""NotAvailable""]"
+"Hungary","Bekes","Kisdombegyhaz",467,46.36667,21.1,"null"
