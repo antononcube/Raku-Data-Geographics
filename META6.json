@@ -14,6 +14,7 @@
     "Data::Geographics": "lib/Data/Geographics.rakumod"
   },
   "resources": [
+    "aCountryRecords.json",
     "dfBotswanaCityRecords.csv",
     "dfBulgariaCityRecords.csv",
     "dfCanadaCityRecords.csv",
