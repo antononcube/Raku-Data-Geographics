@@ -4,15 +4,15 @@
 "Botswana","Kweneng","Molepolole",67598,-24.400000000000002,25.51,1.1e3
 "Botswana","Kweneng","Mogoditshane",57637,-24.63,25.87,1.e3
 "Botswana","Okavango","Maun",55784,-19.990000000000002,23.42,9.4e2
-"Botswana","SelibePhikwe","SelibePhikwe",49724,-21.98,27.830000000000002,8.7e2
+"Botswana","SelibePhikwe","Selibe Phikwe",49724,-21.98,27.830000000000002,8.7e2
 "Botswana","SerowePalapye","Serowe",47447,-22.39,26.71,1.1e3
 "Botswana","Ngwaketse","Kanye",45196,-24.97,25.34,1.4e3
 "Botswana","Kgatleng","Mochudi",44815,-24.37,26.150000000000002,9.7e2
 "Botswana","Mahalapye","Mahalapye",41316,-23.1,26.82,1.e3
 "Botswana","SerowePalapye","Palapye",36211,-22.56,27.13,9.2e2
-"Botswana","SouthEast","Tlokweng",35982,-24.53,25.97,1.e3
+"Botswana","South‐East","Tlokweng",35982,-24.53,25.97,1.e3
 "Botswana","Lobatse","Lobatse",29082,-25.22,25.68,1.2e3
-"Botswana","SouthEast","Ramotswa",27760,-24.830000000000002,25.84,1.e3
+"Botswana","South‐East","Ramotswa",27760,-24.830000000000002,25.84,1.e3
 "Botswana","Boteti","Letlhakane",20841,-21.42,25.59,9.9e2
 "Botswana","Tutume","Tonota",20007,-21.44,27.48,9.5e2
 "Botswana","Ngwaketse","Moshupa",19780,-24.77,25.41,1.1e3
@@ -28,19 +28,19 @@
 "Botswana","KgalagadiSouth","Tsabong",8325,-26.01,22.400000000000002,9.7e2
 "Botswana","Mahalapye","Shoshong",8298,-22.95,26.48,1.2e3
 "Botswana","Chobe","Kasane",7638,-17.81,25.150000000000002,9.5e2
-"Botswana","SouthEast","Otse",7636,-25.02,25.73,1.4e3
+"Botswana","South‐East","Otse",7636,-25.02,25.73,1.4e3
 "Botswana","Okavango","Gumare",7387,-19.22,22.2,9.7e2
 "Botswana","SerowePalapye","Lerala",6681,-22.7803,27.7769,"null"
 "Botswana","Ngwaketse","Molapowabojang",6349,-25.,25.1667,"null"
 "Botswana","Kweneng","Letlhakeng",6032,-24.07,25.03,1.1e3
 "Botswana","Kgatleng","Bokaa",5765,-24.45,26.02,9.6e2
-"Botswana","NorthEast","Masunga",5696,-20.67,27.42,1.2e3
+"Botswana","North‐East","Masunga",5696,-20.67,27.42,1.2e3
 "Botswana","Ngamiland","Shakawe",5651,-18.36,21.84,1.e3
 "Botswana","Kweneng","Metsimotlhaba",5544,-24.55,25.8,9.9e2
 "Botswana","Tutume","Maitengwe",5450,-19.98,26.43,9.4e2
 "Botswana","Kweneng","Mmankgodi",5370,-24.7239,25.6389,"null"
 "Botswana","Ngwaketse","Lotlhakane",5236,-25.0861,25.4583,"null"
-"Botswana","NorthEast","Tati",5234,-21.35,27.45,9.9e2
+"Botswana","North‐East","Tati",5234,-21.35,27.45,9.9e2
 "Botswana","Bobonong","Tsienyane",5222,-21.02,24.330000000000002,9.3e2
 "Botswana","Ngwaketse","Mmathethe",5153,-25.3153,25.2694,"null"
 "Botswana","Kweneng","Lentsweletau",4992,-24.38,25.85,1.1e3
@@ -55,7 +55,7 @@
 "Botswana","Bobonong","Sefophe",4114,-22.18,27.97,8.4e2
 "Botswana","Tutume","Borolong",3949,-21.1033,27.3361,"null"
 "Botswana","Tutume","Nkange",3831,-20.2989,27.1356,"null"
-"Botswana","Kweneng","MogoditshaneBotswanaDefenceForce",3787,-24.68,25.810000000000002,1.1e3
+"Botswana","Kweneng","Mogoditshane Botswana Defence Force",3787,-24.68,25.810000000000002,1.1e3
 "Botswana","Kgatleng","Oodi",3728,-24.5731,26.0339,"null"
 "Botswana","Mahalapye","Ramokgonami",3681,-22.93,27.47,9.7e2
 "Botswana","Kweneng","Kumakwane",3477,-24.6553,25.6992,"null"
@@ -64,12 +64,12 @@
 "Botswana","Bobonong","Mopipi",3301,-21.18,24.88,9.1e2
 "Botswana","Sowa","Sowa",3141,-20.05,26.2,9.3e2
 "Botswana","Ngwaketse","Pitsane",3101,-25.47,25.580000000000002,1.3e3
-"Botswana","Ngwaketse","GoodHope",3075,-25.4671,25.4392,"null"
+"Botswana","Ngwaketse","Good Hope",3075,-25.4671,25.4392,"null"
 "Botswana","Tutume","Sebina",3030,-20.87,27.25,1.1e3
 "Botswana","Mahalapye","Chadibe",2986,-22.98,27.55,9.8e2
-"Botswana","Okavango","Etsha6",2915,-19.1169,22.2953,"null"
+"Botswana","Okavango","Etsha 6",2915,-19.1169,22.2953,"null"
 "Botswana","SerowePalapye","Radisele",2897,-22.82,27.,1.1e3
-"Botswana","SouthEast","RamotswaStationTaung",2859,-24.830000000000002,25.87,1.e3
+"Botswana","South‐East","Ramotswa Station‐Taung",2859,-24.830000000000002,25.87,1.e3
 "Botswana","Ngwaketse","Digawana",2803,-25.347,25.5629,"null"
 "Botswana","Ngwaketse","Ranaka",2771,-24.9108,25.4711,"null"
 "Botswana","SerowePalapye","Moiyabana",2768,-22.43,26.42,1.2e3
@@ -80,27 +80,27 @@
 "Botswana","Kgatleng","Modipane",2626,-24.6203,26.1231,"null"
 "Botswana","Kgatleng","Malolwane",2567,-24.5481,26.4728,"null"
 "Botswana","Kgatleng","Rasesa",2461,-24.3751,26.077,"null"
-"Botswana","Tutume","ShasheMooke",2458,-21.400000000000002,27.45,9.7e2
+"Botswana","Tutume","Shashe Mooke",2458,-21.400000000000002,27.45,9.7e2
 "Botswana","SerowePalapye","Thabala",2414,-22.4891,26.4291,"null"
 "Botswana","SerowePalapye","Serule",2397,-21.95,27.3,9.5e2
 "Botswana","Mahalapye","Mookane",2397,-23.73,26.63,9.8e2
 "Botswana","SerowePalapye","Ratholo",2377,-22.68,27.580000000000002,9.7e2
 "Botswana","Mahalapye","Kalamare",2339,-22.87,26.5,1.3e3
 "Botswana","SerowePalapye","Lesenepole",2301,-22.5856,27.5675,"null"
-"Botswana","SouthEast","Mogobane",2300,-24.9842,25.6969,"null"
+"Botswana","South‐East","Mogobane",2300,-24.9842,25.6969,"null"
 "Botswana","Kweneng","Sojwe",2277,-23.4386,25.7622,"null"
 "Botswana","Kgatleng","Mmathubudukwane",2221,-24.6,26.43,9.3e2
 "Botswana","SerowePalapye","Paje",2207,-22.2653,26.7918,"null"
 "Botswana","Kweneng","Takatokwane",2207,-24.03,24.17,1.1e3
-"Botswana","Okavango","Etsha13",2190,-19.1272,22.2931,"null"
+"Botswana","Okavango","Etsha 13",2190,-19.1272,22.2931,"null"
 "Botswana","KgalagadiSouth","Werda",2149,-25.27,23.28,1.e3
 "Botswana","SerowePalapye","Mogorosi",2149,-22.4387,26.5653,"null"
 "Botswana","Mahalapye","Machaneng",2139,-23.18,27.5,8.4e2
 "Botswana","Ngwaketse","Khakhea",2133,-24.650000000000002,23.5,1.1e3
-"Botswana","Ghanzi","CharlesHill",2055,-22.2764,20.0928,"null"
+"Botswana","Ghanzi","Charles Hill",2055,-22.2764,20.0928,"null"
 "Botswana","Tutume","Dukwi",2037,-20.580000000000002,26.42,9.6e2
 "Botswana","Kweneng","Khudumelapye",2035,-23.88,24.75,1.1e3
-"Botswana","NorthEast","Nlakhwane",2016,-20.5157,27.519,"null"
+"Botswana","North‐East","Nlakhwane",2016,-20.5157,27.519,"null"
 "Botswana","Bobonong","Mathathane",1987,-22.27,28.75,6.8e2
 "Botswana","Kweneng","Ditshegwane",1956,-24.1667,24.9617,"null"
 "Botswana","KgalagadiNorth","Lehututu",1942,-23.97,21.87,1.1e3
@@ -110,19 +110,19 @@
 "Botswana","Kweneng","Salajwe",1888,-23.6958,24.7175,"null"
 "Botswana","SerowePalapye","Mabeleapudi",1882,-22.28,26.68,1.2e3
 "Botswana","Mahalapye","Mosolotshane",1874,-22.9386,26.3786,"null"
-"Botswana","Kgatleng","Artisia",1871,-24.05,26.330000000000002,9.4e2
+"Botswana","Kgatleng","Mosomane",1871,-24.05,26.330000000000002,9.4e2
 "Botswana","Tutume","Nswazwi",1865,-20.658,27.2313,"null"
 "Botswana","Tutume","Nshakashokwe",1841,-20.7897,27.1842,"null"
 "Botswana","Ngwaketse","Ntlhantlhe",1826,-24.9632,25.594,"null"
 "Botswana","Mahalapye","Mokobeng",1822,-22.98,27.580000000000002,1.e3
 "Botswana","Okavango","Seronga",1819,-18.8172,22.4182,"null"
-"Botswana","NorthEast","Moroka",1817,-20.5336,27.6505,"null"
+"Botswana","North‐East","Moroka",1817,-20.5336,27.6505,"null"
 "Botswana","Chobe","Kazungula",1815,-17.8039,25.2411,"null"
 "Botswana","Tutume","Mosetse",1780,-20.75,26.650000000000002,1.e3
 "Botswana","Okavango","Nokaneng",1763,-19.67,22.27,9.6e2
-"Botswana","NorthEast","Tsamaya",1762,-20.87,27.57,1.1e3
+"Botswana","North‐East","Tsamaya",1762,-20.87,27.57,1.1e3
 "Botswana","Bobonong","Kobojango",1756,-21.82,28.78,7.4e2
-"Botswana","NorthEast","Matshelagabedi",1750,-21.1216,27.6648,"null"
+"Botswana","North‐East","Matshelagabedi",1750,-21.1216,27.6648,"null"
 "Botswana","SerowePalapye","Majwaneng",1736,-22.7892,27.3214,"null"
 "Botswana","Kgatleng","Sikwane",1718,-24.6342,26.3946,"null"
 "Botswana","Bobonong","Xhumo",1713,-21.1721,24.6106,"null"
@@ -133,30 +133,30 @@
 "Botswana","Ngwaketse","Mabule",1665,-25.78,24.6,1.1e3
 "Botswana","Mahalapye","Makwate",1660,-23.28,27.3,8.9e2
 "Botswana","KgalagadiSouth","Makopong",1645,-25.3314,22.9786,"null"
-"Botswana","Ngwaketse","PitshaneMolopo",1644,-25.7351,25.101,"null"
+"Botswana","Ngwaketse","Pitshane Molopo",1644,-25.7351,25.101,"null"
 "Botswana","Kweneng","Motokwe",1638,-24.05,23.3,"null"
 "Botswana","SerowePalapye","Mmashoro",1631,-21.8669,26.4412,"null"
 "Botswana","Tutume","Dagwi",1620,-20.2272,27.2265,"null"
 "Botswana","Ngamiland","Sehithwa",1614,-20.47,22.72,9.3e2
-"Botswana","NorthEast","Mapoka",1602,-20.538,27.589,"null"
+"Botswana","North‐East","Mapoka",1602,-20.538,27.589,"null"
 "Botswana","Ghanzi","Ncojane",1591,-23.1339,20.295,"null"
-"Botswana","NorthEast","Tshesebe",1580,-20.75,27.57,1.2e3
+"Botswana","North‐East","Tshesebe",1580,-20.75,27.57,1.2e3
 "Botswana","Kweneng","Nkoyaphiri",1578,-24.63,25.830000000000002,1.1e3
 "Botswana","SerowePalapye","Tshimoyapula",1551,-22.1151,26.9269,"null"
 "Botswana","Ghanzi","Tsootsha",1545,-22.1167,20.55,"null"
-"Botswana","NorthEast","Ramokgwebana",1538,-21.57,28.,8.6e2
+"Botswana","North‐East","Ramokgwebana",1538,-21.57,28.,8.6e2
 "Botswana","Ngwaketse","Sese",1535,-24.654,24.8061,"null"
-"Botswana","NorthEast","Zwenshambe",1527,-20.5059,27.4359,"null"
+"Botswana","North‐East","Zwenshambe",1527,-20.5059,27.4359,"null"
 "Botswana","SerowePalapye","Mogapinyana",1515,-22.37,27.6,9.2e2
 "Botswana","SerowePalapye","Gootau",1502,-22.7268,27.4226,"null"
-"Botswana","NorthEast","Matsiloje",1488,-21.37,27.87,1.1e3
-"Botswana","NorthEast","Senyawe",1488,-20.7817,27.6892,"null"
+"Botswana","North‐East","Matsiloje",1488,-21.37,27.87,1.1e3
+"Botswana","North‐East","Senyawe",1488,-20.7817,27.6892,"null"
 "Botswana","KgalagadiNorth","Lokgwabe",1473,-24.17,21.830000000000002,1.1e3
 "Botswana","Bobonong","Moletemane",1472,-22.5102,28.2423,"null"
 "Botswana","Okavango","Nxamasere",1472,-18.5794,21.9922,"null"
 "Botswana","Mahalapye","Moshopha",1470,-22.9507,27.3747,"null"
-"Botswana","NorthEast","Themashanga",1460,-20.8007,27.5513,"null"
-"Botswana","Okavango","MohemboWest",1440,-18.3,21.8,1.e3
+"Botswana","North‐East","Themashanga",1460,-20.8007,27.5513,"null"
+"Botswana","Okavango","Mohembo West",1440,-18.3,21.8,1.e3
 "Botswana","Ngwaketse","Kgomokasitwa",1424,-25.0925,25.6214,"null"
 "Botswana","SerowePalapye","Kgagodi",1420,-22.3799,27.5652,"null"
 "Botswana","Kweneng","Sesung",1419,-24.1022,24.9175,"null"
@@ -172,14 +172,14 @@
 "Botswana","Mahalapye","Pilikwe",1375,-22.78,27.23,9.5e2
 "Botswana","Bobonong","Motlhabaneng",1374,-22.178,28.8722,"null"
 "Botswana","SerowePalapye","Topisi",1363,-22.17,27.23,1.1e3
-"Botswana","NorthEast","Siviya",1336,-20.8564,27.6744,"null"
+"Botswana","North‐East","Siviya",1336,-20.8564,27.6744,"null"
 "Botswana","Kgatleng","Matebeleng",1279,-24.5419,26.0397,"null"
 "Botswana","Kgatleng","Pilane",1277,-24.45,26.13,9.6e2
 "Botswana","Ngamiland","Matlapana",1277,-19.9103,23.5306,"null"
 "Botswana","Mahalapye","Maape",1275,-22.77,27.330000000000002,9.3e2
 "Botswana","SerowePalapye","Motshegaletau",1262,-22.5628,26.4111,"null"
 "Botswana","Mahalapye","Kodibeleng",1259,-23.1222,26.195,"null"
-"Botswana","Ngwaketse","LotlhakaneWest",1249,-25.0861,25.4586,"null"
+"Botswana","Ngwaketse","Lotlhakane West",1249,-25.0861,25.4586,"null"
 "Botswana","Ngwaketse","Selokolela",1245,-24.9491,25.111,"null"
 "Botswana","Boteti","Makalamabedi",1240,-20.3236,23.8878,"null"
 "Botswana","Bobonong","Semolale",1233,-21.8677,28.8244,"null"
@@ -188,11 +188,11 @@
 "Botswana","Tutume","Natale",1197,-21.1028,27.2256,"null"
 "Botswana","Bobonong","Mosu",1184,-21.212,26.022,"null"
 "Botswana","Ngwaketse","Lekgolobotlo",1182,-24.9092,25.625,"null"
-"Botswana","NorthEast","Mulambakwena",1177,-20.5714,27.4604,"null"
+"Botswana","North‐East","Mulambakwena",1177,-20.5714,27.4604,"null"
 "Botswana","Ngwaketse","Magotlhawane",1174,-23.57,27.,8.5e2
 "Botswana","KgalagadiSouth","Omaweneno",1170,-25.7617,22.5692,"null"
-"Botswana","NorthEast","Makaleng",1166,-20.900000000000002,27.28,1.1e3
-"Botswana","Kweneng","MogoditshaneLands",1165,-24.6269,25.8656,"null"
+"Botswana","North‐East","Makaleng",1166,-20.900000000000002,27.28,1.1e3
+"Botswana","Kweneng","Mogoditshane Lands",1165,-24.6269,25.8656,"null"
 "Botswana","Okavango","Xakao",1163,-18.3078,21.8858,"null"
 "Botswana","SerowePalapye","Matlhakola",1159,-22.6,27.37,1.e3
 "Botswana","Ngwaketse","Rakhuna",1143,-25.57,25.580000000000002,1.3e3
@@ -202,10 +202,10 @@
 "Botswana","SerowePalapye","Gojwane",1100,-21.797,27.2858,"null"
 "Botswana","Mahalapye","Dinokwe",1099,-23.400000000000002,26.68,9.5e2
 "Botswana","KgalagadiSouth","Phepheng",1094,-25.4742,22.8556,"null"
-"Botswana","NorthEast","Jackalas1",1092,-21.5655,28.0091,"null"
+"Botswana","North‐East","Jackalas 1",1092,-21.5655,28.0091,"null"
 "Botswana","Ngwaketse","Sekoma",1083,-24.400000000000002,23.88,1.1e3
 "Botswana","Kweneng","Moshaweng",1079,-24.1789,25.4886,"null"
-"Botswana","NorthEast","Mosojane",1076,-20.6228,27.5193,"null"
+"Botswana","North‐East","Mosojane",1076,-20.6228,27.5193,"null"
 "Botswana","SerowePalapye","Dimajwe",1075,-21.6789,26.7564,"null"
 "Botswana","Mahalapye","Mmaphashalala",1072,-23.6475,26.8236,"null"
 "Botswana","SerowePalapye","Tamasane",1070,-22.32,27.37,1.e3
@@ -215,13 +215,13 @@
 "Botswana","Ghanzi","Dekar",1043,-21.53,21.93,1.1e3
 "Botswana","Ngamiland","Shorobe",1043,-19.7619,23.6769,"null"
 "Botswana","Kweneng","Malwelwe",1030,-24.0504,25.272,"null"
-"Botswana","Ghanzi","NewXade",1028,-22.1226,22.4169,"null"
+"Botswana","Ghanzi","New Xade",1028,-22.1226,22.4169,"null"
 "Botswana","Ngwaketse","Maokane",1024,-24.97,24.7,1.2e3
-"Botswana","NorthEast","Mbalambi",1023,-20.4946,27.3782,"null"
+"Botswana","North‐East","Mbalambi",1023,-20.4946,27.3782,"null"
 "Botswana","Ngwaketse","Magoriapitse",1015,-25.4433,25.2896,"null"
 "Botswana","Mahalapye","Otse",1015,-25.0333,25.7386,"null"
 "Botswana","Kweneng","Botlhapatlou",1013,-24.03,25.53,1.2e3
-"Botswana","NorthEast","Ditladi",1013,-21.461,27.545,"null"
+"Botswana","North‐East","Ditladi",1013,-21.461,27.545,"null"
 "Botswana","Ngwaketse","Mokatako",1013,-25.7549,25.2206,"null"
 "Botswana","Tutume","Makobo",1006,-23.48,27.12,8.5e2
 "Botswana","Tutume","Changate",1005,-20.3248,27.2291,"null"
@@ -234,7 +234,7 @@
 "Botswana","Ngwaketse","Metlobo",969,-25.4225,25.1139,"null"
 "Botswana","Ngwaketse","Gathwane",966,-25.3919,25.4994,"null"
 "Botswana","Bobonong","Tshokwe",966,-21.7441,28.1167,"null"
-"Botswana","NorthEast","Kalakamati",962,-20.63,27.3,1.2e3
+"Botswana","North‐East","Kalakamati",962,-20.63,27.3,1.2e3
 "Botswana","Chobe","Kachikau",961,-18.17,24.47,9.7e2
 "Botswana","Kweneng","Gamodubu",954,-24.5019,25.7018,"null"
 "Botswana","Okavango","Kauxwhi",952,-18.2781,21.8403,"null"
@@ -243,10 +243,10 @@
 "Botswana","Ngwaketse","Kokong",931,-24.42,23.07,1.1e3
 "Botswana","Bobonong","Mmatshumo",931,-21.1456,25.66,"null"
 "Botswana","SerowePalapye","Malatswai",922,-21.8581,26.0867,"null"
-"Botswana","NorthEast","Masukwane",921,-20.5934,27.5497,"null"
+"Botswana","North‐East","Masukwane",921,-20.5934,27.5497,"null"
 "Botswana","Ngamiland","Boro",919,-19.92,23.5,9.4e2
 "Botswana","Kweneng","Maboane",900,-24.0961,24.5319,"null"
-"Botswana","NorthEast","Gulubane",895,-20.9199,27.3087,"null"
+"Botswana","North‐East","Gulubane",895,-20.9199,27.3087,"null"
 "Botswana","Mahalapye","Shakwe",893,-23.150000000000002,27.12,9.7e2
 "Botswana","Bobonong","Mmadikola",892,-21.04,24.4664,"null"
 "Botswana","Kgatleng","Mabalane",882,-24.6267,26.3803,"null"
@@ -260,14 +260,14 @@
 "Botswana","Bobonong","Kedia",854,-21.42,24.6,9.3e2
 "Botswana","Kweneng","Boatlaname",853,-23.6,25.830000000000002,1.e3
 "Botswana","Kweneng","Mmanoko",845,-24.4744,25.6763,"null"
-"Botswana","Tutume","NshakashokweLands",835,-20.7897,27.1842,"null"
+"Botswana","Tutume","Nshakashokwe Lands",835,-20.7897,27.1842,"null"
 "Botswana","Ngwaketse","Mokgomane",829,-25.5544,25.2432,"null"
 "Botswana","KgalagadiSouth","Khuis",827,-26.67,21.830000000000002,9.3e2
-"Botswana","NorthEast","ShasheBridge",827,-21.3707,27.449,"null"
-"Botswana","Kgatleng","OliphantsDrift",822,-24.1811,26.8483,"null"
+"Botswana","North‐East","Shashe Bridge",827,-21.3707,27.449,"null"
+"Botswana","Kgatleng","Oliphants Drift",822,-24.1811,26.8483,"null"
 "Botswana","Ngwaketse","Kgoro",820,-25.4145,25.47,"null"
 "Botswana","Ghanzi","Kule",819,-23.05,20.07,1.3e3
-"Botswana","Tutume","MafongoLands",819,-20.8684,27.2301,"null"
+"Botswana","Tutume","Mafongo Lands",819,-20.8684,27.2301,"null"
 "Botswana","Bobonong","Damochojena",818,-21.9003,27.4635,"null"
 "Botswana","Tutume","Kutamogree",817,-20.7022,26.7681,"null"
 "Botswana","Ngwaketse","Hebron",813,-25.6867,25.3869,"null"
@@ -275,16 +275,16 @@
 "Botswana","Ngwaketse","Tlhareseleele",804,-25.48,25.63,1.4e3
 "Botswana","SerowePalapye","Malaka",798,-22.52,27.42,8.8e2
 "Botswana","Chobe","Satau",796,-18.0125,24.4061,"null"
-"Botswana","Kweneng","MmopaneLands",793,-24.57,25.87,"null"
+"Botswana","Kweneng","Mmopane Lands",793,-24.57,25.87,"null"
 "Botswana","Bobonong","Mabolwe",791,-21.8212,28.82,"null"
-"Botswana","NorthEast","Sekakangwe",781,-20.5373,27.319,"null"
-"Botswana","SouthEast","Tawana",781,-24.6464,25.9119,"null"
+"Botswana","North‐East","Sekakangwe",781,-20.5373,27.319,"null"
+"Botswana","South‐East","Tawana",781,-24.6464,25.9119,"null"
 "Botswana","Ngwaketse","Mmakgori",778,-25.8117,24.8009,"null"
 "Botswana","Okavango","Ikoga",775,-18.8661,22.285,"null"
 "Botswana","Ngwaketse","Gasita",772,-25.0405,25.2363,"null"
 "Botswana","Ngwaketse","Lorwana",760,-25.3167,25.4667,"null"
 "Botswana","Ngwaketse","Segwagwa",756,-25.1894,25.1732,"null"
-"Botswana","NorthEast","Gambule",745,-20.5783,27.597,"null"
+"Botswana","North‐East","Gambule",745,-20.5783,27.597,"null"
 "Botswana","Kweneng","Lephepe",742,-23.36,25.85,1.e3
 "Botswana","Ngwaketse","Mokhomba",739,-24.7667,24.6,"null"
 "Botswana","Ngwaketse","Gopong",738,-25.3167,25.4667,"null"
@@ -298,13 +298,13 @@
 "Botswana","Ngwaketse","Ditlharapa",715,-25.7066,25.2926,"null"
 "Botswana","Mahalapye","Borotsi",714,-21.0576,27.2108,"null"
 "Botswana","Mahalapye","Matlhako",709,-22.7206,27.3089,"null"
-"Botswana","SerowePalapye","MakoroSiding",706,-22.73,27.080000000000002,9.8e2
+"Botswana","SerowePalapye","Makoro Siding",706,-22.73,27.080000000000002,9.8e2
 "Botswana","Ngwaketse","Tshidilamolomo",705,-25.8167,24.6833,"null"
-"Botswana","NorthEast","Letsholathebe",701,-20.6801,27.4385,"null"
+"Botswana","North‐East","Letsholathebe",701,-20.6801,27.4385,"null"
 "Botswana","Bobonong","Toromoja",699,-21.0669,24.5706,"null"
-"Botswana","NorthEast","Sechele",695,-20.7591,27.3607,"null"
+"Botswana","North‐East","Sechele",695,-20.7591,27.3607,"null"
 "Botswana","Okavango","Eretsha",683,-18.7774,22.686,"null"
-"Botswana","Okavango","Etsha1",681,-19.1359,22.2877,"null"
+"Botswana","Okavango","Etsha 1",681,-19.1359,22.2877,"null"
 "Botswana","Kweneng","Kubung",681,-24.633,25.3087,"null"
 "Botswana","Tutume","Sepako",672,-19.8653,26.4939,"null"
 "Botswana","Kweneng","Mahetlwe",655,-24.2397,25.6764,"null"
@@ -312,21 +312,21 @@
 "Botswana","KgalagadiSouth","Kolonkwane",648,-26.6436,21.9961,"null"
 "Botswana","Kweneng","Mmokolodi",647,-24.7,25.8,1.1e3
 "Botswana","Ngwaketse","Sedibeng",646,-25.3832,25.0808,"null"
-"Botswana","Okavango","MohemboEast",643,-18.3,21.8,"null"
+"Botswana","Okavango","Mohembo East",643,-18.3,21.8,"null"
 "Botswana","Ngwaketse","Morwamosu",641,-24.0794,23.0692,"null"
 "Botswana","SerowePalapye","Gamabuo",640,-22.6278,26.3574,"null"
 "Botswana","Kweneng","Ngware",635,-23.8656,25.3683,"null"
 "Botswana","Ngwaketse","Mogojogojo",632,-25.3167,25.4667,"null"
-"Botswana","Tutume","SebinaLands",628,-20.8367,27.22,"null"
+"Botswana","Tutume","Sebina Lands",628,-20.8367,27.22,"null"
 "Botswana","Ngwaketse","Sekhutlane",626,-25.6061,24.5323,"null"
 "Botswana","Tutume","Jamataka",621,-21.0847,27.1426,"null"
-"Botswana","Ghanzi","WestHanahai",619,-22.1025,21.7725,"null"
+"Botswana","Ghanzi","West Hanahai",619,-22.1025,21.7725,"null"
 "Botswana","Tutume","Maotakgang",616,-20.8928,27.0721,"null"
 "Botswana","Kweneng","Kaudwane",610,-23.385,24.6597,"null"
 "Botswana","Ngwaketse","Leporung",610,-25.7756,24.9237,"null"
-"Botswana","NorthEast","Kgari",604,-20.5834,27.6095,"null"
+"Botswana","North‐East","Kgari",604,-20.5834,27.6095,"null"
 "Botswana","Ngwaketse","Maruswa",599,-25.3167,25.4667,"null"
-"Botswana","Ghanzi","NewXanagas",597,-22.4314,20.655,"null"
+"Botswana","Ghanzi","New Xanagas",597,-22.4314,20.655,"null"
 "Botswana","Tutume","Mmeya",596,-21.0908,26.8236,"null"
 "Botswana","Mahalapye","Poloka",588,-23.5978,26.2851,"null"
 "Botswana","Ngwaketse","Phihitshwane",587,-25.0405,25.2363,"null"
@@ -334,8 +334,8 @@
 "Botswana","Ngamiland","Sexaxa",583,-19.7644,23.6735,"null"
 "Botswana","Ngwaketse","Tswaaneng",581,-25.5141,24.9833,"null"
 "Botswana","Tutume","Semitwe",575,-20.9379,27.0833,"null"
-"Botswana","NorthEast","Masingwaneng",570,-20.8483,27.3254,"null"
-"Botswana","NorthEast","Mambo",569,-20.7963,27.3339,"null"
+"Botswana","North‐East","Masingwaneng",570,-20.8483,27.3254,"null"
+"Botswana","North‐East","Mambo",569,-20.7963,27.3339,"null"
 "Botswana","Mahalapye","Bonwapitse",568,-23.02,26.67,1.1e3
 "Botswana","Ngwaketse","Gamajalela",568,-25.4019,25.4419,"null"
 "Botswana","KgalagadiSouth","Khwawa",567,-26.2808,21.3672,"null"
@@ -347,7 +347,7 @@
 "Botswana","Kgatleng","Ramonaka",561,-24.579,26.4655,"null"
 "Botswana","Ngwaketse","Seherelela",560,-24.4249,25.559,"null"
 "Botswana","Ngwaketse","Semane",559,-24.7555,24.3995,"null"
-"Botswana","Okavango","Etsha8",558,-19.1272,22.2931,"null"
+"Botswana","Okavango","Etsha 8",558,-19.1272,22.2931,"null"
 "Botswana","Ngamiland","Toteng",556,-20.38,22.95,9.3e2
 "Botswana","KgalagadiNorth","Inalegolo",552,-23.9508,22.975,"null"
 "Botswana","KgalagadiSouth","Gachibana",549,-26.7156,21.7708,"null"
@@ -357,8 +357,8 @@
 "Botswana","Bobonong","Lepokole",544,-21.7947,28.3494,"null"
 "Botswana","Ghanzi","Chobokwane",535,-22.1547,21.2139,"null"
 "Botswana","Mahalapye","Mokgenene",535,-23.5378,26.0261,"null"
-"Botswana","NorthEast","Butale",534,-20.7154,27.7051,"null"
-"Botswana","Ghanzi","GrooteLaagte",534,-21.3603,21.2114,"null"
+"Botswana","North‐East","Butale",534,-20.7154,27.7051,"null"
+"Botswana","Ghanzi","Groote Laagte",534,-21.3603,21.2114,"null"
 "Botswana","KgalagadiSouth","Maralaleng",534,-25.7944,22.6853,"null"
 "Botswana","Okavango","Gane",532,-18.400000000000002,21.900000000000002,9.9e2
 "Botswana","KgalagadiNorth","Zutswa",530,-24.1353,21.2472,"null"
@@ -366,7 +366,7 @@
 "Botswana","Ngwaketse","Tsonyane",526,-24.8634,24.8304,"null"
 "Botswana","Kweneng","Sorilatholo",523,-23.6367,24.9653,"null"
 "Botswana","Ngamiland","Bodibeng",515,-20.6272,22.6031,"null"
-"Botswana","Ghanzi","KukeQuarantineCamp",515,-21.7018,21.6467,"null"
+"Botswana","Ghanzi","Kuke Quarantine Camp",515,-21.7018,21.6467,"null"
 "Botswana","Bobonong","Khwee",514,-21.945,25.4464,"null"
 "Botswana","Kweneng","Mantshwabisi",514,-24.1814,25.2744,"null"
 "Botswana","KgalagadiNorth","Ukwi",512,-23.45,20.45,1.2e3
@@ -388,18 +388,18 @@
 "Botswana","Tutume","Mmanxotae",474,-20.1169,26.3892,"null"
 "Botswana","Ngamiland","Samodupi",473,-19.9833,23.4167,"null"
 "Botswana","Bobonong","Robelela",471,-21.5919,27.9809,"null"
-"Botswana","NorthEast","Matenge",469,-20.8531,27.2629,"null"
+"Botswana","North‐East","Matenge",469,-20.8531,27.2629,"null"
 "Botswana","Mahalapye","Moralane",465,-22.0748,27.6428,"null"
 "Botswana","SerowePalapye","Masama",464,-22.47,26.82,1.e3
 "Botswana","KgalagadiSouth","Khisa",464,-25.6619,22.8208,"null"
 "Botswana","Ngwaketse","Bethel",461,-25.0405,25.2363,"null"
 "Botswana","Kweneng","Kweneng",460,-23.8986,25.9564,"null"
-"Botswana","Tutume","MathangwaneLands",460,-21.,27.3333,"null"
+"Botswana","Tutume","Mathangwane Lands",460,-21.,27.3333,"null"
 "Botswana","Kweneng","Mamhiko",450,-24.4066,25.4951,"null"
 "Botswana","SerowePalapye","Majwanaadipitse",449,-22.1139,26.8833,"null"
-"Botswana","Ghanzi","EastHanahai",448,-22.1575,21.8894,"null"
+"Botswana","Ghanzi","East Hanahai",448,-22.1575,21.8894,"null"
 "Botswana","Chobe","Lesoma",447,-17.9058,25.2375,"null"
-"Botswana","NorthEast","Mowana",445,-22.1833,27.9667,"null"
+"Botswana","North‐East","Mowana",445,-22.1833,27.9667,"null"
 "Botswana","SerowePalapye","Diloro",443,-22.3511,27.5376,"null"
 "Botswana","Ghanzi","Qabo",443,-21.06,21.7286,"null"
 "Botswana","Mahalapye","Ngwapa",442,-23.0059,27.7486,"null"
@@ -407,11 +407,11 @@
 "Botswana","Kweneng","Tsetseng",438,-23.5236,23.0419,"null"
 "Botswana","SerowePalapye","Lechana",437,-22.1793,27.2503,"null"
 "Botswana","Okavango","Matswee",437,-18.7231,22.7386,"null"
-"Botswana","NorthEast","Rakops",437,-21.0298,24.4025,"null"
+"Botswana","North‐East","Rakops",437,-21.0298,24.4025,"null"
 "Botswana","Kweneng","Suping",436,-24.4066,25.4951,"null"
 "Botswana","Okavango","Tubu",435,-19.3565,22.2777,"null"
 "Botswana","Okavango","Xhauga",432,-18.4469,21.8943,"null"
-"Botswana","Ngamiland","KhwaiCamp",431,-19.7644,23.6735,"null"
+"Botswana","Ngamiland","Khwai Camp",431,-19.7644,23.6735,"null"
 "Botswana","Okavango","Kajaja",427,-18.6608,22.0787,"null"
 "Botswana","Ghanzi","Bere",426,-22.8211,21.875,"null"
 "Botswana","KgalagadiSouth","Maleshe",426,-25.8747,22.3475,"null"
@@ -427,11 +427,11 @@
 "Botswana","Ngwaketse","Logagane",409,-25.6112,25.3997,"null"
 "Botswana","Ngwaketse","Papatlo",409,-25.6467,25.503,"null"
 "Botswana","Ngamiland","Sankuyo",406,-19.4286,23.8744,"null"
-"Botswana","NorthEast","Gungwe",403,-20.4899,27.3811,"null"
+"Botswana","North‐East","Gungwe",403,-20.4899,27.3811,"null"
 "Botswana","Ngamiland","Legotlhwana",394,-20.3674,22.9546,"null"
 "Botswana","Ngwaketse","Motsentshe",393,-25.3718,25.3316,"null"
 "Botswana","SerowePalapye","Mogome",392,-22.7844,26.9,"null"
-"Botswana","Kgatleng","MalotwanaSiding",384,-24.295,26.1675,"null"
+"Botswana","Kgatleng","Malotwana Siding",384,-24.295,26.1675,"null"
 "Botswana","Okavango","Nxwee",379,-19.6667,22.2667,"null"
 "Botswana","KgalagadiSouth","Vaalhoek",379,-26.8889,20.7003,"null"
 "Botswana","Mahalapye","Mokoswane",378,-23.3,26.97,"null"
@@ -450,19 +450,19 @@
 "Botswana","Ghanzi","Makunda",366,-22.3825,20.1131,"null"
 "Botswana","Okavango","Nxaunxau",366,-18.9731,21.3017,"null"
 "Botswana","SerowePalapye","Maokwe",365,-22.6652,27.22,"null"
-"Botswana","SouthEast","MmokolodiFarm",365,-24.8717,25.8649,"null"
+"Botswana","South‐East","Mmokolodi Farm",365,-24.8717,25.8649,"null"
 "Botswana","Kweneng","Medie",364,-24.0671,25.8656,"null"
 "Botswana","Tutume","Mmapatse",362,-20.9855,26.5785,"null"
-"Botswana","NorthEast","Pobepobe",357,-21.3019,27.8837,"null"
+"Botswana","North‐East","Pobepobe",357,-21.3019,27.8837,"null"
 "Botswana","Ngamiland","Chuchubega",356,-19.9833,23.4167,"null"
 "Botswana","SerowePalapye","Mokgware",354,-22.7698,26.796,"null"
 "Botswana","Ngwaketse","Ngwatsau",354,-25.5455,25.5279,"null"
-"Botswana","Okavango","KapotoraLands",353,-18.2788,21.8361,"null"
+"Botswana","Okavango","Kapotora Lands",353,-18.2788,21.8361,"null"
 "Botswana","Ngamiland","Mawana",351,-19.9833,23.4167,"null"
-"Botswana","NorthEast","Toteng",351,-20.3833,22.95,"null"
+"Botswana","North‐East","Toteng",351,-20.3833,22.95,"null"
 "Botswana","Ngwaketse","Madingwana",350,-25.548,25.4357,"null"
 "Botswana","Kweneng","Morabane",348,-24.0958,25.0297,"null"
-"Botswana","Okavango","Etsha9",347,-19.1272,22.2931,"null"
+"Botswana","Okavango","Etsha 9",347,-19.1272,22.2931,"null"
 "Botswana","Bobonong","Nkgobotlwane",347,-21.95,27.6167,"null"
 "Botswana","Ngamiland","Nxharaga",346,-19.9833,23.4167,"null"
 "Botswana","Tutume","Hobona",344,-20.937,27.2605,"null"
@@ -475,8 +475,8 @@
 "Botswana","Okavango","Xurube",335,-19.3692,22.1625,"null"
 "Botswana","Ngamiland","Habu",332,-19.84,22.3847,"null"
 "Botswana","SerowePalapye","Setatse",332,-22.546,27.1251,"null"
-"Botswana","NorthEast","Mabudzane",331,-20.9068,27.6339,"null"
-"Botswana","NorthEast","Pole",331,-20.6097,27.5802,"null"
+"Botswana","North‐East","Mabudzane",331,-20.9068,27.6339,"null"
+"Botswana","North‐East","Pole",331,-20.6097,27.5802,"null"
 "Botswana","Kgatleng","Kgomodiatshaba",330,-23.6643,26.0741,"null"
 "Botswana","Kweneng","Losilakgokong",326,-24.5699,25.3359,"null"
 "Botswana","Ngwaketse","Tswanyaneng",326,-25.5141,24.9833,"null"
@@ -484,14 +484,14 @@
 "Botswana","Ghanzi","Kacgae",312,-22.8572,22.2075,"null"
 "Botswana","Okavango","Xaxa",310,-19.8828,21.0806,"null"
 "Botswana","Kweneng","Kotolaname",308,-24.4765,25.2778,"null"
-"Botswana","KgalagadiSouth","RapplesPan",305,-26.8306,20.8153,"null"
+"Botswana","KgalagadiSouth","Rapples Pan",305,-26.8306,20.8153,"null"
 "Botswana","Ngwaketse","Itholoke",297,-24.7854,23.4999,"null"
 "Botswana","Bobonong","Lentswelemoriti",282,-22.309,28.9065,"null"
 "Botswana","Ngwaketse","Marojane",276,-25.6965,25.3874,"null"
-"Botswana","NorthEast","Vukwi",274,-20.6009,27.3863,"null"
+"Botswana","North‐East","Vukwi",274,-20.6009,27.3863,"null"
 "Botswana","Ngamiland","Semboyo",269,-20.2794,22.4583,"null"
 "Botswana","Ngamiland","Ditshiping",260,-19.1905,23.0012,"null"
-"Botswana","NorthEast","Matopi",257,-21.4841,27.9378,"null"
+"Botswana","North‐East","Matopi",257,-21.4841,27.9378,"null"
 "Botswana","Ngamiland","Jao",256,-18.9167,22.55,"null"
 "Botswana","Ngwaketse","Musi",256,-25.65,25.1274,"null"
 "Botswana","Kgatleng","Dikgonye",234,-24.0983,26.0028,"null"
@@ -509,7 +509,7 @@
 "Botswana","KgalagadiNorth","Ncaang",198,-23.4514,21.2258,"null"
 "Botswana","KgalagadiNorth","Monong",194,-23.6656,21.5139,"null"
 "Botswana","Ngamiland","Daonara",191,-19.7659,23.4822,"null"
-"Botswana","NorthEast","Botalaote",189,-23.1041,26.8142,"null"
+"Botswana","North‐East","Botalaote",189,-23.1041,26.8142,"null"
 "Botswana","Ngamiland","Mababe",171,-19.1803,23.9969,"null"
 "Botswana","Ngwaketse","Kanaku",156,-24.3628,23.6914,"null"
 "Botswana","Okavango","Mokgacha",146,-23.4912,26.9787,"null"
@@ -522,4 +522,4 @@
 "Botswana","Ngamiland","Katamaga",73,-19.8692,23.4331,"null"
 "Botswana","Kgatleng","Khurutshe",35,-23.7344,26.1817,"null"
 "Botswana","SerowePalapye","Moeng",20,-22.68,27.62,1.e3
-"Botswana","Kweneng","Monwane2",6,-24.3164,25.2142,"null"
+"Botswana","Kweneng","Monwane",6,-24.3164,25.2142,"null"

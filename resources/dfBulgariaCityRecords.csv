@@ -1,262 +1,262 @@
 "Country","State","City","Population","Latitude","Longitude","Elevation"
-"Bulgaria","SofijaGrad","Sofia",1260120,42.69,23.31,566.
-"Bulgaria","Plovdiv","Plovdiv",346757,42.15,24.75,173.
+"Bulgaria","Sofia grad","Sofia",1260120,42.69,23.31,5.7e2
+"Bulgaria","Plovdiv","Plovdiv",346757,42.15,24.75,1.7e2
 "Bulgaria","Varna","Varna",335177,43.21,27.900000000000002,16.
 "Bulgaria","Burgas","Burgas",206371,42.51,27.47,30.
 "Bulgaria","Ruse","Ruse",158848,43.85,25.98,51.
-"Bulgaria","StaraZagora","StaraZagora",140710,42.42,25.63,197.
+"Bulgaria","Stara Zagora","Stara Zagora",140710,42.42,25.63,2.e2
 "Bulgaria","Pleven","Pleven",106954,43.42,24.62,98.
-"Bulgaria","Sliven","Sliven",91620,42.68,26.32,256.
-"Bulgaria","Dobric","Dobric",90375,43.58,27.830000000000002,199.
-"Bulgaria","Jambol","Jambol",81048,42.5,26.52,138.
-"Bulgaria","Sumen","Sumen",77709,43.28,26.93,229.
-"Bulgaria","Haskovo","Haskovo",76587,41.94,25.560000000000002,202.
-"Bulgaria","Pernik","Pernik",75191,42.61,23.03,697.
-"Bulgaria","Pazardzik","Pazardzik",71979,42.2,24.330000000000002,211.
-"Bulgaria","VelikoTarnovo","VelikoTarnovo",71150,43.09,25.63,307.
-"Bulgaria","Blagoevgrad","Blagoevgrad",70881,42.03,23.09,460.
-"Bulgaria","Vraca","Vraca",60877,43.22,23.56,335.
-"Bulgaria","Gabrovo","Gabrovo",58950,42.9,25.310000000000002,415.
-"Bulgaria","Plovdiv","Asenovgrad",54778,42.02,24.88,220.
+"Bulgaria","Sliven","Sliven",91620,42.68,26.32,2.6e2
+"Bulgaria","Dobrich","Dobric",90375,43.58,27.830000000000002,2.e2
+"Bulgaria","Yambol","Jambol",81048,42.5,26.52,1.4e2
+"Bulgaria","Shumen","Sumen",77709,43.28,26.93,2.3e2
+"Bulgaria","Haskovo","Haskovo",76587,41.94,25.560000000000002,2.e2
+"Bulgaria","Pernik","Pernik",75191,42.61,23.03,7.e2
+"Bulgaria","Pazardzhik","Pazardzik",71979,42.2,24.330000000000002,2.1e2
+"Bulgaria","Veliko Tarnovo","Veliko Tarnovo",71150,43.09,25.63,3.1e2
+"Bulgaria","Blagoevgrad","Blagoevgrad",70881,42.03,23.09,4.6e2
+"Bulgaria","Vraca","Vraca",60877,43.22,23.56,3.3e2
+"Bulgaria","Gabrovo","Gabrovo",58950,42.9,25.310000000000002,4.2e2
+"Bulgaria","Plovdiv","Asenovgrad",54778,42.02,24.88,2.2e2
 "Bulgaria","Vidin","Vidin",48071,44.01,22.87,34.
-"Bulgaria","StaraZagora","Kazanlak",47325,42.63,25.400000000000002,392.
-"Bulgaria","Kjustendil","Kjustendil",44532,42.300000000000004,22.69,530.
-"Bulgaria","Montana","Montana",44502,43.42,23.23,143.
-"Bulgaria","Kardzali","Kardzali",43880,41.65,25.37,254.
-"Bulgaria","Haskovo","Dimitrovgrad",38015,42.06,25.61,101.
-"Bulgaria","Targoviste","Targoviste",37341,43.25,26.580000000000002,199.
-"Bulgaria","Lovec","Lovec",37297,43.15,24.72,168.
-"Bulgaria","Kjustendil","Dupnica",36185,42.27,23.12,594.
+"Bulgaria","Stara Zagora","Kazanlak",47325,42.63,25.400000000000002,3.9e2
+"Bulgaria","Kyustendil","Kjustendil",44532,42.300000000000004,22.69,5.3e2
+"Bulgaria","Montana","Montana",44502,43.42,23.23,1.4e2
+"Bulgaria","Kardzhali","Kardzali",43880,41.65,25.37,2.5e2
+"Bulgaria","Haskovo","Dimitrovgrad",38015,42.06,25.61,1.e2
+"Bulgaria","Targovishte","Targoviste",37341,43.25,26.580000000000002,2.e2
+"Bulgaria","Lovech","Lovec",37297,43.15,24.72,1.7e2
+"Bulgaria","Kyustendil","Dupnica",36185,42.27,23.12,5.9e2
 "Bulgaria","Silistra","Silistra",35230,44.11,27.27,62.
-"Bulgaria","Razgrad","Razgrad",33416,43.53,26.53,214.
-"Bulgaria","VelikoTarnovo","GornaOrjahovica",32792,43.13,25.7,156.
-"Bulgaria","Blagoevgrad","Petric",30722,41.4,23.22,182.
-"Bulgaria","Smoljan","Smoljan",30507,41.59,24.7,1130.
-"Bulgaria","Plovdiv","Karlovo",30340,42.660000000000004,24.810000000000002,628.
-"Bulgaria","VelikoTarnovo","Svistov",30157,43.62,25.35,55.
-"Bulgaria","Blagoevgrad","Sandanski",28058,41.56,23.29,247.
-"Bulgaria","Sofia","Samokov",27193,42.35,23.57,941.
+"Bulgaria","Razgrad","Razgrad",33416,43.53,26.53,2.1e2
+"Bulgaria","Veliko Tarnovo","Gorna Orjahovica",32792,43.13,25.7,1.6e2
+"Bulgaria","Blagoevgrad","Petric",30722,41.4,23.22,1.8e2
+"Bulgaria","Smolyan","Smoljan",30507,41.59,24.7,1.1e3
+"Bulgaria","Plovdiv","Karlovo",30340,42.660000000000004,24.810000000000002,6.3e2
+"Bulgaria","Veliko Tarnovo","Svistov",30157,43.62,25.35,55.
+"Bulgaria","Blagoevgrad","Sandanski",28058,41.56,23.29,2.5e2
+"Bulgaria","Sofia","Samokov",27193,42.35,23.57,9.4e2
 "Bulgaria","Montana","Lom",24300,43.83,23.25,32.
-"Bulgaria","Gabrovo","Sevlievo",24065,43.03,25.1,198.
-"Bulgaria","Sliven","NovaZagora",23949,42.5,26.02,133.
-"Bulgaria","Pazardzik","Velingrad",22500,42.03,24.,744.
-"Bulgaria","Lovec","Trojan",22022,42.9,24.72,416.
+"Bulgaria","Gabrovo","Sevlievo",24065,43.03,25.1,2.e2
+"Bulgaria","Sliven","Nova Zagora",23949,42.5,26.02,1.3e2
+"Bulgaria","Pazardzhik","Velingrad",22500,42.03,24.,7.4e2
+"Bulgaria","Lovech","Trojan",22022,42.9,24.72,4.2e2
 "Bulgaria","Haskovo","Harmanli",20719,41.93,25.91,81.
-"Bulgaria","Blagoevgrad","GoceDelcev",20522,41.58,23.740000000000002,561.
-"Bulgaria","Pazardzik","Pestera",20153,42.04,24.310000000000002,434.
-"Bulgaria","Sofia","Botevgrad",20052,42.92,23.78,336.
-"Bulgaria","Burgas","Ajtos",19615,42.72,27.26,154.
+"Bulgaria","Blagoevgrad","Goce Delcev",20522,41.58,23.740000000000002,5.6e2
+"Bulgaria","Pazardzhik","Pestera",20153,42.04,24.310000000000002,4.3e2
+"Bulgaria","Sofia","Botevgrad",20052,42.92,23.78,3.4e2
+"Bulgaria","Burgas","Ajtos",19615,42.72,27.26,1.5e2
 "Bulgaria","Haskovo","Svilengrad",18434,41.78,26.2,57.
-"Bulgaria","Burgas","Karnobat",18156,42.660000000000004,26.990000000000002,198.
-"Bulgaria","Pazardzik","Panagjuriste",17959,42.51,24.18,536.
-"Bulgaria","StaraZagora","Cirpan",16315,42.2,25.330000000000002,183.
-"Bulgaria","Targoviste","Popovo",15878,43.36,26.23,232.
-"Bulgaria","Plovdiv","Rakovski",15571,42.29,24.97,184.
-"Bulgaria","Plovdiv","Parvomaj",14895,42.1,25.22,137.
-"Bulgaria","Pernik","Radomir",14815,42.56,22.97,732.
+"Bulgaria","Burgas","Karnobat",18156,42.660000000000004,26.990000000000002,2.e2
+"Bulgaria","Pazardzhik","Panagjuriste",17959,42.51,24.18,5.4e2
+"Bulgaria","Stara Zagora","Cirpan",16315,42.2,25.330000000000002,1.8e2
+"Bulgaria","Targovishte","Popovo",15878,43.36,26.23,2.3e2
+"Bulgaria","Plovdiv","Rakovski",15571,42.29,24.97,1.8e2
+"Bulgaria","Plovdiv","Parvomaj",14895,42.1,25.22,1.4e2
+"Bulgaria","Pernik","Radomir",14815,42.56,22.97,7.3e2
 "Bulgaria","Vraca","Kozloduj",14717,43.79,23.73,29.
-"Bulgaria","Sofia","Ihtiman",14525,42.45,23.830000000000002,665.
-"Bulgaria","Pleven","DolniDabnik",14438,43.4,24.44,104.
-"Bulgaria","SofijaGrad","NoviIskar",13964,42.81,23.330000000000002,524.
-"Bulgaria","Pleven","CervenBrjag",13818,43.28,24.13,115.
+"Bulgaria","Sofia","Ihtiman",14525,42.45,23.830000000000002,6.7e2
+"Bulgaria","Pleven","Dolni Dabnik",14438,43.4,24.44,1.e2
+"Bulgaria","Sofia grad","Novi Iskar",13964,42.81,23.330000000000002,5.2e2
+"Bulgaria","Pleven","Cerven Brjag",13818,43.28,24.13,1.2e2
 "Bulgaria","Pleven","Guljanci",13561,43.65,24.7,28.
-"Bulgaria","Sumen","NoviPazar",13554,43.35,27.2,109.
-"Bulgaria","Montana","Berkovica",13532,43.24,23.14,384.
+"Bulgaria","Shumen","Novi Pazar",13554,43.35,27.2,1.1e2
+"Bulgaria","Montana","Berkovica",13532,43.24,23.14,3.8e2
 "Bulgaria","Burgas","Pomorie",13484,42.58,27.64,0
-"Bulgaria","Blagoevgrad","Razlog",13448,41.89,23.48,811.
-"Bulgaria","StaraZagora","Radnevo",13160,42.300000000000004,25.95,130.
+"Bulgaria","Blagoevgrad","Razlog",13448,41.89,23.48,8.1e2
+"Bulgaria","Stara Zagora","Radnevo",13160,42.300000000000004,25.95,1.3e2
 "Bulgaria","Varna","Provadija",12901,43.18,27.45,68.
-"Bulgaria","VelikoTarnovo","Strazica",12721,43.230000000000004,25.97,87.
-"Bulgaria","Silistra","Glavinica",12610,43.9,26.87,151.
-"Bulgaria","Dobric","Balcik",12196,43.410000000000004,28.17,28.
-"Bulgaria","Sofia","Kostinbrod",11744,42.82,23.22,533.
+"Bulgaria","Veliko Tarnovo","Strazica",12721,43.230000000000004,25.97,87.
+"Bulgaria","Silistra","Glavinica",12610,43.9,26.87,1.5e2
+"Bulgaria","Dobrich","Balcik",12196,43.410000000000004,28.17,28.
+"Bulgaria","Sofia","Kostinbrod",11744,42.82,23.22,5.3e2
 "Bulgaria","Sofia","Bankya",11667,42.7,23.13,"null"
-"Bulgaria","Plovdiv","Stambolijski",11610,42.14,24.55,184.
-"Bulgaria","Dobric","Kavarna",11205,43.44,28.34,129.
-"Bulgaria","Sofia","Etropole",10936,42.84,24.01,546.
-"Bulgaria","Pleven","Kneza",10925,43.5,24.09,118.
-"Bulgaria","Vraca","Mezdra",10896,43.15,23.72,215.
+"Bulgaria","Plovdiv","Stambolijski",11610,42.14,24.55,1.8e2
+"Bulgaria","Dobrich","Kavarna",11205,43.44,28.34,1.3e2
+"Bulgaria","Sofia","Etropole",10936,42.84,24.01,5.5e2
+"Bulgaria","Pleven","Kneza",10925,43.5,24.09,1.2e2
+"Bulgaria","Vraca","Mezdra",10896,43.15,23.72,2.1e2
 "Bulgaria","Pleven","Levski",10811,43.37,25.150000000000002,59.
-"Bulgaria","VelikoTarnovo","Pavlikeni",10784,43.24,25.310000000000002,125.
+"Bulgaria","Veliko Tarnovo","Pavlikeni",10784,43.24,25.310000000000002,1.2e2
 "Bulgaria","Varna","Bjala",10551,42.875876,27.88413,98.
-"Bulgaria","Jambol","Elhovo",10424,42.17,26.57,118.
-"Bulgaria","Vraca","BjalaSlatina",10282,43.480000000000004,23.96,165.
-"Bulgaria","Lovec","Teteven",10077,42.93,24.28,732.
-"Bulgaria","Gabrovo","Trjavna",9831,42.87,25.5,445.
+"Bulgaria","Yambol","Elhovo",10424,42.17,26.57,1.2e2
+"Bulgaria","Vraca","Bjala Slatina",10282,43.480000000000004,23.96,1.7e2
+"Bulgaria","Lovech","Teteven",10077,42.93,24.28,7.3e2
+"Bulgaria","Gabrovo","Trjavna",9831,42.87,25.5,4.4e2
 "Bulgaria","Burgas","Nesebar",9576,42.67,27.72,0
-"Bulgaria","Lovec","Lukovit",9546,43.22,24.16,160.
-"Bulgaria","Sofia","Kostenec",9478,42.31,23.87,495.
+"Bulgaria","Lovech","Lukovit",9546,43.22,24.16,1.6e2
+"Bulgaria","Sofia","Kostenec",9478,42.31,23.87,5.e2
 "Bulgaria","Silistra","Tutrakan",9476,44.06,26.62,31.
 "Bulgaria","Burgas","Sredec",9134,42.35,27.19,41.
-"Bulgaria","Targoviste","Omurtag",9114,43.11,26.43,482.
-"Bulgaria","Razgrad","Isperih",9006,43.72,26.830000000000002,271.
+"Bulgaria","Targovishte","Omurtag",9114,43.11,26.43,4.8e2
+"Bulgaria","Razgrad","Isperih",9006,43.72,26.830000000000002,2.7e2
 "Bulgaria","Pleven","Belene",8905,43.65,25.14,24.
-"Bulgaria","Plovdiv","Sopot",8615,42.653911,24.755016,360.
-"Bulgaria","Sumen","VelikiPreslav",8843,43.160000000000004,26.82,127.
-"Bulgaria","Plovdiv","Kricim",8645,42.050000000000004,24.47,229.
-"Bulgaria","Pazardzik","Rakitovo",8632,42.,24.1,793.
-"Bulgaria","StaraZagora","Galabovo",8612,42.14,25.85,140.
-"Bulgaria","Blagoevgrad","Bansko",8562,41.84,23.5,916.
-"Bulgaria","VelikoTarnovo","Ljaskovec",8557,43.11,25.73,172.
-"Bulgaria","Pazardzik","Septemvri",8422,42.22,24.13,240.
+"Bulgaria","Plovdiv","Sopot, Plovdiv Province",8615,42.653911,24.755016,3.6e2
+"Bulgaria","Shumen","Veliki Preslav",8843,43.160000000000004,26.82,1.3e2
+"Bulgaria","Plovdiv","Kricim",8645,42.050000000000004,24.47,2.3e2
+"Bulgaria","Pazardzhik","Rakitovo",8632,42.,24.1,7.9e2
+"Bulgaria","Stara Zagora","Galabovo",8612,42.14,25.85,1.4e2
+"Bulgaria","Blagoevgrad","Bansko",8562,41.84,23.5,9.2e2
+"Bulgaria","Veliko Tarnovo","Ljaskovec",8557,43.11,25.73,1.7e2
+"Bulgaria","Pazardzhik","Septemvri",8422,42.22,24.13,2.4e2
 "Bulgaria","Varna","Devnja",8383,43.230000000000004,27.6,33.
-"Bulgaria","Sofia","Svoge",8258,42.97,23.34,713.
+"Bulgaria","Sofia","Svoge",8258,42.97,23.34,7.1e2
 "Bulgaria","Varna","Aksakovo",8164,43.259166666667,27.8175,"null"
 "Bulgaria","Varna","Beloslav",8071,43.18,27.71,66.
-"Bulgaria","Gabrovo","Drjanovo",7968,42.980000000000004,25.48,258.
-"Bulgaria","Kardzali","Momcilgrad",7831,41.54,25.42,441.
-"Bulgaria","Sofia","Pirdop",7767,42.71,24.19,693.
+"Bulgaria","Gabrovo","Drjanovo",7968,42.980000000000004,25.48,2.6e2
+"Bulgaria","Kardzhali","Momcilgrad",7831,41.54,25.42,4.4e2
+"Bulgaria","Sofia","Pirdop",7767,42.71,24.19,6.9e2
 "Bulgaria","Haskovo","Ljubimec",7670,41.85,26.09,65.
-"Bulgaria","Razgrad","Kubrat",7624,43.800000000000004,26.51,229.
-"Bulgaria","Sofia","ElinPelin",7430,42.67,23.6,546.
+"Bulgaria","Razgrad","Kubrat",7624,43.800000000000004,26.51,2.3e2
+"Bulgaria","Sofia","Elin Pelin",7430,42.67,23.6,5.5e2
 "Bulgaria","Plovdiv","Kuklen",7331,42.035277777778,24.785277777778,"null"
-"Bulgaria","Sofia","Slivnica",7186,42.86,23.05,589.
-"Bulgaria","Plovdiv","Hisarja",7162,42.51,24.71,363.
-"Bulgaria","Smoljan","Zlatograd",7110,41.39,25.11,467.
-"Bulgaria","Silistra","Dulovo",7076,43.83,27.14,222.
-"Bulgaria","Smoljan","Devin",7054,41.730000000000004,24.400000000000002,940.
-"Bulgaria","Plovdiv","Bankja",6960,42.550000000000004,24.84,293.
-"Bulgaria","Blagoevgrad","Simitli",6926,41.9,23.11,311.
-"Bulgaria","Dobric","Tervel",6875,43.75,27.42,247.
+"Bulgaria","Sofia","Slivnica",7186,42.86,23.05,5.9e2
+"Bulgaria","Plovdiv","Hisarja",7162,42.51,24.71,3.6e2
+"Bulgaria","Smolyan","Zlatograd",7110,41.39,25.11,4.7e2
+"Bulgaria","Silistra","Dulovo",7076,43.83,27.14,2.2e2
+"Bulgaria","Smolyan","Devin",7054,41.730000000000004,24.400000000000002,9.4e2
+"Bulgaria","Plovdiv","Bankja",6960,42.550000000000004,24.84,2.9e2
+"Bulgaria","Blagoevgrad","Simitli",6926,41.9,23.11,3.1e2
+"Bulgaria","Dobrich","Tervel",6875,43.75,27.42,2.5e2
 "Bulgaria","Haskovo","Simeonovgrad",6853,42.04,25.84,95.
-"Bulgaria","Dobric","GeneralTosevo",6835,43.71,28.04,229.
-"Bulgaria","Varna","DolniCiflik",6706,43.6,22.67,350.
-"Bulgaria","Montana","Varsec",6538,43.2,23.28,403.
-"Bulgaria","Jambol","Straldza",6372,42.61,26.69,147.
-"Bulgaria","Razgrad","CarKalojan",6314,43.61,26.25,206.
-"Bulgaria","Kjustendil","Bobovdol",5956,42.38,23.01,758.
+"Bulgaria","Dobrich","General‐Tosevo",6835,43.71,28.04,2.3e2
+"Bulgaria","Varna","Dolni Ciflik",6706,43.6,22.67,3.5e2
+"Bulgaria","Montana","Varsec",6538,43.2,23.28,4.e2
+"Bulgaria","Yambol","Straldza",6372,42.61,26.69,1.5e2
+"Bulgaria","Razgrad","Car Kalojan",6314,43.61,26.25,2.1e2
+"Bulgaria","Kyustendil","Bobovdol",5956,42.38,23.01,7.6e2
 "Bulgaria","Burgas","Carevo",5884,42.12,27.93,0
-"Bulgaria","Plovdiv","Saedinenie",5804,42.27,24.55,205.
-"Bulgaria","Smoljan","Madan",5793,41.5,24.95,745.
+"Bulgaria","Plovdiv","Saedinenie",5804,42.27,24.55,2.e2
+"Bulgaria","Smolyan","Madan",5793,41.5,24.95,7.5e2
 "Bulgaria","Burgas","Sozopol",5753,42.42,27.7,12.
-"Bulgaria","Sliven","Tvardica",5681,42.71,25.86,528.
-"Bulgaria","VelikoTarnovo","Elena",5596,42.94,25.89,332.
-"Bulgaria","VelikoTarnovo","Strazhitsa",5589,43.233333333333,25.966666666667,"null"
-"Bulgaria","Blagoevgrad","Jakoruda",5480,42.02,23.69,1068.
-"Bulgaria","Sofia","Bozuriste",5425,42.75,23.17,608.
-"Bulgaria","Smoljan","Cepelare",5412,41.74,24.69,1142.
+"Bulgaria","Sliven","Tvardica",5681,42.71,25.86,5.3e2
+"Bulgaria","Veliko Tarnovo","Elena",5596,42.94,25.89,3.3e2
+"Bulgaria","Veliko Tarnovo","Strazhitsa",5589,43.233333333333,25.966666666667,"null"
+"Bulgaria","Blagoevgrad","Jakoruda",5480,42.02,23.69,1.1e3
+"Bulgaria","Sofia","Bozuriste",5425,42.75,23.17,6.1e2
+"Bulgaria","Smolyan","Cepelare",5412,41.74,24.69,1.1e3
 "Bulgaria","Vraca","Orjahovo",5400,43.74,23.97,56.
-"Bulgaria","Vidin","Belogradcik",5334,43.65,22.68,500.
-"Bulgaria","Sliven","Kotel",5329,42.9,26.45,576.
+"Bulgaria","Vidin","Belogradcik",5334,43.65,22.68,5.e2
+"Bulgaria","Sliven","Kotel",5329,42.9,26.45,5.8e2
 "Bulgaria","Burgas","Kameno",5329,42.58,27.3,20.
-"Bulgaria","Haskovo","Topolovgrad",5288,42.09,26.330000000000002,312.
-"Bulgaria","Plovdiv","Perustica",5129,42.06,24.55,310.
-"Bulgaria","Varna","Suvorovo",5090,43.34,27.6,197.
-"Bulgaria","Kardzali","Krumovgrad",5059,41.480000000000004,25.67,430.
-"Bulgaria","Sofia","Zlatica",4981,42.71,24.150000000000002,672.
-"Bulgaria","Sofia","DolnaBanja",4844,42.32,23.71,774.
+"Bulgaria","Haskovo","Topolovgrad",5288,42.09,26.330000000000002,3.1e2
+"Bulgaria","Plovdiv","Perustica",5129,42.06,24.55,3.1e2
+"Bulgaria","Varna","Suvorovo",5090,43.34,27.6,2.e2
+"Bulgaria","Kardzhali","Krumovgrad",5059,41.480000000000004,25.67,4.3e2
+"Bulgaria","Sofia","Zlatica",4981,42.71,24.150000000000002,6.7e2
+"Bulgaria","Sofia","Dolna Banja",4844,42.32,23.71,7.7e2
 "Bulgaria","Varna","Dalgopol",4795,43.06,27.35,53.
-"Bulgaria","Ruse","Vetovo",4795,43.71,26.27,183.
-"Bulgaria","VelikoTarnovo","PolskiTrambes",4766,43.37,25.63,53.
+"Bulgaria","Ruse","Vetovo",4795,43.71,26.27,1.8e2
+"Bulgaria","Veliko Tarnovo","Polski Trambes",4766,43.37,25.63,53.
 "Bulgaria","Pleven","Kojnare",4711,43.37,24.150000000000002,81.
-"Bulgaria","Sofia","Godec",4663,43.03,23.05,776.
-"Bulgaria","Pleven","Trastenik",4541,43.52,24.48,104.
-"Bulgaria","Pernik","Breznik",4489,42.75,22.92,781.
-"Bulgaria","Pazardzik","Kostandovo",4456,42.016666666667,24.116666666667,"null"
+"Bulgaria","Sofia","Godec",4663,43.03,23.05,7.8e2
+"Bulgaria","Pleven","Trastenik",4541,43.52,24.48,1.e2
+"Bulgaria","Pernik","Breznik",4489,42.75,22.92,7.8e2
+"Bulgaria","Pazardzhik","Kostandovo",4456,42.016666666667,24.116666666667,"null"
 "Bulgaria","Varna","Ignatievo",4426,43.25,27.766666666667,"null"
-"Bulgaria","Pleven","Slavjanovo",4355,43.47,24.88,150.
-"Bulgaria","Sofia","Pravec",4305,42.9,23.92,422.
-"Bulgaria","Pazardzik","Bracigovo",4263,42.02,24.37,479.
+"Bulgaria","Pleven","Slavjanovo",4355,43.47,24.88,1.5e2
+"Bulgaria","Sofia","Pravec",4305,42.9,23.92,4.2e2
+"Bulgaria","Pazardzhik","Bracigovo",4263,42.02,24.37,4.8e2
 "Bulgaria","Ruse","Glodzhevo",4249,43.733333333333,26.4,"null"
-"Bulgaria","Ruse","DveMogili",4231,43.6,25.88,233.
-"Bulgaria","Pazardzik","Strelca",4230,42.51,24.32,494.
-"Bulgaria","Smoljan","Nedelino",4224,41.46,25.09,528.
-"Bulgaria","Kardzali","Ardino",4185,41.59,25.14,608.
-"Bulgaria","Kjustendil","SaparevaBanja",4128,42.2,23.3,983.
-"Bulgaria","Sumen","Smjadovo",4024,43.07,27.02,103.
-"Bulgaria","Pazardzik","Belovo",3966,42.2,24.02,470.
-"Bulgaria","VelikoTarnovo","Debelec",3883,43.04,25.63,167.
-"Bulgaria","Pleven","Nikopol",3878,43.7,24.900000000000002,108.
-"Bulgaria","Sliven","Sivacevo",3836,42.69,26.03,303.
+"Bulgaria","Ruse","Dve Mogili",4231,43.6,25.88,2.3e2
+"Bulgaria","Pazardzhik","Strelca",4230,42.51,24.32,4.9e2
+"Bulgaria","Smolyan","Nedelino",4224,41.46,25.09,5.3e2
+"Bulgaria","Kardzhali","Ardino",4185,41.59,25.14,6.1e2
+"Bulgaria","Kyustendil","Sapareva Banja",4128,42.2,23.3,9.8e2
+"Bulgaria","Shumen","Smjadovo",4024,43.07,27.02,1.e2
+"Bulgaria","Pazardzhik","Belovo",3966,42.2,24.02,4.7e2
+"Bulgaria","Veliko Tarnovo","Debelec",3883,43.04,25.63,1.7e2
+"Bulgaria","Pleven","Nikopol",3878,43.7,24.900000000000002,1.1e2
+"Bulgaria","Sliven","Sivacevo",3836,42.69,26.03,3.e2
 "Bulgaria","Montana","Valcedram",3817,43.69,23.45,74.
-"Bulgaria","Sofia","Dragoman",3814,42.93,22.93,737.
-"Bulgaria","Haskovo","Ivajlovgrad",3756,41.53,26.12,236.
-"Bulgaria","Varna","ValciDol",3728,43.410000000000004,27.55,265.
+"Bulgaria","Sofia","Dragoman",3814,42.93,22.93,7.4e2
+"Bulgaria","Haskovo","Ivajlovgrad",3756,41.53,26.12,2.4e2
+"Bulgaria","Varna","Valci Dol",3728,43.410000000000004,27.55,2.6e2
 "Bulgaria","Vraca","Mizija",3712,43.69,23.86,87.
-"Bulgaria","Pazardzik","Sarnitsa",3688,41.737541,24.024334,"null"
+"Bulgaria","Pazardzhik","Sarnitsa",3688,41.737541,24.024334,"null"
 "Bulgaria","Ruse","Marten",3672,43.920833333333,26.081944444444,"null"
-"Bulgaria","Sumen","Varbica",3616,43.,26.62,277.
-"Bulgaria","Blagoevgrad","Kresna",3614,41.78,23.18,624.
-"Bulgaria","Dobric","Sabla",3586,43.550000000000004,28.54,27.
-"Bulgaria","Smoljan","Rudozem",3583,41.5,24.86,775.
-"Bulgaria","Pleven","Iskar",7717,43.45,24.266666666667,292.
-"Bulgaria","StaraZagora","Kran",3501,42.666666666667,25.383333333333,"null"
-"Bulgaria","Pazardzik","Batak",3498,41.95,24.22,1055.
-"Bulgaria","Razgrad","TsarKaloyan",3496,43.607078,26.239016,"null"
-"Bulgaria","StaraZagora","Magliz",3456,42.61,25.54,378.
-"Bulgaria","Lovec","Letnica",3456,43.300000000000004,25.05,75.
+"Bulgaria","Shumen","Varbica",3616,43.,26.62,2.8e2
+"Bulgaria","Blagoevgrad","Kresna",3614,41.78,23.18,6.2e2
+"Bulgaria","Dobrich","Sabla",3586,43.550000000000004,28.54,27.
+"Bulgaria","Smolyan","Rudozem",3583,41.5,24.86,7.7e2
+"Bulgaria","Pleven","Iskar",7717,43.45,24.266666666667,2.9e2
+"Bulgaria","Stara Zagora","Kran",3501,42.666666666667,25.383333333333,"null"
+"Bulgaria","Pazardzhik","Batak",3498,41.95,24.22,1.1e3
+"Bulgaria","Razgrad","Tsar Kaloyan, Razgrad Province",3496,43.607078,26.239016,"null"
+"Bulgaria","Stara Zagora","Magliz",3456,42.61,25.54,3.8e2
+"Bulgaria","Lovech","Letnica",3456,43.300000000000004,25.05,75.
 "Bulgaria","Pleven","Gulyantsi",3407,43.633333333333,24.7,"null"
-"Bulgaria","Pleven","DolnaMitropolija",3393,43.47,24.52,76.
-"Bulgaria","VelikoTarnovo","DolnaOrjahovica",3369,43.17,25.73,136.
-"Bulgaria","Ruse","SlivoPole",3333,43.95,26.2,29.
-"Bulgaria","Vidin","Kula",3287,43.9,22.53,289.
-"Bulgaria","Burgas","Sungurlare",3262,42.76,26.77,189.
-"Bulgaria","Plovdiv","Kalofer",3230,42.62,24.98,781.
-"Bulgaria","Burgas","SvetiVlas",3226,42.716666666667,27.766666666667,"null"
-"Bulgaria","Vraca","Krivodol",3197,43.37,23.48,137.
-"Bulgaria","Blagoevgrad","Belica",3163,41.95,23.56,833.
-"Bulgaria","Sumen","Kaspican",3144,43.32,27.16,116.
-"Bulgaria","Razgrad","Zavet",11338,43.759055,26.67509,247.
+"Bulgaria","Pleven","Dolna Mitropolija",3393,43.47,24.52,76.
+"Bulgaria","Veliko Tarnovo","Dolna Orjahovica",3369,43.17,25.73,1.4e2
+"Bulgaria","Ruse","Slivo Pole",3333,43.95,26.2,29.
+"Bulgaria","Vidin","Kula",3287,43.9,22.53,2.9e2
+"Bulgaria","Burgas","Sungurlare",3262,42.76,26.77,1.9e2
+"Bulgaria","Plovdiv","Kalofer",3230,42.62,24.98,7.8e2
+"Bulgaria","Burgas","Sveti Vlas",3226,42.716666666667,27.766666666667,"null"
+"Bulgaria","Vraca","Krivodol",3197,43.37,23.48,1.4e2
+"Bulgaria","Blagoevgrad","Belica",3163,41.95,23.56,8.3e2
+"Bulgaria","Shumen","Kaspican",3144,43.32,27.16,1.2e2
+"Bulgaria","Razgrad","Zavet",11338,43.759055,26.67509,2.5e2
 "Bulgaria","Burgas","Primorsko",2992,42.27,27.75,18.
-"Bulgaria","Pazardzik","Vetren",2981,42.280335,24.047174,"null"
-"Bulgaria","StaraZagora","Gurkovo",2974,42.660000000000004,25.79,319.
-"Bulgaria","Vraca","Roman",2961,43.19,23.900000000000002,258.
-"Bulgaria","Kardzali","Dzebel",2932,41.46,25.29,365.
-"Bulgaria","Burgas","Kableskovo",2906,42.67,27.580000000000002,211.
-"Bulgaria","Lovec","Aprilci",2899,42.84,24.92,527.
-"Bulgaria","StaraZagora","Nikolaevo",2894,43.32,25.98,251.
-"Bulgaria","VelikoTarnovo","DolnaOryahovitsa",2884,43.166666666667,25.733333333333,"null"
-"Bulgaria","SofijaGrad","Buhovo",2882,42.77,23.57,760.
-"Bulgaria","StaraZagora","PavelBanja",2823,42.59,25.2,457.
+"Bulgaria","Pazardzhik","Vetren, Pazardzhik Province",2981,42.280335,24.047174,"null"
+"Bulgaria","Stara Zagora","Gurkovo",2974,42.660000000000004,25.79,3.2e2
+"Bulgaria","Vraca","Roman",2961,43.19,23.900000000000002,2.6e2
+"Bulgaria","Kardzhali","Dzebel",2932,41.46,25.29,3.7e2
+"Bulgaria","Burgas","Kableskovo",2906,42.67,27.580000000000002,2.1e2
+"Bulgaria","Lovech","Apriltsi",2899,42.84,24.92,5.3e2
+"Bulgaria","Stara Zagora","Nikolaevo",2894,43.32,25.98,2.5e2
+"Bulgaria","Veliko Tarnovo","Dolna Oryahovitsa",2884,43.166666666667,25.733333333333,"null"
+"Bulgaria","Sofia grad","Buhovo",2882,42.77,23.57,7.6e2
+"Bulgaria","Stara Zagora","Pavel Banja",2823,42.59,25.2,4.6e2
 "Bulgaria","Blagoevgrad","Dobrinishte",2818,41.819722222222,23.561944444444,"null"
-"Bulgaria","Lovec","Jablanica",2765,42.97,24.060000000000002,427.
-"Bulgaria","Kjustendil","Rila",2762,42.12,23.12,530.
-"Bulgaria","Targoviste","Opaka",2754,43.45,26.18,169.
-"Bulgaria","Lovec","Ugarcin",2752,43.1,24.42,275.
-"Bulgaria","Blagoevgrad","Hadzidimovo",2745,41.52,23.85,469.
-"Bulgaria","VelikoTarnovo","Zlatarica",2702,43.050000000000004,25.900000000000002,140.
-"Bulgaria","VelikoTarnovo","BjalaCerkva",2601,43.2,25.3,107.
+"Bulgaria","Lovech","Jablanica",2765,42.97,24.060000000000002,4.3e2
+"Bulgaria","Kyustendil","Rila",2762,42.12,23.12,5.3e2
+"Bulgaria","Targovishte","Opaka",2754,43.45,26.18,1.7e2
+"Bulgaria","Lovech","Ugarcin",2752,43.1,24.42,2.7e2
+"Bulgaria","Blagoevgrad","Hadzidimovo",2745,41.52,23.85,4.7e2
+"Bulgaria","Veliko Tarnovo","Zlatarica",2702,43.050000000000004,25.900000000000002,1.4e2
+"Bulgaria","Veliko Tarnovo","Bjala Cerkva",2601,43.2,25.3,1.1e2
 "Bulgaria","Vidin","Bregovo",2592,44.15,22.650000000000002,58.
 "Bulgaria","Vidin","Dunavci",2560,43.92,22.82,38.
-"Bulgaria","Burgas","MalkoTarnovo",2449,41.980000000000004,27.53,352.
-"Bulgaria","Smoljan","Dospat",2425,41.660000000000004,24.17,1316.
-"Bulgaria","Plovdiv","Sadovo",2392,42.14,24.95,147.
-"Bulgaria","VelikoTarnovo","Kilifarevo",2368,42.980000000000004,25.63,248.
-"Bulgaria","Plovdiv","Laki",2354,41.85,24.82,900.
-"Bulgaria","Pernik","Tran",2341,42.83,22.650000000000002,775.
-"Bulgaria","Sofia","Koprivstica",2321,42.64,24.35,1115.
-"Bulgaria","Kjustendil","Kocerinovo",2298,42.09,23.07,419.
-"Bulgaria","Razgrad","Loznica",2277,43.37,26.61,249.
-"Bulgaria","Ruse","Borovo",2232,43.49,25.810000000000002,282.
-"Bulgaria","Pernik","Batanovci",2200,42.6,22.98,686.
+"Bulgaria","Burgas","Malko Tarnovo",2449,41.980000000000004,27.53,3.5e2
+"Bulgaria","Smolyan","Dospat",2425,41.660000000000004,24.17,1.3e3
+"Bulgaria","Plovdiv","Sadovo",2392,42.14,24.95,1.5e2
+"Bulgaria","Veliko Tarnovo","Kilifarevo",2368,42.980000000000004,25.63,2.5e2
+"Bulgaria","Plovdiv","Laki",2354,41.85,24.82,9.e2
+"Bulgaria","Pernik","Tran",2341,42.83,22.650000000000002,7.7e2
+"Bulgaria","Sofia","Koprivstica",2321,42.64,24.35,1.1e3
+"Bulgaria","Kyustendil","Kocerinovo",2298,42.09,23.07,4.2e2
+"Bulgaria","Razgrad","Loznica",2277,43.37,26.61,2.5e2
+"Bulgaria","Ruse","Borovo",2232,43.49,25.810000000000002,2.8e2
+"Bulgaria","Pernik","Batanovci",2200,42.6,22.98,6.9e2
 "Bulgaria","Burgas","Chernomorets",2177,42.443888888889,27.637777777778,"null"
 "Bulgaria","Burgas","Aheloy",2171,42.648888888889,27.648055555556,"null"
-"Bulgaria","Burgas","Obzor",2125,42.82,27.87,101.
-"Bulgaria","Montana","Ciprovci",2122,43.39,22.88,550.
-"Bulgaria","Pleven","Pordim",2119,43.38,24.85,173.
-"Bulgaria","VelikoTarnovo","Suhindol",2002,43.18,25.17,212.
+"Bulgaria","Burgas","Obzor",2125,42.82,27.87,1.e2
+"Bulgaria","Montana","Ciprovci",2122,43.39,22.88,5.5e2
+"Bulgaria","Pleven","Pordim",2119,43.38,24.85,1.7e2
+"Bulgaria","Veliko Tarnovo","Suhindol",2002,43.18,25.17,2.1e2
 "Bulgaria","Burgas","Balgarovo",1990,42.62,27.3,54.
 "Bulgaria","Silistra","Glavinitsa",1952,43.916666666667,26.833333333333,"null"
-"Bulgaria","Ruse","Bjala",1891,43.45981,25.736647,112.
-"Bulgaria","Plovdiv","Brezovo",1865,42.36,25.080000000000002,251.
-"Bulgaria","Sumen","Kaolinovo",1816,43.62,27.1,245.
-"Bulgaria","Haskovo","Mericleri",1802,42.13,25.5,144.
-"Bulgaria","Pernik","Zemen",1790,42.47,22.76,637.
-"Bulgaria","Gabrovo","Plackovci",1772,42.83,25.47,590.
-"Bulgaria","Sliven","Kermen",1727,42.51,26.26,155.
-"Bulgaria","Vidin","Gramada",1647,43.84,22.66,248.
-"Bulgaria","Sofia","MominProhod",1582,42.333333333333,23.866666666667,"null"
-"Bulgaria","Silistra","Alfatar",1577,43.96,27.3,175.
-"Bulgaria","Ruse","Senovo",1443,43.65,26.36,180.
-"Bulgaria","Montana","Bojcinovci",1436,43.47,23.330000000000002,107.
-"Bulgaria","Targoviste","Antonovo",1429,43.160000000000004,26.17,481.
+"Bulgaria","Ruse","Bjala",1891,43.45981,25.736647,1.1e2
+"Bulgaria","Plovdiv","Brezovo",1865,42.36,25.080000000000002,2.5e2
+"Bulgaria","Shumen","Kaolinovo",1816,43.62,27.1,2.5e2
+"Bulgaria","Haskovo","Mericleri",1802,42.13,25.5,1.4e2
+"Bulgaria","Pernik","Zemen",1790,42.47,22.76,6.4e2
+"Bulgaria","Gabrovo","Plackovci",1772,42.83,25.47,5.9e2
+"Bulgaria","Sliven","Kermen",1727,42.51,26.26,1.5e2
+"Bulgaria","Vidin","Gramada",1647,43.84,22.66,2.5e2
+"Bulgaria","Sofia","Momin Prohod",1582,42.333333333333,23.866666666667,"null"
+"Bulgaria","Silistra","Alfatar",1577,43.96,27.3,1.8e2
+"Bulgaria","Ruse","Senovo",1443,43.65,26.36,1.8e2
+"Bulgaria","Montana","Bojcinovci",1436,43.47,23.330000000000002,1.1e2
+"Bulgaria","Targovishte","Antonovo",1429,43.160000000000004,26.17,4.8e2
 "Bulgaria","Burgas","Ahtopol",1419,42.1,27.94,26.
-"Bulgaria","StaraZagora","Sipka",1398,42.72,25.330000000000002,746.
-"Bulgaria","Kjustendil","Bobosevo",1311,42.18,22.990000000000002,419.
-"Bulgaria","Jambol","Boljarovo",1303,42.15,26.830000000000002,225.
-"Bulgaria","Vidin","Dimovo",1174,43.730000000000004,22.73,187.
-"Bulgaria","Montana","Brusarci",1162,43.660000000000004,23.080000000000002,150.
-"Bulgaria","Plovdiv","Klisura",1080,42.7,24.45,751.
-"Bulgaria","Sumen","Pliska",1016,43.36,27.12,143.
-"Bulgaria","Haskovo","Madzarovo",726,41.64,25.88,339.
-"Bulgaria","Blagoevgrad","Melnik",385,41.52,23.38,407.
+"Bulgaria","Stara Zagora","Sipka",1398,42.72,25.330000000000002,7.5e2
+"Bulgaria","Kyustendil","Bobosevo",1311,42.18,22.990000000000002,4.2e2
+"Bulgaria","Yambol","Boljarovo",1303,42.15,26.830000000000002,2.3e2
+"Bulgaria","Vidin","Dimovo",1174,43.730000000000004,22.73,1.9e2
+"Bulgaria","Montana","Brusarci",1162,43.660000000000004,23.080000000000002,1.5e2
+"Bulgaria","Plovdiv","Klisura",1080,42.7,24.45,7.5e2
+"Bulgaria","Shumen","Pliska",1016,43.36,27.12,1.4e2
+"Bulgaria","Haskovo","Madzarovo",726,41.64,25.88,3.4e2
+"Bulgaria","Blagoevgrad","Melnik",385,41.52,23.38,4.1e2

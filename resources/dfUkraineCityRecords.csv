@@ -1,12 +1,12 @@
 "Country","State","City","Population","Latitude","Longitude","Elevation"
-"Ukraine","Kiev","Kiev",2900920,50.43,30.52,1.5e2
+"Ukraine","Kyiv","Kyiv",2900920,50.43,30.52,1.5e2
 "Ukraine","Harkov","Kharkiv",1430885,49.98,36.22,1.1e2
 "Ukraine","Odesa","Odesa",1016515,46.47,30.73,40.
-"Ukraine","Dnipropetrovsk","Dnipropetrovsk",1002636,48.45,34.980000000000004,1.4e2
+"Ukraine","Dnipropetrovsk","Dnipro",1002636,48.45,34.980000000000004,1.4e2
 "Ukraine","Donetsk","Donetsk",929063,48.,37.82,1.4e2
 "Ukraine","Zaporizhzhya","Zaporizhzhya",748984,47.85,35.17,65.
 "Ukraine","Lviv","Lviv",727968,49.83,24.,3.2e2
-"Ukraine","Dnipropetrovsk","KryvyyRih",654900,47.92,33.35,41.
+"Ukraine","Dnipropetrovsk","Kryvyy Rih",654900,47.92,33.35,41.
 "Ukraine","Mykolayivsk","Mykolayiv",494763,46.97,32.,18.
 "Ukraine","Donetsk","Mariupol",449498,47.1,37.550000000000004,65.
 "Ukraine","Lugansk","Luhansk",425848,48.57,39.33,75.
@@ -23,14 +23,14 @@
 "Ukraine","Chernivtsi","Chernivtsi",263287,48.300000000000004,25.93,2.3e2
 "Ukraine","Rivne","Rivne",256774,50.620000000000005,26.25,1.9e2
 "Ukraine","Donetsk","Horlivka",256714,48.300000000000004,38.050000000000004,2.1e2
-"Ukraine","Hmelnickij","Khmelnytskyy",255902,49.42,27.,2.9e2
+"Ukraine","Khmelnytskyi","Khmelnytskyi",255902,49.42,27.,2.9e2
 "Ukraine","Dnipropetrovsk","Dniprodzerzhynsk",239237,48.5,34.62,1.4e2
 "Ukraine","Kirovograd","Kirovohrad",232052,48.5,32.26,1.2e2
-"Ukraine","IvanoFrankivsk","IvanoFrankivsk",230929,48.92,24.71,2.6e2
+"Ukraine","Ivano‐Frankivsk","Ivano‐Frankivsk",230929,48.92,24.71,2.6e2
 "Ukraine","Poltava","Kremenchuk",225216,49.07,33.42,68.
 "Ukraine","Ternopil","Ternopil",218641,49.550000000000004,25.580000000000002,3.2e2
 "Ukraine","Volyn","Lutsk",217103,50.75,25.330000000000002,1.9e2
-"Ukraine","Kyyivska","BilaTserkva",211100,49.78,30.12,1.6e2
+"Ukraine","Kyyivska","Bila Tserkva",211100,49.78,30.12,1.6e2
 "Ukraine","Donetsk","Kramatorsk",164283,48.72,37.53,1.2e2
 "Ukraine","Zaporizhzhya","Melitopol",154992,46.84,35.37,37.
 "Ukraine","Crimea","Kerch",149566,45.36,36.480000000000004,0
@@ -44,9 +44,9 @@
 "Ukraine","Dnipropetrovsk","Pavlohrad",106082,48.52,35.87,66.
 "Ukraine","Lugansk","Sverdlovsk",105276,48.08,39.65,2.7e2
 "Ukraine","Lugansk","Lysychansk",103459,48.92,38.42,1.5e2
-"Ukraine","Hmelnickij","KamyanetsPodilskyy",103036,48.68,26.580000000000002,1.9e2
+"Ukraine","Khmelnytskyi","Kamyanets‐Podilskyy",103036,48.68,26.580000000000002,1.9e2
 "Ukraine","Sumska","Konotop",92687,51.24,33.21,1.4e2
-"Ukraine","Lugansk","KrasnyyLuch",89688,48.13,38.93,2.3e2
+"Ukraine","Lugansk","Krasnyy Luch",89688,48.13,38.93,2.3e2
 "Ukraine","Kyyivska","Brovary",89384,50.5,30.77,1.1e2
 "Ukraine","Cherkask","Uman",87531,48.75,30.22,2.e2
 "Ukraine","Transcarpathia","Mukacheve",86339,48.45,22.72,1.2e2
@@ -57,7 +57,7 @@
 "Ukraine","Crimea","Yalta",79457,44.5,34.17,9.
 "Ukraine","Lviv","Drohobych",78595,49.35,23.5,3.1e2
 "Ukraine","Zhitomir","Berdychiv",78523,49.9,28.580000000000002,2.4e2
-"Ukraine","Donetsk","Artyomovsk",75798,48.59,38.01,90.
+"Ukraine","Donetsk","Bakhmut",75798,48.59,38.01,90.
 "Ukraine","Donetsk","Kostyantynivka",72888,48.53,37.72,1.2e2
 "Ukraine","Odesa","Izmayil",72471,45.35,28.830000000000002,26.
 "Ukraine","Chernigov","Nizhyn",72422,51.050000000000004,31.88,1.2e2
@@ -66,20 +66,20 @@
 "Ukraine","Cherkask","Smila",69023,49.230000000000004,31.88,1.e2
 "Ukraine","Mykolayivsk","Pervomaysk",68178,48.050000000000004,30.85,69.
 "Ukraine","Crimea","Feodosiya",67993,45.03,35.38,13.
-"Ukraine","IvanoFrankivsk","Kalush",67519,49.02,24.37,2.9e2
+"Ukraine","Ivano‐Frankivsk","Kalush",67519,49.02,24.37,2.9e2
 "Ukraine","Lviv","Chervonohrad",67492,50.38,24.23,1.9e2
 "Ukraine","Donetsk","Torez",66446,48.04,38.59,2.5e2
 "Ukraine","Zhitomir","Korosten",65072,50.95,28.650000000000002,1.7e2
 "Ukraine","Donetsk","Krasnoarmeysk",64895,48.28,37.18,2.e2
 "Ukraine","Harkov","Lozova",61436,48.88,36.38,1.6e2
-"Ukraine","IvanoFrankivsk","Kolomyya",61210,48.53,25.04,2.9e2
+"Ukraine","Ivano‐Frankivsk","Kolomyya",61210,48.53,25.04,2.9e2
 "Ukraine","Lugansk","Rubizhne",60374,49.02,38.37,74.
-"Ukraine","Odesa","Illichivsk",59851,46.300000000000004,30.67,0
+"Ukraine","Odesa","Chornomorsk",59851,46.300000000000004,30.67,0
 "Ukraine","Donetsk","Druzhkivka",59400,48.620000000000005,37.550000000000004,75.
-"Ukraine","Lviv","Stryy",59325,49.25,23.85,3.e2
+"Ukraine","Lviv","Stryi",59325,49.25,23.85,3.e2
 "Ukraine","Donetsk","Khartsyzk",57845,48.04,38.14,2.3e2
 "Ukraine","Chernigov","Pryluky",57735,50.6,32.4,1.2e2
-"Ukraine","Zhitomir","NovohradVolynskyy",55991,50.6,27.62,2.1e2
+"Ukraine","Zhitomir","Novohrad‐Volynskyy",55991,50.6,27.62,2.1e2
 "Ukraine","Kyyivska","Boryspil",55334,50.35,30.95,1.2e2
 "Ukraine","Lugansk","Antratsyt",54640,48.120000000000005,39.09,2.6e2
 "Ukraine","Harkov","Izyum",54593,49.21,37.26,69.
@@ -87,20 +87,20 @@
 "Ukraine","Volyn","Novovolynsk",52624,50.730000000000004,24.17,2.3e2
 "Ukraine","Poltava","Komsomolsk",51955,49.03,33.67,0
 "Ukraine","Donetsk","Shakhtyorsk",51007,48.050000000000004,38.47,2.5e2
-"Ukraine","Herson","NovaKakhovka",50240,46.75,33.38,22.
-"Ukraine","Odesa","BilhorodDnistrovskyy",50086,46.2,30.32,5.
+"Ukraine","Herson","Nova Kakhovka",50240,46.75,33.38,22.
+"Ukraine","Odesa","Bilhorod‐Dnistrovskyy",50086,46.2,30.32,5.
 "Ukraine","Donetsk","Dymytrov",49646,48.27,37.28,2.e2
 "Ukraine","Sumska","Okhtyrka",49599,50.31,34.89,1.1e2
 "Ukraine","Kyyivska","Fastiv",47937,50.08,29.92,2.1e2
 "Ukraine","Dnipropetrovsk","Marhanets",47873,47.64,34.64,72.
 "Ukraine","Lugansk","Rovenky",47852,48.08,39.37,2.6e2
 "Ukraine","Lugansk","Bryanka",47512,48.51,38.660000000000004,2.3e2
-"Ukraine","Dnipropetrovsk","ZhovtiVody",47509,48.34,33.51,1.4e2
+"Ukraine","Dnipropetrovsk","Zhovti Vody",47509,48.34,33.51,1.4e2
 "Ukraine","Donetsk","Snizhne",47259,48.02,38.77,2.7e2
 "Ukraine","Kirovograd","Svitlovodsk",46613,49.08,33.25,77.
 "Ukraine","Poltava","Lubny",45716,50.0186,32.9869,"null"
 "Ukraine","Lugansk","Krasnodon",44283,48.300000000000004,39.74,1.4e2
-"Ukraine","Hmelnickij","Shepetivka",43661,50.18,27.07,2.6e2
+"Ukraine","Khmelnytskyi","Shepetivka",43661,50.18,27.07,2.6e2
 "Ukraine","Kyyivska","Irpin",42924,50.52,30.25,1.2e2
 "Ukraine","Sumska","Romny",42856,50.75,33.47,1.5e2
 "Ukraine","Rivne","Kuznetsovsk",42160,51.370000000000005,25.86,1.7e2
@@ -108,23 +108,23 @@
 "Ukraine","Odesa","Kotovsk",40640,47.75,29.53,2.4e2
 "Ukraine","Poltava","Myrhorod",40603,49.97,33.6,96.
 "Ukraine","Mykolayivsk","Yuzhnoukrayinsk",40348,47.81,31.19,89.
-"Ukraine","Volyn","VolodymyrVolynskyy",39074,50.85,24.330000000000002,1.9e2
+"Ukraine","Volyn","Volodymyr‐Volynskyy",39074,50.85,24.330000000000002,1.9e2
 "Ukraine","Crimea","Dzhankoy",38622,45.72,34.410000000000004,8.
 "Ukraine","Lugansk","Pervomaysk",38435,48.64,38.52,1.8e2
 "Ukraine","Rivne","Dubno",38073,50.42,25.75,2.e2
 "Ukraine","Kyyivska","Vyshneve",38011,50.38,30.37,1.8e2
 "Ukraine","Herson","Kakhovka",38001,46.81,33.480000000000004,27.
 "Ukraine","Dnipropetrovsk","Inhulets",37536,47.730000000000004,33.25,37.
-"Ukraine","Hmelnickij","Netishyn",37014,50.35,26.63,2.1e2
+"Ukraine","Khmelnytskyi","Netishyn",37014,50.35,26.63,2.1e2
 "Ukraine","Donetsk","Yasynuvata",36867,48.120000000000005,37.88,2.6e2
 "Ukraine","Kyyivska","Vasylkiv",36672,50.18,30.32,1.6e2
 "Ukraine","Sumska","Hlukhiv",36100,51.68,33.92,1.7e2
 "Ukraine","Kyyivska","Boyarka",35968,50.32,30.32,1.8e2
 "Ukraine","Mykolayivsk","Voznesensk",35843,47.58,31.330000000000002,36.
-"Ukraine","Hmelnickij","Slavuta",35442,50.300000000000004,26.87,2.2e2
+"Ukraine","Khmelnytskyi","Slavuta",35442,50.300000000000004,26.87,2.2e2
 "Ukraine","Vinnica","Zhmerynka",35284,49.03,28.1,3.1e2
 "Ukraine","Donetsk","Avdiyivka",35128,48.14,37.74,2.1e2
-"Ukraine","Hmelnickij","Starokostyantyniv",35104,49.75,27.22,2.7e2
+"Ukraine","Khmelnytskyi","Starokostyantyniv",35104,49.75,27.22,2.7e2
 "Ukraine","Lviv","Sambir",35086,49.52,23.2,3.e2
 "Ukraine","Donetsk","Dzerzhinsk",34750,48.4,37.83,1.6e2
 "Ukraine","Lviv","Boryslav",34392,49.28,23.42,3.9e2
@@ -133,7 +133,7 @@
 "Ukraine","Zaporizhzhya","Tokmak",32996,47.25,35.71,48.
 "Ukraine","Harkov","Chuhuyiv",32825,49.84,36.69,1.3e2
 "Ukraine","Odesa","Yuzhne",32003,46.63,31.05,41.
-"Ukraine","Vinnica","MohylivPodilskyy",31674,48.45,27.8,67.
+"Ukraine","Vinnica","Mohyliv‐Podilskyy",31674,48.45,27.8,67.
 "Ukraine","Dnipropetrovsk","Synelnykove",31552,48.33,35.52,1.8e2
 "Ukraine","Harkov","Pervomayskyy",31423,49.38,36.22,1.7e2
 "Ukraine","Harkov","Kupyansk",31175,49.72,37.6,1.e2
@@ -146,7 +146,7 @@
 "Ukraine","Dnipropetrovsk","Pershotravensk",29019,48.35,36.38,1.2e2
 "Ukraine","Ternopil","Chortkiv",29015,49.02,25.8,2.3e2
 "Ukraine","Lviv","Truskavets",28867,49.28,23.5,3.9e2
-"Ukraine","Lviv","NovyyRozdil",28797,49.47,24.13,2.9e2
+"Ukraine","Lviv","Novyy Rozdil",28797,49.47,24.13,2.9e2
 "Ukraine","Donetsk","Debaltseve",28644,48.34,38.4,3.1e2
 "Ukraine","Rivne","Sarny",28604,51.33,26.6,1.5e2
 "Ukraine","Lugansk","Kirovsk",28529,48.64,38.65,1.9e2
@@ -154,7 +154,7 @@
 "Ukraine","Cherkask","Zolotonosha",28375,49.67,32.03,94.
 "Ukraine","Vinnica","Khmilnyk",28332,49.550000000000004,27.97,2.4e2
 "Ukraine","Donetsk","Kirovske",28149,48.15,38.36,2.4e2
-"Ukraine","Kyyivska","PereyaslavKhmelnytskyy",27945,50.08,31.470000000000002,87.
+"Ukraine","Kyyivska","Pereyaslav‐Khmelnytskyi",27945,50.08,31.470000000000002,87.
 "Ukraine","Kirovograd","Znamyanka",27528,48.71,32.660000000000004,1.9e2
 "Ukraine","Crimea","Bakhchysaray",27351,44.75,33.87,2.5e2
 "Ukraine","Kyyivska","Bucha",27070,50.370000000000005,30.21,1.4e2
@@ -185,30 +185,30 @@
 "Ukraine","Donetsk","Selidove",23301,48.13,37.300000000000004,1.9e2
 "Ukraine","Harkov","Merefa",23034,49.82,36.050000000000004,1.1e2
 "Ukraine","Lugansk","Kreminna",22858,49.050000000000004,38.22,59.
-"Ukraine","Hmelnickij","Polonne",22760,50.120000000000005,27.52,2.4e2
+"Ukraine","Khmelnytskyi","Polonne",22760,50.120000000000005,27.52,2.4e2
 "Ukraine","Harkov","Lyubotyn",22536,49.95,35.97,1.8e2
 "Ukraine","Sumska","Trostyanets",22434,50.47,34.95,1.2e2
-"Ukraine","Donetsk","KrasnyyLyman",22315,48.99,37.81,1.1e2
+"Ukraine","Donetsk","Krasnyy Lyman",22315,48.99,37.81,1.1e2
 "Ukraine","Vinnica","Ladyzhyn",22300,48.67,29.25,1.8e2
 "Ukraine","Lugansk","Sukhodilsk",22282,48.35,39.7,2.e2
-"Ukraine","IvanoFrankivsk","Nadvirna",22281,48.63,24.580000000000002,4.3e2
+"Ukraine","Ivano‐Frankivsk","Nadvirna",22281,48.63,24.580000000000002,4.3e2
 "Ukraine","Harkov","Krasnohrad",22058,49.370000000000005,35.45,1.5e2
 "Ukraine","Crimea","Armyansk",21956,46.11,33.7,12.
 "Ukraine","Lugansk","Popasna",21917,48.63,38.38,2.5e2
 "Ukraine","Ternopil","Kremenets",21679,50.1,25.72,3.2e2
-"Ukraine","IvanoFrankivsk","Bolekhiv",21610,49.07,23.87,3.6e2
+"Ukraine","Ivano‐Frankivsk","Bolekhiv",21610,49.07,23.87,3.6e2
 "Ukraine","Lviv","Sokal",21386,50.480000000000004,24.28,2.e2
 "Ukraine","Harkov","Pisochyn",21212,49.95,36.1,1.5e2
 "Ukraine","Lviv","Stebnyk",20888,49.300000000000004,23.57,3.2e2
-"Ukraine","IvanoFrankivsk","Dolyna",20619,48.800000000000004,24.02,5.6e2
+"Ukraine","Ivano‐Frankivsk","Dolyna",20619,48.800000000000004,24.02,5.6e2
 "Ukraine","Odesa","Kiliya",20311,45.45,29.27,3.
-"Ukraine","Hmelnickij","Volochysk",20308,49.53,26.17,3.e2
+"Ukraine","Khmelnytskyi","Volochysk",20308,49.53,26.17,3.e2
 "Ukraine","Kyyivska","Yahotyn",20232,50.28,31.77,1.2e2
 "Ukraine","Donetsk","Kurakhove",20098,47.980000000000004,37.27,1.4e2
 "Ukraine","Zaporizhzhya","Polohy",19906,47.480000000000004,36.25,1.1e2
 "Ukraine","Zaporizhzhya","Vilnyansk",19906,47.94,35.43,1.4e2
 "Ukraine","Dnipropetrovsk","Pyatykhatky",19666,48.410000000000004,33.71,1.6e2
-"Ukraine","Hmelnickij","Krasyliv",19618,49.65,26.97,3.2e2
+"Ukraine","Khmelnytskyi","Krasyliv",19618,49.65,26.97,3.2e2
 "Ukraine","Harkov","Kivsharivka",19618,49.620000000000005,37.7,93.
 "Ukraine","Zaporizhzhya","Dniprorudne",19479,47.410000000000004,35.02,72.
 "Ukraine","Kirovograd","Dolynska",19420,48.120000000000005,32.77,1.8e2
@@ -223,7 +223,7 @@
 "Ukraine","Odesa","Balta",18993,47.94,29.62,1.3e2
 "Ukraine","Kirovograd","Novoukrayinka",18803,48.32,31.52,1.4e2
 "Ukraine","Cherkask","Khrystynivka",18671,48.83,29.97,2.5e2
-"Ukraine","Cherkask","KorsunShevchenkivskyy",18593,49.43,31.25,1.3e2
+"Ukraine","Cherkask","Korsun‐Shevchenkivskyy",18593,49.43,31.25,1.3e2
 "Ukraine","Donetsk","Zuhres",18553,48.02,38.27,1.5e2
 "Ukraine","Chernigov","Bakhmach",18552,51.18,32.78,1.4e2
 "Ukraine","Donetsk","Amvrosiyivka",18413,47.79,38.480000000000004,1.4e2
@@ -237,8 +237,8 @@
 "Ukraine","Cherkask","Vatutine",17805,49.02,31.060000000000002,1.5e2
 "Ukraine","Zaporizhzhya","Hulyaypole",17544,47.67,36.26,1.e2
 "Ukraine","Donetsk","Pelahiyivka",17509,48.13,38.58,3.1e2
-"Ukraine","Hmelnickij","Horodok",17240,49.17,26.57,2.9e2
-"Ukraine","Hmelnickij","Izyaslav",17212,50.120000000000005,26.8,2.4e2
+"Ukraine","Khmelnytskyi","Horodok",17240,49.17,26.57,2.9e2
+"Ukraine","Khmelnytskyi","Izyaslav",17212,50.120000000000005,26.8,2.4e2
 "Ukraine","Transcarpathia","Svalyava",17050,48.550000000000004,22.98,2.e2
 "Ukraine","Lviv","Vynnyky",16902,49.81,24.09,3.7e2
 "Ukraine","Sumska","Bilopillya",16880,51.15,34.300000000000004,1.3e2
@@ -254,18 +254,18 @@
 "Ukraine","Vinnica","Bar",16409,49.07,27.67,2.7e2
 "Ukraine","Donetsk","Vuhledar",16286,47.800000000000004,37.22,1.8e2
 "Ukraine","Donetsk","Krasnohorivka",16263,48.02,37.51,1.4e2
-"Ukraine","Hmelnickij","Dunayivtsi",16223,48.9,26.830000000000002,2.9e2
+"Ukraine","Khmelnytskyi","Dunaivtsi",16223,48.9,26.830000000000002,2.9e2
 "Ukraine","Harkov","Zmiyiv",16194,49.7,36.38,88.
-"Ukraine","Herson","HolaPrystan",16102,46.52,32.53,0
+"Ukraine","Herson","Hola Prystan",16102,46.52,32.53,0
 "Ukraine","Donetsk","Bilozerske",16101,48.52,37.08,2.e2
 "Ukraine","Poltava","Pyryatyn",15882,50.25,32.52,1.e2
 "Ukraine","Vinnica","Tulchyn",15763,48.68,28.87,2.e2
 "Ukraine","Donetsk","Mykolayivka",15684,47.65,37.68,1.4e2
 "Ukraine","Lugansk","Chervonopartyzansk",15659,48.08,39.79,2.9e2
-"Ukraine","IvanoFrankivsk","Burshtyn",15640,49.27,24.63,2.3e2
+"Ukraine","Ivano‐Frankivsk","Burshtyn",15640,49.27,24.63,2.3e2
 "Ukraine","Donetsk","Ilovaysk",15639,47.93,38.19,1.9e2
 "Ukraine","Lviv","Horodok",15634,49.78,23.650000000000002,2.7e2
-"Ukraine","Mykolayivsk","NovyyBuh",15603,47.7,32.52,96.
+"Ukraine","Mykolayivsk","Novyy Buh",15603,47.7,32.52,96.
 "Ukraine","Dnipropetrovsk","Apostolove",15585,47.67,33.730000000000004,84.
 "Ukraine","Dnipropetrovsk","Taromske",15500,48.45,34.78,1.6e2
 "Ukraine","Odesa","Bolhrad",15499,45.68,28.61,65.
@@ -284,24 +284,24 @@
 "Ukraine","Chernigov","Nosivka",14973,50.93,31.580000000000002,1.2e2
 "Ukraine","Odesa","Artsyz",14919,45.980000000000004,29.42,13.
 "Ukraine","Zaporizhzhya","Vasylivka",14816,47.44,35.27,47.
-"Ukraine","Zaporizhzhya","KamyankaDniprovska",14785,47.49,34.410000000000004,16.
+"Ukraine","Zaporizhzhya","Kamyanka‐Dniprovska",14785,47.49,34.410000000000004,16.
 "Ukraine","Cherkask","Kamyanka",14673,49.03,32.1,1.3e2
 "Ukraine","Mykolayivsk","Snihurivka",14668,47.07,32.82,28.
-"Ukraine","Chernigov","NovhorodSiverskyy",14608,51.9833,33.2667,"null"
+"Ukraine","Chernigov","Novhorod‐Siverskyy",14608,51.9833,33.2667,"null"
 "Ukraine","Lviv","Mykolayiv",14603,49.51,23.98,3.1e2
-"Ukraine","Lugansk","StanytsiaLuhanska",14543,48.666666666667,39.466666666667,"null"
+"Ukraine","Lugansk","Stanytsia Luhanska",14543,48.666666666667,39.466666666667,"null"
 "Ukraine","Herson","Beryslav",14527,46.84,33.42,36.
 "Ukraine","Mykolayivsk","Ochakiv",14491,46.62,31.55,36.
 "Ukraine","Cherkask","Talne",14420,48.89,30.7,1.4e2
 "Ukraine","Volyn","Kivertsi",14376,50.83,25.47,2.e2
 "Ukraine","Dnipropetrovsk","Zelenodolsk",14323,47.6,33.68,93.
-"Ukraine","Donetsk","NyzhnyaKrynka",14253,48.11,38.17,1.3e2
+"Ukraine","Donetsk","Nyzhnya Krynka",14253,48.11,38.17,1.3e2
 "Ukraine","Chernivtsi","Storozhynets",14197,48.160000000000004,25.72,3.5e2
 "Ukraine","Kyyivska","Ukrayinka",14151,50.13,30.73,1.e2
 "Ukraine","Kyyivska","Tetiyiv",14070,49.38,29.67,1.8e2
 "Ukraine","Ternopil","Zbarazh",14004,49.67,25.78,3.3e2
-"Ukraine","Donetsk","ChasivYar",13999,48.58,37.85,2.3e2
-"Ukraine","Lugansk","StanychnoLuhanske",13903,48.65,39.49,39.
+"Ukraine","Donetsk","Chasiv Yar",13999,48.58,37.85,2.3e2
+"Ukraine","Lugansk","Stanychno‐Luhanske",13903,48.65,39.49,39.
 "Ukraine","Kyyivska","Kotsyubynske",13900,50.5,30.36,1.6e2
 "Ukraine","Chernigov","Koryukivka",13834,51.77,32.27,1.3e2
 "Ukraine","Lviv","Zhovkva",13834,50.07,23.97,2.2e2
@@ -317,7 +317,7 @@
 "Ukraine","Volyn","Rozhyshche",13245,50.92,25.27,1.8e2
 "Ukraine","Zaporizhzhya","Mykhaylivka",13216,47.27,35.22,86.
 "Ukraine","Rivne","Berezne",13112,51.,26.75,"null"
-"Ukraine","Harkov","NovaVodolaha",13112,49.72,35.87,1.1e2
+"Ukraine","Harkov","Nova Vodolaha",13112,49.72,35.87,1.1e2
 "Ukraine","Donetsk","Zhdanivka",13082,48.160000000000004,38.26,2.2e2
 "Ukraine","Lviv","Yavoriv",13057,49.95,23.39,2.3e2
 "Ukraine","Donetsk","Svitlodarske",12931,48.4,38.22,1.6e2
@@ -336,10 +336,10 @@
 "Ukraine","Poltava","Kotelva",12387,50.07,34.75,98.
 "Ukraine","Harkov","Solonytsivka",12378,49.99,36.050000000000004,1.1e2
 "Ukraine","Zaporizhzhya","Yakymivka",12353,46.69,35.15,21.
-"Ukraine","Kirovograd","MalaVyska",12348,48.65,31.63,1.8e2
-"Ukraine","Volyn","KaminKashyrskyy",12330,51.63,24.97,1.5e2
+"Ukraine","Kirovograd","Mala Vyska",12348,48.65,31.63,1.8e2
+"Ukraine","Volyn","Kamin‐Kashyrskyy",12330,51.63,24.97,1.5e2
 "Ukraine","Chernigov","Ichnya",12312,50.870000000000005,32.4,1.6e2
-"Ukraine","Mykolayivsk","NovaOdesa",12164,47.32,31.78,53.
+"Ukraine","Mykolayivsk","Nova Odesa",12164,47.32,31.78,53.
 "Ukraine","Donetsk","Siversk",12145,48.870000000000005,38.11,1.e2
 "Ukraine","Kyyivska","Uzyn",12122,49.83,30.41,1.7e2
 "Ukraine","Lugansk","Teplohirsk",12113,48.6,38.59,1.8e2
@@ -348,7 +348,7 @@
 "Ukraine","Kyyivska","Hostomel",12036,50.58,30.27,1.e2
 "Ukraine","Harkov","Barvinkove",11978,48.9,37.02,1.e2
 "Ukraine","Odesa","Bilyayivka",11891,46.480000000000004,30.2,0
-"Ukraine","IvanoFrankivsk","Perehinske",11838,48.81,24.19,4.9e2
+"Ukraine","Ivano‐Frankivsk","Perehinske",11838,48.81,24.19,4.9e2
 "Ukraine","Donetsk","Ukrayinsk",11824,48.1,37.39,2.e2
 "Ukraine","Chernigov","Shchors",11815,51.82,31.93,1.1e2
 "Ukraine","Kirovograd","Bobrynets",11762,48.050000000000004,32.17,1.2e2
@@ -388,10 +388,10 @@
 "Ukraine","Dnipropetrovsk","Shyroke",10920,47.68,33.27,75.
 "Ukraine","Chernivtsi","Novodnistrovsk",10920,48.6,27.42,2.3e2
 "Ukraine","Poltava","Hrebinka",10911,50.120000000000005,32.43,1.1e2
-"Ukraine","Donetsk","KarloMarksove",10908,48.27,38.14,2.4e2
+"Ukraine","Donetsk","Karlo‐Marksove",10908,48.27,38.14,2.4e2
 "Ukraine","Donetsk","Novhorodske",10850,48.33,37.83,1.2e2
 "Ukraine","Sumska","Buryn",10818,51.2,33.82,1.4e2
-"Ukraine","Lviv","KamyankaBuzka",10779,50.1,24.35,2.1e2
+"Ukraine","Lviv","Kamyanka‐Buzka",10779,50.1,24.35,2.1e2
 "Ukraine","Donetsk","Sartana",10779,47.18,37.7,21.
 "Ukraine","Dnipropetrovsk","Yuvileyne",10746,48.5342,35.0749,"null"
 "Ukraine","Lugansk","Zymohirya",10703,48.59,38.93,55.
@@ -399,7 +399,7 @@
 "Ukraine","Kirovograd","Oleksandrivka",10687,48.97,32.24,1.2e2
 "Ukraine","Zaporizhzhya","Vesele",10683,47.01,34.910000000000004,75.
 "Ukraine","Herson","Kalanchak",10673,46.25,33.3,7.
-"Ukraine","Hmelnickij","Letychiv",10669,49.38,27.62,2.7e2
+"Ukraine","Khmelnytskyi","Letychiv",10669,49.38,27.62,2.7e2
 "Ukraine","Donetsk","Syeverne",10664,48.07,38.730000000000004,2.8e2
 "Ukraine","Herson","Novotroitske",10647,46.354444444444,34.336111111111,"null"
 "Ukraine","Volyn","Manevychi",10612,51.300000000000004,25.52,1.9e2
@@ -414,10 +414,10 @@
 "Ukraine","Volyn","Lyuboml",10279,51.230000000000004,24.03,1.9e2
 "Ukraine","Odesa","Teplodar",10251,46.5,30.330000000000002,66.
 "Ukraine","Herson","Chaplynka",10224,46.36,33.54,21.
-"Ukraine","Hmelnickij","Derazhnya",10216,49.27,27.43,2.8e2
+"Ukraine","Khmelnytskyi","Derazhnya",10216,49.27,27.43,2.8e2
 "Ukraine","Kyyivska","Ivankiv",10170,50.93,29.900000000000002,1.4e2
 "Ukraine","Dnipropetrovsk","Pereshchepyne",10106,49.02,35.37,84.
-"Ukraine","IvanoFrankivsk","Snyatyn",10100,48.45,25.57,2.3e2
+"Ukraine","Ivano‐Frankivsk","Snyatyn",10100,48.45,25.57,2.3e2
 "Ukraine","Zhitomir","Chernyakhiv",10082,50.45,28.67,2.2e2
 "Ukraine","Kyyivska","Borova",10000,50.17,30.1,1.7e2
 "Ukraine","Harkov","Pokotylivka",9962,49.92,36.18,1.4e2
@@ -431,33 +431,33 @@
 "Ukraine","Donetsk","Bilenke",9760,48.77,37.63,1.1e2
 "Ukraine","Lugansk","Novopskov",9739,49.54,39.12,68.
 "Ukraine","Zhitomir","Cherniakhiv",9724,50.455,28.665277777778,"null"
-"Ukraine","Kyyivska","VelykaDymerka",9699,50.6,30.91,1.2e2
+"Ukraine","Kyyivska","Velyka Dymerka",9699,50.6,30.91,1.2e2
 "Ukraine","Ternopil","Zalishchyky",9696,48.64,25.73,1.6e2
 "Ukraine","Crimea","Hresivske",9664,45.03,34.02,1.8e2
 "Ukraine","Donetsk","Biletske",9620,48.44,37.18,2.e2
 "Ukraine","Lviv","Khodoriv",9605,49.410000000000004,24.310000000000002,2.5e2
-"Ukraine","Lviv","ZymnaVoda",9602,49.81,23.88,3.4e2
+"Ukraine","Lviv","Zymna Voda",9602,49.81,23.88,3.4e2
 "Ukraine","Lviv","Radekhiv",9600,50.28,24.650000000000002,2.3e2
 "Ukraine","Mykolayivsk","Vradiyivka",9578,47.870000000000005,30.6,1.6e2
 "Ukraine","Odesa","Beryozovka",9555,47.21,30.91,15.
-"Ukraine","Herson","VelykaLepetykha",9511,47.18,33.95,65.
+"Ukraine","Herson","Velyka Lepetykha",9511,47.18,33.95,65.
 "Ukraine","Rivne","Dubrovytsya",9510,51.57,26.57,1.4e2
-"Ukraine","Donetsk","NovyySvit",9488,47.81,38.02,1.2e2
+"Ukraine","Donetsk","Novyy Svit",9488,47.81,38.02,1.2e2
 "Ukraine","Chernivtsi","Khotyn",9422,48.480000000000004,26.5,2.4e2
 "Ukraine","Vinnica","Lypovets",9402,49.230000000000004,29.05,2.3e2
 "Ukraine","Lugansk","Uspenka",9400,48.39,39.160000000000004,1.e2
 "Ukraine","Poltava","Reshetylivka",9385,49.57,34.07,84.
-"Ukraine","Crimea","StaryyKrym",9370,45.03,35.1,3.2e2
-"Ukraine","IvanoFrankivsk","Tysmenytsya",9357,48.9,24.85,2.4e2
+"Ukraine","Crimea","Staryy Krym",9370,45.03,35.1,3.2e2
+"Ukraine","Ivano‐Frankivsk","Tysmenytsya",9357,48.9,24.85,2.4e2
 "Ukraine","Herson","Bilozerka",9348,46.63,32.44,26.
 "Ukraine","Harkov","Andriyivka",9335,49.54,36.64,91.
-"Ukraine","Cherkask","ChervonaSloboda",9333,49.370000000000005,32.18,77.
-"Ukraine","IvanoFrankivsk","Horodenka",9315,48.67,25.5,2.8e2
+"Ukraine","Cherkask","Chervona Sloboda",9333,49.370000000000005,32.18,77.
+"Ukraine","Ivano‐Frankivsk","Horodenka",9315,48.67,25.5,2.8e2
 "Ukraine","Cherkask","Monastyryshche",9313,48.980000000000004,29.82,2.5e2
-"Ukraine","Harkov","KupyanskVuzlovyy",9311,49.660000000000004,37.67,99.
+"Ukraine","Harkov","Kupyansk‐Vuzlovyy",9311,49.660000000000004,37.67,99.
 "Ukraine","Transcarpathia","Mezhgorye",9297,48.53,23.5,4.4e2
 "Ukraine","Harkov","Bezlyudivka",9294,49.88,36.28,1.1e2
-"Ukraine","Transcarpathia","VelykyiBychkiv",9255,47.971388888889,24.004722222222,"null"
+"Ukraine","Transcarpathia","Velykyi Bychkiv",9255,47.971388888889,24.004722222222,"null"
 "Ukraine","Transcarpathia","Irshava",9245,48.32,23.05,1.4e2
 "Ukraine","Vinnica","Kryzhopil",9235,48.38,28.88,2.9e2
 "Ukraine","Lviv","Mostyska",9193,49.800000000000004,23.150000000000002,2.1e2
@@ -468,7 +468,7 @@
 "Ukraine","Lviv","Pustomyty",9111,49.72,23.92,3.1e2
 "Ukraine","Kirovograd","Smoline",9102,48.6,31.25,2.e2
 "Ukraine","Volyn","Ratne",9081,51.68,24.52,1.5e2
-"Ukraine","Transcarpathia","VelykyyBychkiv",9079,48.97,24.01,3.8e2
+"Ukraine","Transcarpathia","Velykyy Bychkiv",9079,48.97,24.01,3.8e2
 "Ukraine","Chernigov","Semenivka",9054,52.18,32.58,1.6e2
 "Ukraine","Transcarpathia","Tyachiv",9043,48.02,23.580000000000002,2.1e2
 "Ukraine","Lugansk","Yasenivskyy",8998,48.17,39.230000000000004,2.2e2
@@ -486,27 +486,27 @@
 "Ukraine","Lugansk","Artemivsk",8759,48.44,38.74,2.8e2
 "Ukraine","Crimea","Nyzhnohirskyy",8741,45.45,34.730000000000004,22.
 "Ukraine","Lugansk","Novoaydar",8735,48.9592,39.0194,"null"
-"Ukraine","IvanoFrankivsk","Tlumach",8710,48.8294,25.0906,"null"
+"Ukraine","Ivano‐Frankivsk","Tlumach",8710,48.8294,25.0906,"null"
 "Ukraine","Ternopil","Lanivtsi",8709,49.870000000000005,26.080000000000002,2.5e2
 "Ukraine","Rivne","Volodymyrets",8699,51.42,26.13,1.8e2
-"Ukraine","Transcarpathia","VelykiLuchky",8693,48.410000000000004,22.57,1.1e2
+"Ukraine","Transcarpathia","Velyki Luchky",8693,48.410000000000004,22.57,1.1e2
 "Ukraine","Harkov","Donets",8680,49.508532,36.5722175,"null"
-"Ukraine","Lviv","RavaRuska",8647,50.25,23.62,2.6e2
-"Ukraine","IvanoFrankivsk","Kosiv",8634,48.32,25.1,3.7e2
-"Ukraine","Zaporizhzhya","VelykaZnamyanka",8631,47.44,34.35,14.
+"Ukraine","Lviv","Rava‐Ruska",8647,50.25,23.62,2.6e2
+"Ukraine","Ivano‐Frankivsk","Kosiv",8634,48.32,25.1,3.7e2
+"Ukraine","Zaporizhzhya","Velyka Znamyanka",8631,47.44,34.35,14.
 "Ukraine","Transcarpathia","Bushtyno",8620,48.050000000000004,23.490000000000002,2.e2
 "Ukraine","Sumska","Krasnopillya",8603,50.77,35.26,1.8e2
 "Ukraine","Transcarpathia","Yasinya",8596,48.27,24.36,6.7e2
 "Ukraine","Vinnica","Stryzhavka",8593,49.31,28.47,2.5e2
 "Ukraine","Harkov","Andriivka",8590,49.5325,36.621944444444,"null"
 "Ukraine","Chernigov","Kozelets",8584,50.92,31.12,1.1e2
-"Ukraine","Hmelnickij","Yarmolyntsi",8583,49.2,26.830000000000002,3.4e2
+"Ukraine","Khmelnytskyi","Yarmolyntsi",8583,49.2,26.830000000000002,3.4e2
 "Ukraine","Transcarpathia","Ilnytsya",8571,48.35,23.080000000000002,1.9e2
 "Ukraine","Lugansk","Pryvillya",8563,49.01,38.300000000000004,1.6e2
 "Ukraine","Chernigov","Varva",8549,50.5,32.730000000000004,1.2e2
 "Ukraine","Donetsk","Volodarske",8539,47.2,37.33,1.4e2
 "Ukraine","Lugansk","Novodruzhesk",8525,48.97,38.35,1.7e2
-"Ukraine","Harkov","KupianskVuzlovyi",8492,49.658611111111,37.650277777778,"null"
+"Ukraine","Harkov","Kupiansk-Vuzlovyi",8492,49.658611111111,37.650277777778,"null"
 "Ukraine","Crimea","Pervomayskoye",8470,45.72,33.86,26.
 "Ukraine","Crimea","Pervomayske",8470,45.45,33.7,74.
 "Ukraine","Donetsk","Myronivskyy",8457,48.46,38.27,1.5e2
@@ -521,13 +521,13 @@
 "Ukraine","Poltava","Chervonozavodske",8316,50.4,33.4,1.1e2
 "Ukraine","Rivne","Kvasyliv",8310,50.57,26.25,1.9e2
 "Ukraine","Lugansk","Zorynsk",8291,48.410000000000004,38.56,2.3e2
-"Ukraine","Mykolayivsk","KryveOzero",8258,47.93,30.35,94.
+"Ukraine","Mykolayivsk","Kryve Ozero",8258,47.93,30.35,94.
 "Ukraine","Zaporizhzhya","Kushuhum",8258,47.71,35.21,26.
 "Ukraine","Donetsk","Yasnohirka",8257,48.78,37.550000000000004,91.
 "Ukraine","Kirovograd","Petrove",8252,48.33,33.25,1.e2
 "Ukraine","Kyyivska","Rzhyshchiv",8238,49.97,31.05,92.
 "Ukraine","Odesa","Dachne",8230,46.58,30.57,66.
-"Ukraine","IvanoFrankivsk","Yaremche",8208,48.46,24.55,5.8e2
+"Ukraine","Ivano‐Frankivsk","Yaremche",8208,48.46,24.55,5.8e2
 "Ukraine","Harkov","Pivdenne",8200,49.88,36.07,1.6e2
 "Ukraine","Odesa","Nerubayske",8199,46.53,30.62,61.
 "Ukraine","Harkov","Sakhnovshchyna",8188,49.13,35.88,1.7e2
@@ -543,14 +543,14 @@
 "Ukraine","Cherkask","Chornobay",8053,49.67,32.33,1.1e2
 "Ukraine","Ternopil","Pochaiv",8035,50.01,25.490000000000002,3.4e2
 "Ukraine","Vinnica","Trostyanets",8021,49.1,28.62,2.8e2
-"Ukraine","Poltava","NoviSanzhary",8020,49.33,34.33,76.
+"Ukraine","Poltava","Novi Sanzhary",8020,49.33,34.33,76.
 "Ukraine","Mykolayivsk","Kazanka",8010,47.83,32.83,88.
-"Ukraine","IvanoFrankivsk","Rohatyn",7983,49.410000000000004,24.61,2.4e2
-"Ukraine","IvanoFrankivsk","Delyatyn",7980,48.53,24.63,4.2e2
-"Ukraine","IvanoFrankivsk","Bohorodchany",7971,48.81,24.54,3.3e2
+"Ukraine","Ivano‐Frankivsk","Rohatyn",7983,49.410000000000004,24.61,2.4e2
+"Ukraine","Ivano‐Frankivsk","Delyatyn",7980,48.53,24.63,4.2e2
+"Ukraine","Ivano‐Frankivsk","Bohorodchany",7971,48.81,24.54,3.3e2
 "Ukraine","Zhitomir","Dzerzhynsk",7955,50.15,27.93,2.4e2
 "Ukraine","Cherkask","Lysyanka",7954,49.25,30.830000000000002,1.5e2
-"Ukraine","IvanoFrankivsk","Lanchyn",7943,48.550000000000004,24.76,3.9e2
+"Ukraine","Ivano‐Frankivsk","Lanchyn",7943,48.550000000000004,24.76,3.9e2
 "Ukraine","Dnipropetrovsk","Kirovske",7942,48.53,34.85,56.
 "Ukraine","Chernivtsi","Zastavna",7898,48.52,25.85,2.3e2
 "Ukraine","Lugansk","Ivanivka",7879,48.22,38.96,3.3e2
@@ -563,9 +563,9 @@
 "Ukraine","Chernigov","Sosnytsya",7825,51.53,32.5,1.2e2
 "Ukraine","Dnipropetrovsk","Mezhova",7817,48.25,36.730000000000004,1.8e2
 "Ukraine","Poltava","Dykanka",7789,49.82,34.53,1.6e2
-"Ukraine","Cherkask","RusskayaPolyana",7780,49.42,31.96,1.1e2
+"Ukraine","Cherkask","Russkaya Polyana",7780,49.42,31.96,1.1e2
 "Ukraine","Transcarpathia","Bilky",7778,48.32,23.13,1.6e2
-"Ukraine","Zhitomir","VolodarskVolynskyy",7737,50.6,28.45,2.e2
+"Ukraine","Zhitomir","Volodarsk‐Volynskyy",7737,50.6,28.45,2.e2
 "Ukraine","Odesa","Usatove",7732,46.53,30.67,50.
 "Ukraine","Chernivtsi","Berehomet",7717,48.18,25.34,4.5e2
 "Ukraine","Lugansk","Bilokurakyne",7712,49.54,38.7,1.1e2
@@ -574,17 +574,17 @@
 "Ukraine","Lugansk","Slovianoserbsk",7690,48.696388888889,38.981666666667,"null"
 "Ukraine","Ternopil","Pidvolochysk",7676,49.53,26.150000000000002,2.8e2
 "Ukraine","Vinnica","Trostianets",7655,48.511969444444,29.213672222222,"null"
-"Ukraine","Donetsk","OleksiyivoDruzhkivka",7648,48.620000000000005,37.59,1.5e2
+"Ukraine","Donetsk","Oleksiyivo‐Druzhkivka",7648,48.620000000000005,37.59,1.5e2
 "Ukraine","Zhitomir","Khoroshiv",7644,50.6,28.45,"null"
 "Ukraine","Chernivtsi","Novoselytsya",7642,48.22,26.28,1.3e2
-"Ukraine","Hmelnickij","Poninka",7642,50.18,27.53,2.3e2
+"Ukraine","Khmelnytskyi","Poninka",7642,50.18,27.53,2.3e2
 "Ukraine","Kyyivska","Stavyshche",7634,50.4,29.53,1.8e2
 "Ukraine","Ternopil","Zboriv",7623,49.67,25.150000000000002,3.5e2
 "Ukraine","Transcarpathia","Teresva",7617,48.,23.6992,"null"
-"Ukraine","Transcarpathia","VelykyiBereznyi",7559,48.892222222222,22.458611111111,"null"
+"Ukraine","Transcarpathia","Velykyi Bereznyi",7559,48.892222222222,22.458611111111,"null"
 "Ukraine","Zhitomir","Romaniv",7558,50.151666666667,27.939166666667,"null"
 "Ukraine","Dnipropetrovsk","Tsarychanka",7515,48.95,34.480000000000004,72.
-"Ukraine","Kirovograd","NovaPraha",7513,48.57,32.910000000000004,1.1e2
+"Ukraine","Kirovograd","Nova Praha",7513,48.57,32.910000000000004,1.1e2
 "Ukraine","Mykolayivsk","Bereznehuvate",7506,47.300000000000004,32.85,23.
 "Ukraine","Harkov","Malynivka",7502,49.800000000000004,36.72,1.1e2
 "Ukraine","Lugansk","Chernukhyne",7498,48.33,38.52,2.9e2
@@ -592,26 +592,26 @@
 "Ukraine","Lugansk","Kripenskyy",7487,48.07,39.06,1.9e2
 "Ukraine","Rivne","Klevan",7470,50.75,25.98,2.1e2
 "Ukraine","Donetsk","Holmovske",7469,48.4,38.08,1.7e2
-"Ukraine","Kyyivska","NoviPetrivtsi",7427,50.620000000000005,30.45,1.6e2
+"Ukraine","Kyyivska","Novi Petrivtsi",7427,50.620000000000005,30.45,1.6e2
 "Ukraine","Donetsk","Novotroyitske",7414,48.58,37.22,2.e2
-"Ukraine","Odesa","VelykyyDalnyk",7387,46.46,30.560000000000002,56.
+"Ukraine","Odesa","Velykyy Dalnyk",7387,46.46,30.560000000000002,56.
 "Ukraine","Sumska","Svesa",7361,51.95,33.95,1.7e2
 "Ukraine","Odesa","Vypasne",7358,46.1872,30.2592,"null"
 "Ukraine","Kyyivska","Volodarka",7355,49.52,29.92,1.7e2
 "Ukraine","Kirovograd","Novoarkhanhelsk",7355,48.660000000000004,30.82,1.4e2
 "Ukraine","Chernivtsi","Kelmentsi",7346,48.47,26.830000000000002,2.1e2
 "Ukraine","Dnipropetrovsk","Solone",7304,48.22,34.87,1.3e2
-"Ukraine","Herson","VelykaOleksandrivka",7281,47.32,33.32,75.
-"Ukraine","Sumska","SeredynaBuda",7280,52.19,34.03,1.9e2
+"Ukraine","Herson","Velyka Oleksandrivka",7281,47.32,33.32,75.
+"Ukraine","Sumska","Seredyna‐Buda",7280,52.19,34.03,1.9e2
 "Ukraine","Crimea","Masandra",7280,44.52,34.18,1.4e2
 "Ukraine","Sumska","Voronizh",7266,51.77,33.47,1.5e2
-"Ukraine","Herson","NovaZburyivka",7263,46.46,32.46,12.
+"Ukraine","Herson","Nova Zburyivka",7263,46.46,32.46,12.
 "Ukraine","Rivne","Korets",7245,50.620000000000005,27.17,2.1e2
-"Ukraine","Herson","NovaMayachka",7238,46.6,33.230000000000004,12.
+"Ukraine","Herson","Nova Mayachka",7238,46.6,33.230000000000004,12.
 "Ukraine","Odesa","Shyriaieve",7238,47.387777777778,30.191111111111,"null"
 "Ukraine","Ternopil","Khorostkiv",7234,49.230000000000004,25.92,3.1e2
-"Ukraine","Donetsk","VelykaNovosilka",7214,47.84,36.83,1.e2
-"Ukraine","Harkov","MalaDanylivka",7211,50.07,36.160000000000004,1.3e2
+"Ukraine","Donetsk","Velyka Novosilka",7214,47.84,36.83,1.e2
+"Ukraine","Harkov","Mala Danylivka",7211,50.07,36.160000000000004,1.3e2
 "Ukraine","Crimea","Kirovske",7187,45.54,33.08,67.
 "Ukraine","Kyyivska","Piskivka",7173,50.68,29.650000000000002,1.6e2
 "Ukraine","Zhitomir","Yemilchyne",7156,50.870000000000005,27.8,2.e2
@@ -638,7 +638,7 @@
 "Ukraine","Harkov","Komunist",6972,49.8917,36.4536,"null"
 "Ukraine","Chernigov","Desna",6906,50.92,30.75,1.2e2
 "Ukraine","Odesa","Kominternivske",6903,46.82,30.93,62.
-"Ukraine","Hmelnickij","Teofipol",6895,49.83,26.42,2.5e2
+"Ukraine","Khmelnytskyi","Teofipol",6895,49.83,26.42,2.5e2
 "Ukraine","Harkov","Peresichna",6894,50.02,35.980000000000004,1.2e2
 "Ukraine","Odesa","Shabo",6886,46.13,30.38,11.
 "Ukraine","Lviv","Peremyshlyany",6874,49.67,24.55,3.5e2
@@ -656,7 +656,7 @@
 "Ukraine","Vinnica","Turbiv",6740,49.33,28.73,2.5e2
 "Ukraine","Transcarpathia","Perechyn",6737,48.730000000000004,22.47,1.4e2
 "Ukraine","Chernigov","Ladan",6719,50.52,32.58,1.5e2
-"Ukraine","Hmelnickij","Vinkivtsi",6685,49.03,27.23,2.7e2
+"Ukraine","Khmelnytskyi","Vinkivtsi",6685,49.03,27.23,2.7e2
 "Ukraine","Crimea","Zuya",6677,45.050000000000004,34.33,2.7e2
 "Ukraine","Rivne","Zarichne",6671,51.82,26.13,1.5e2
 "Ukraine","Crimea","Viline",6649,44.85,33.65,22.
@@ -666,20 +666,20 @@
 "Ukraine","Kyyivska","Hrebinky",6582,49.95,30.21,1.8e2
 "Ukraine","Dnipropetrovsk","Mahdalynivka",6567,48.88,34.93,1.e2
 "Ukraine","Transcarpathia","Chynadiyovo",6564,48.480000000000004,22.830000000000002,1.4e2
-"Ukraine","Herson","VerkhniyRohachyk",6557,47.25,34.33,53.
+"Ukraine","Herson","Verkhniy Rohachyk",6557,47.25,34.33,53.
 "Ukraine","Crimea","Voskhod",6557,45.34,36.410000000000004,66.
-"Ukraine","Transcarpathia","VelykyyBereznyy",6551,48.9,22.46,2.1e2
+"Ukraine","Transcarpathia","Velykyy Bereznyy",6551,48.9,22.46,2.1e2
 "Ukraine","Donetsk","Bylbasivka",6545,48.85,37.5,1.1e2
 "Ukraine","Harkov","Slatyne",6544,50.22,36.160000000000004,1.3e2
 "Ukraine","Transcarpathia","Dovhe",6541,48.370000000000005,23.28,1.8e2
 "Ukraine","Mykolayivsk","Domanivka",6517,47.63,30.98,64.
 "Ukraine","Kirovograd","Holovanivsk",6516,48.38,30.46,1.7e2
-"Ukraine","Vinnica","VinnytskiKhutory",6511,49.21,28.55,3.e2
-"Ukraine","Ternopil","VelykaBerezovytsia",6503,49.496388888889,25.608888888889,"null"
-"Ukraine","Transcarpathia","VelykiKomyaty",6493,48.24,22.97,1.3e2
+"Ukraine","Vinnica","Vinnytski Khutory",6511,49.21,28.55,3.e2
+"Ukraine","Ternopil","Velyka Berezovytsia",6503,49.496388888889,25.608888888889,"null"
+"Ukraine","Transcarpathia","Velyki Komyaty",6493,48.24,22.97,1.3e2
 "Ukraine","Ternopil","Husyatyn",6481,49.07,26.22,2.7e2
 "Ukraine","Crimea","Petrivka",6467,45.51,34.28,38.
-"Ukraine","Lviv","SudovaVyshnya",6461,49.78,23.37,2.5e2
+"Ukraine","Lviv","Sudova Vyshnya",6461,49.78,23.37,2.5e2
 "Ukraine","Donetsk","Novotroitske",6445,47.7,37.6,"null"
 "Ukraine","Dnipropetrovsk","Chervonohryhorivka",6444,47.62,34.54,32.
 "Ukraine","Lviv","Dobrotvir",6436,50.230000000000004,24.37,2.e2
@@ -699,8 +699,8 @@
 "Ukraine","Chernivtsi","Klishkivtsi",6272,48.43,26.27,2.5e2
 "Ukraine","Poltava","Semenivka",6264,49.6,33.17,91.
 "Ukraine","Lviv","Krasne",6250,49.910000000000004,24.61,2.2e2
-"Ukraine","IvanoFrankivsk","Halych",6247,49.120000000000005,24.73,2.4e2
-"Ukraine","Ternopil","VelykaBerezovytsya",6247,48.5,25.6,3.e2
+"Ukraine","Ivano‐Frankivsk","Halych",6247,49.120000000000005,24.73,2.4e2
+"Ukraine","Ternopil","Velyka Berezovytsya",6247,48.5,25.6,3.e2
 "Ukraine","Lugansk","Heorhiyivka",6241,48.42,39.25,67.
 "Ukraine","Dnipropetrovsk","Karnaukhivka",6227,48.480000000000004,34.730000000000004,88.
 "Ukraine","Kyyivska","Trebukhiv",6207,50.480000000000004,30.900000000000002,1.1e2
@@ -712,7 +712,7 @@
 "Ukraine","Chernigov","Oster",6180,50.95,30.88,1.1e2
 "Ukraine","Zaporizhzhya","Balabyne",6166,47.730000000000004,35.21,68.
 "Ukraine","Kyyivska","Vorzel",6152,50.550000000000004,30.150000000000002,1.6e2
-"Ukraine","Lviv","VelykiMosty",6121,50.24,24.12,2.1e2
+"Ukraine","Lviv","Velyki Mosty",6121,50.24,24.12,2.1e2
 "Ukraine","Vinnica","Sutysky",6111,49.050000000000004,28.43,2.5e2
 "Ukraine","Zhitomir","Irshansk",6077,50.730000000000004,28.73,1.9e2
 "Ukraine","Kyyivska","Nemishayeve",6067,50.57,30.080000000000002,1.5e2
@@ -720,74 +720,74 @@
 "Ukraine","Donetsk","Novodonetske",6022,48.6353,36.9848,"null"
 "Ukraine","Lviv","Rudno",6016,49.83,23.900000000000002,3.1e2
 "Ukraine","Chernivtsi","Kamyanka",6007,48.04,25.900000000000002,3.2e2
-"Ukraine","Vinnica","MurovaniKurylivtsi",5994,48.730000000000004,27.52,2.e2
+"Ukraine","Vinnica","Murovani Kurylivtsi",5994,48.730000000000004,27.52,2.e2
 "Ukraine","Odesa","Tarutyne",5988,46.19,29.150000000000002,90.
 "Ukraine","Zhitomir","Popilnya",5986,49.97,29.45,2.e2
 "Ukraine","Odesa","Chervonoarmiyske",5982,45.79,28.740000000000002,87.
-"Ukraine","Donetsk","StaryyKrym",5977,47.17,37.5,25.
+"Ukraine","Donetsk","Staryy Krym",5977,47.17,37.5,25.
 "Ukraine","Lugansk","Lozivskyy",5968,48.56,38.89,1.8e2
 "Ukraine","Crimea","Molodizhne",5955,47.8269,37.7194,"null"
 "Ukraine","Zaporizhzhya","Chernihivka",5948,47.2,36.17,1.1e2
 "Ukraine","Mykolayivsk","Bratske",5948,47.870000000000005,31.580000000000002,81.
-"Ukraine","Kyyivska","PetropavlivskaBorshchahivka",5911,50.43,30.330000000000002,1.7e2
+"Ukraine","Kyyivska","Petropavlivska Borshchahivka",5911,50.43,30.330000000000002,1.7e2
 "Ukraine","Volyn","Tsuman",5900,50.83,25.88,1.8e2
 "Ukraine","Volyn","Turiysk",5865,51.1,24.53,1.7e2
 "Ukraine","Harkov","Vasyshcheve",5862,49.83,36.33,96.
-"Ukraine","IvanoFrankivsk","Verkhovyna",5857,48.160000000000004,24.8,6.3e2
+"Ukraine","Ivano‐Frankivsk","Verkhovyna",5857,48.160000000000004,24.8,6.3e2
 "Ukraine","Lviv","Morshyn",5850,49.15,23.87,3.4e2
 "Ukraine","Vinnica","Tomashpil",5842,48.53,28.52,2.4e2
 "Ukraine","Lviv","Shklo",5839,49.95,23.53,2.6e2
-"Ukraine","Chernivtsi","VelykyyKuchuriv",5826,48.2,25.89,2.7e2
-"Ukraine","IvanoFrankivsk","Kosmach",5822,48.36,24.830000000000002,6.1e2
+"Ukraine","Chernivtsi","Velykyy Kuchuriv",5826,48.2,25.89,2.7e2
+"Ukraine","Ivano‐Frankivsk","Kosmach",5822,48.36,24.830000000000002,6.1e2
 "Ukraine","Vinnica","Bratslav",5819,48.83,28.95,2.e2
 "Ukraine","Kyyivska","Dymer",5817,50.78,30.3,1.1e2
 "Ukraine","Harkov","Pechenihy",5814,49.870000000000005,36.93,95.
 "Ukraine","Volyn","Lyubeshiv",5812,51.77,25.52,1.5e2
-"Ukraine","Herson","NyzhniSirohozy",5797,46.84,34.38,47.
+"Ukraine","Herson","Nyzhni Sirohozy",5797,46.84,34.38,47.
 "Ukraine","Herson","Lyubymivka",5786,46.800000000000004,33.59,55.
-"Ukraine","Hmelnickij","StaraSynyava",5771,49.6,27.62,2.7e2
+"Ukraine","Khmelnytskyi","Stara Synyava",5771,49.6,27.62,2.7e2
 "Ukraine","Lugansk","Borivske",5745,48.88,38.38,1.1e2
 "Ukraine","Dnipropetrovsk","Hubynykha",5745,48.82,35.25,1.3e2
 "Ukraine","Chernigov","Kulykivka",5739,51.370000000000005,31.650000000000002,1.2e2
 "Ukraine","Odesa","Chornomorske",5731,45.5031,32.705,"null"
 "Ukraine","Zaporizhzhya","Balky",5717,47.38,34.95,80.
-"Ukraine","Zaporizhzhya","MalaBilozerka",5717,47.25,34.93,76.
+"Ukraine","Zaporizhzhya","Mala Bilozerka",5717,47.25,34.93,76.
 "Ukraine","Kirovograd","Pobuzke",5716,48.17,30.59,1.e2
 "Ukraine","Odesa","Mayaky",5716,47.44,29.560000000000002,2.1e2
-"Ukraine","Poltava","VelykaBahachka",5707,49.78,33.72,1.1e2
+"Ukraine","Poltava","Velyka Bahachka",5707,49.78,33.72,1.1e2
 "Ukraine","Zaporizhzhya","Vodyane",5685,47.49,34.5,16.
 "Ukraine","Kirovograd","Oleksandriiske",5672,48.601944444444,32.988888888889,"null"
 "Ukraine","Kyyivska","Bilohorodka",5653,50.38,30.22,1.3e2
 "Ukraine","Mykolayivsk","Oleksandrivka",5653,46.83,32.78,3.
-"Ukraine","Harkov","KozachaLopan",5652,50.34,36.19,1.3e2
+"Ukraine","Harkov","Kozacha Lopan",5652,50.34,36.19,1.3e2
 "Ukraine","Zhitomir","Ozerne",5646,50.18,28.72,2.2e2
-"Ukraine","Odesa","VelykaMykhaylivka",5638,47.08,29.85,36.
-"Ukraine","Lviv","IvanoFrankove",5628,49.92,23.73,3.e2
+"Ukraine","Odesa","Velyka Mykhaylivka",5638,47.08,29.85,36.
+"Ukraine","Lviv","Ivano‐Frankove",5628,49.92,23.73,3.e2
 "Ukraine","Transcarpathia","Kalyny",5627,48.15,23.89,3.7e2
 "Ukraine","Donetsk","Artemove",5598,48.370000000000005,37.88,2.1e2
 "Ukraine","Poltava","Bilyky",5598,49.26,34.28,1.e2
 "Ukraine","Dnipropetrovsk","Dniprovske",5594,48.59,34.230000000000004,1.4e2
 "Ukraine","Chernivtsi","Mamayivtsi",5594,48.35,25.810000000000002,1.7e2
-"Ukraine","Kirovograd","ZnamyankaDruha",5591,48.71,32.6,2.2e2
+"Ukraine","Kirovograd","Znamyanka Druha",5591,48.71,32.6,2.2e2
 "Ukraine","Lviv","Bryukhovychi",5590,49.9,23.97,3.3e2
 "Ukraine","Lugansk","Miusynsk",5583,48.08,38.9,89.
 "Ukraine","Harkov","Savintsy",5571,49.4104995,37.0617146,"null"
 "Ukraine","Zaporizhzhya","Novomykolayivka",5568,47.980000000000004,35.92,94.
 "Ukraine","Lviv","Sokilnyky",5560,49.78,23.98,3.2e2
-"Ukraine","IvanoFrankivsk","BroshnivOsada",5548,48.99,24.19,3.5e2
+"Ukraine","Ivano‐Frankivsk","Broshniv‐Osada",5548,48.99,24.19,3.5e2
 "Ukraine","Kyyivska","Kalynivka",5545,50.24,30.23,1.7e2
 "Ukraine","Donetsk","Yalta",5519,46.96,37.28,6.
 "Ukraine","Kirovograd","Vilshanka",5501,48.24,30.87,1.e2
-"Ukraine","Zhitomir","NovaBorova",5494,50.7,28.63,1.9e2
+"Ukraine","Zhitomir","Nova Borova",5494,50.7,28.63,1.9e2
 "Ukraine","Vinnica","Pishchanka",5484,48.2,28.900000000000002,2.e2
-"Ukraine","Lugansk","Krasnodon2",5481,48.31,39.57,1.5e2
+"Ukraine","Lugansk","Krasnodon",5481,48.31,39.57,1.5e2
 "Ukraine","Chernigov","Korop",5478,51.57,32.97,1.3e2
-"Ukraine","Transcarpathia","VelykaDobron",5476,48.42,22.38,1.e2
+"Ukraine","Transcarpathia","Velyka Dobron",5476,48.42,22.38,1.e2
 "Ukraine","Mykolayivsk","Yelanets",5470,47.7,31.85,58.
-"Ukraine","Volyn","StaraVyzhivka",5466,51.43,24.43,1.7e2
-"Ukraine","Transcarpathia","SerednyeVodyane",5465,47.980000000000004,23.900000000000002,2.7e2
+"Ukraine","Volyn","Stara Vyzhivka",5466,51.43,24.43,1.7e2
+"Ukraine","Transcarpathia","Serednye Vodyane",5465,47.980000000000004,23.900000000000002,2.7e2
 "Ukraine","Herson","Zelenivka",5465,46.72,32.64,35.
-"Ukraine","Herson","VelykiKopani",5464,46.480000000000004,32.980000000000004,12.
+"Ukraine","Herson","Velyki Kopani",5464,46.480000000000004,32.980000000000004,12.
 "Ukraine","Crimea","Koreyiz",5455,44.43,34.08,1.1e2
 "Ukraine","Vinnica","Chechelnyk",5439,48.22,29.37,2.e2
 "Ukraine","Dnipropetrovsk","Prosyana",5432,47.63,34.82,1.e2
@@ -799,30 +799,30 @@
 "Ukraine","Ternopil","Shumsk",5376,50.120000000000005,26.12,2.4e2
 "Ukraine","Zaporizhzhya","Komyshuvakha",5374,47.72,35.53,35.
 "Ukraine","Odesa","Shevchenkove",5362,45.550000000000004,29.330000000000002,15.
-"Ukraine","IvanoFrankivsk","Rozhniv",5351,48.370000000000005,25.23,2.8e2
+"Ukraine","Ivano‐Frankivsk","Rozhniv",5351,48.370000000000005,25.23,2.8e2
 "Ukraine","Harkov","Eskhar",5349,49.800000000000004,36.59,1.2e2
-"Ukraine","Odesa","KrasniOkny",5340,47.54,29.46,1.1e2
+"Ukraine","Odesa","Krasni Okny",5340,47.54,29.46,1.1e2
 "Ukraine","Volyn","Shatsk",5336,51.5,23.95,1.6e2
 "Ukraine","Harkov","Savyntsi",5326,49.4,37.06,1.1e2
-"Ukraine","Transcarpathia","HlybokyyPotik",5325,48.050000000000004,23.88,4.2e2
+"Ukraine","Transcarpathia","Hlybokyy Potik",5325,48.050000000000004,23.88,4.2e2
 "Ukraine","Vinnica","Kyrnasivka",5322,48.58,28.97,2.7e2
 "Ukraine","Lviv","Shchyrets",5316,49.65,23.86,2.7e2
-"Ukraine","IvanoFrankivsk","Pechenizhyn",5313,48.52,24.88,3.3e2
+"Ukraine","Ivano‐Frankivsk","Pechenizhyn",5313,48.52,24.88,3.3e2
 "Ukraine","Odesa","Frunzivka",5298,47.33,29.75,87.
 "Ukraine","Kirovograd","Rivne",5296,48.25,31.75,1.6e2
 "Ukraine","Poltava","Opishnia",5292,49.956353160051,34.612004140477,"null"
-"Ukraine","Mykolayivsk","MishkovoPohorilove",5280,46.99,32.09,32.
+"Ukraine","Mykolayivsk","Mishkovo‐Pohorilove",5280,46.99,32.09,32.
 "Ukraine","Odesa","Zorya",5243,45.99,29.72,54.
 "Ukraine","Zhitomir","Brusyliv",5242,50.28,29.53,1.7e2
 "Ukraine","Zhitomir","Horodnytsya",5238,50.800000000000004,27.32,1.9e2
 "Ukraine","Zhitomir","Myropil",5237,50.120000000000005,27.7,2.4e2
-"Ukraine","Sumska","VelykaPysarivka",5235,50.42,35.480000000000004,1.2e2
-"Ukraine","Hmelnickij","Chemerivtsi",5229,49.,26.3667,"null"
+"Ukraine","Sumska","Velyka Pysarivka",5235,50.42,35.480000000000004,1.2e2
+"Ukraine","Khmelnytskyi","Chemerivtsi",5229,49.,26.3667,"null"
 "Ukraine","Lugansk","Petrivka",5218,48.800000000000004,39.26,40.
 "Ukraine","Kyyivska","Horenka",5207,50.5569,30.3175,"null"
-"Ukraine","IvanoFrankivsk","Otyniya",5205,48.74,24.85,2.7e2
+"Ukraine","Ivano‐Frankivsk","Otyniya",5205,48.74,24.85,2.7e2
 "Ukraine","Odesa","Sarata",5200,46.02,29.67,11.
-"Ukraine","Sumska","LypovaDolyna",5199,50.57,33.8,1.2e2
+"Ukraine","Sumska","Lypova Dolyna",5199,50.57,33.8,1.2e2
 "Ukraine","Zhitomir","Chervonoarmiysk",5195,50.47,28.27,2.3e2
 "Ukraine","Harkov","Pishchanka",5195,49.4,35.44,1.5e2
 "Ukraine","Lugansk","Krasnorichenske",5183,49.22,38.22,80.
@@ -839,15 +839,15 @@
 "Ukraine","Lviv","Rudky",5089,49.69,23.490000000000002,2.6e2
 "Ukraine","Sumska","Stepanivka",5073,50.95,34.59,1.4e2
 "Ukraine","Zhitomir","Novohuyvynske",5070,50.18,28.67,2.2e2
-"Ukraine","IvanoFrankivsk","StariKuty",5068,48.28,25.18,3.4e2
-"Ukraine","Hmelnickij","Sudylkiv",5062,50.17,27.13,2.5e2
+"Ukraine","Ivano‐Frankivsk","Stari Kuty",5068,48.28,25.18,3.4e2
+"Ukraine","Khmelnytskyi","Sudylkiv",5062,50.17,27.13,2.5e2
 "Ukraine","Chernivtsi","Chudey",5058,48.050000000000004,25.62,3.8e2
 "Ukraine","Chernivtsi","Kolinkivtsi",5046,48.42,26.13,2.6e2
 "Ukraine","Lugansk","Fashchivka",5038,48.29,38.6,3.e2
 "Ukraine","Odesa","Plakhtiyivka",5038,46.1,29.72,46.
 "Ukraine","Herson","Ivanivka",5036,46.71,34.550000000000004,38.
-"Ukraine","Kyyivska","KlavdiievoTarasove",5029,50.5825,30.005277777778,"null"
-"Ukraine","Transcarpathia","VerkhnyeVodyane",5025,47.99,23.96,4.e2
+"Ukraine","Kyyivska","Klavdiievo-Tarasove",5029,50.5825,30.005277777778,"null"
+"Ukraine","Transcarpathia","Verkhnye Vodyane",5025,47.99,23.96,4.e2
 "Ukraine","Dnipropetrovsk","Bohdanivka",5016,48.51,36.1,67.
 "Ukraine","Transcarpathia","Iza",5015,48.22,23.330000000000002,1.8e2
 "Ukraine","Kyyivska","Knyazhychi",5010,50.46,30.77,1.2e2
@@ -867,29 +867,29 @@
 "Ukraine","Kirovograd","Kompaniyivka",4934,48.25,32.21,1.6e2
 "Ukraine","Lugansk","Toshkivka",4926,48.78,38.57,1.2e2
 "Ukraine","Zaporizhzhya","Voznesenka",4917,46.86,35.46,17.
-"Ukraine","Vinnica","RakhnyLisovi",4912,48.78,28.48,3.2e2
+"Ukraine","Vinnica","Rakhny Lisovi",4912,48.78,28.48,3.2e2
 "Ukraine","Donetsk","Rozsypne",4911,48.15,38.58,2.5e2
 "Ukraine","Odesa","Serhiyivka",4911,46.03,30.38,7.
 "Ukraine","Dnipropetrovsk","Prosiana",4907,48.117356596024,36.374264095645,"null"
 "Ukraine","Odesa","Horodnye",4901,45.9,28.830000000000002,1.4e2
 "Ukraine","Kyyivska","Tarasivka",4899,50.35,30.32,1.6e2
-"Ukraine","IvanoFrankivsk","Holyn",4896,49.02,24.25,3.2e2
+"Ukraine","Ivano‐Frankivsk","Holyn",4896,49.02,24.25,3.2e2
 "Ukraine","Dnipropetrovsk","Petrykivka",4896,48.72,34.63,64.
 "Ukraine","Harkov","Korotych",4889,49.94,36.03,1.9e2
 "Ukraine","Harkov","Taranivka",4878,49.620000000000005,36.15,2.e2
 "Ukraine","Chernivtsi","Romankivtsi",4862,48.5,27.22,2.7e2
 "Ukraine","Rivne","Zdovbytsya",4858,50.5,26.26,1.9e2
-"Ukraine","IvanoFrankivsk","Svarychiv",4845,48.96,24.19,3.5e2
+"Ukraine","Ivano‐Frankivsk","Svarychiv",4845,48.96,24.19,3.5e2
 "Ukraine","Harkov","Novopokrovka",4841,49.84,36.550000000000004,1.e2
 "Ukraine","Harkov","Rohan",4839,49.94,36.49,1.3e2
 "Ukraine","Transcarpathia","Kolochava",4839,48.44,23.69,5.7e2
-"Ukraine","Harkov","RuskaLozova",4829,50.14,36.29,1.7e2
+"Ukraine","Harkov","Ruska Lozova",4829,50.14,36.29,1.7e2
 "Ukraine","Harkov","Blyznyuky",4824,48.870000000000005,36.550000000000004,1.8e2
-"Ukraine","Harkov","VelykyyBurluk",4821,50.06,37.38,1.4e2
+"Ukraine","Harkov","Velykyy Burluk",4821,50.06,37.38,1.4e2
 "Ukraine","Zaporizhzhya","Bilenke",4803,47.63,35.03,20.
-"Ukraine","Kirovograd","NovyyStarodub",4777,48.52,33.160000000000004,81.
+"Ukraine","Kirovograd","Novyy Starodub",4777,48.52,33.160000000000004,81.
 "Ukraine","Chernivtsi","Luzhany",4744,48.370000000000005,25.78,1.8e2
-"Ukraine","Crimea","YarkePole",4739,45.22,35.21,20.
+"Ukraine","Crimea","Yarke Pole",4739,45.22,35.21,20.
 "Ukraine","Herson","Syvaske",4733,46.39,34.550000000000004,12.
 "Ukraine","Herson","Stanislav",4726,46.57,32.15,37.
 "Ukraine","Poltava","Pishchane",4723,49.46,33.99,85.
@@ -898,7 +898,7 @@
 "Ukraine","Donetsk","Olenivka",4711,47.85,37.660000000000004,2.3e2
 "Ukraine","Lugansk","Almazna",4696,48.06,39.32,2.6e2
 "Ukraine","Kirovograd","Pavlysh",4693,48.92,33.36,1.e2
-"Ukraine","Kyyivska","KlavdiyevoTarasove",4685,50.58,30.02,1.7e2
+"Ukraine","Kyyivska","Klavdiyevo‐Tarasove",4685,50.58,30.02,1.7e2
 "Ukraine","Zaporizhzhya","Terpinnya",4656,46.97,35.42,52.
 "Ukraine","Volyn","Zhovtneve",4652,50.65,24.27,2.e2
 "Ukraine","Odesa","Suvorove",4642,45.58,28.990000000000002,19.
@@ -914,18 +914,18 @@
 "Ukraine","Dnipropetrovsk","Krynychky",4557,48.370000000000005,34.45,95.
 "Ukraine","Lugansk","Sofiyivskyy",4556,48.21,38.88,2.9e2
 "Ukraine","Zaporizhzhya","Stepnohirsk",4556,47.5861,35.3638,"null"
-"Ukraine","Hmelnickij","NovaUshytsya",4548,48.83,27.28,2.e2
+"Ukraine","Khmelnytskyi","Nova Ushytsya",4548,48.83,27.28,2.e2
 "Ukraine","Transcarpathia","Rokosovo",4544,48.22,23.18,2.5e2
 "Ukraine","Herson","Vysokopillya",4542,47.480000000000004,33.53,84.
 "Ukraine","Herson","Dnipryany",4537,46.74,33.27,18.
 "Ukraine","Odesa","Dmytrivka",4536,45.97,28.990000000000002,63.
 "Ukraine","Odesa","Petrivka",4535,46.97,30.970000000000002,18.
-"Ukraine","IvanoFrankivsk","Pasichna",4530,48.57,24.41,5.5e2
+"Ukraine","Ivano‐Frankivsk","Pasichna",4530,48.57,24.41,5.5e2
 "Ukraine","Donetsk","Krynychna",4530,48.14,38.04,2.5e2
 "Ukraine","Dnipropetrovsk","Hvardiyske",4528,48.730000000000004,35.300000000000004,65.
-"Ukraine","Lviv","VelykyiLiubin",4516,49.72388889,23.73361111,"null"
+"Ukraine","Lviv","Velykyi Liubin",4516,49.72388889,23.73361111,"null"
 "Ukraine","Transcarpathia","Kushnytsya",4508,48.45,23.26,2.4e2
-"Ukraine","Harkov","BilyyKolodyaz",4501,50.21,37.11,1.8e2
+"Ukraine","Harkov","Bilyy Kolodyaz",4501,50.21,37.11,1.8e2
 "Ukraine","Odesa","Hradenytsi",4494,46.5986,29.9978,"null"
 "Ukraine","Donetsk","Stizhkivske",4480,48.11,38.5,2.2e2
 "Ukraine","Zaporizhzhya","Osypenko",4477,46.92,36.84,23.
@@ -933,28 +933,28 @@
 "Ukraine","Donetsk","Telmanove",4461,47.410000000000004,38.02,1.1e2
 "Ukraine","Lviv","Dobromyl",4457,49.57,22.78,3.e2
 "Ukraine","Vinnica","Ivaniv",4451,49.480000000000004,28.35,2.4e2
-"Ukraine","IvanoFrankivsk","Pniv",4443,48.620000000000005,24.54,4.5e2
-"Ukraine","Lviv","VelykyyLyubin",4441,49.74,23.72,2.7e2
+"Ukraine","Ivano‐Frankivsk","Pniv",4443,48.620000000000005,24.54,4.5e2
+"Ukraine","Lviv","Velykyy Lyubin",4441,49.74,23.72,2.7e2
 "Ukraine","Harkov","Khorosheve",4432,49.870000000000005,36.17,1.7e2
 "Ukraine","Mykolayivsk","Voskresenske",4430,47.01,32.15,50.
 "Ukraine","Zhitomir","Hryshkivtsi",4427,49.93,28.6,2.5e2
 "Ukraine","Rivne","Klesiv",4424,51.33,26.93,1.6e2
 "Ukraine","Herson","Vynohradove",4422,46.36,32.94,36.
-"Ukraine","IvanoFrankivsk","Bytkiv",4422,48.63,24.46,5.5e2
+"Ukraine","Ivano‐Frankivsk","Bytkiv",4422,48.63,24.46,5.5e2
 "Ukraine","Odesa","Krasnosilka",4406,46.62,30.77,28.
 "Ukraine","Cherkask","Lebedyn",4402,48.96,31.53,2.1e2
 "Ukraine","Crimea","Zaozerne",4396,45.17,33.26,9.
-"Ukraine","Donetsk","KrasnaPolyana",4393,47.58,37.07,1.5e2
+"Ukraine","Donetsk","Krasna Polyana",4393,47.58,37.07,1.5e2
 "Ukraine","Lugansk","Dubivskyy",4387,48.07,39.13,2.4e2
 "Ukraine","Crimea","Baherove",4382,45.38,36.300000000000004,97.
-"Ukraine","Transcarpathia","VelykyyRakovets",4380,48.26,23.150000000000002,2.4e2
+"Ukraine","Transcarpathia","Velykyy Rakovets",4380,48.26,23.150000000000002,2.4e2
 "Ukraine","Lugansk","Novodaryivka",4368,48.06,39.49,2.8e2
 "Ukraine","Kyyivska","Hoholiv",4361,50.51,31.02,1.1e2
 "Ukraine","Cherkask","Balakliya",4357,49.4564,36.8389,"null"
 "Ukraine","Kirovograd","Bohdanivka",4354,48.33,31.720000000000002,1.6e2
 "Ukraine","Lugansk","Shchotove",4354,48.22,39.22,2.1e2
 "Ukraine","Dnipropetrovsk","Melioratyvne",4351,48.6,35.37,64.
-"Ukraine","IvanoFrankivsk","BiliOslavy",4351,48.49,24.7,5.e2
+"Ukraine","Ivano‐Frankivsk","Bili Oslavy",4351,48.49,24.7,5.e2
 "Ukraine","Chernigov","Losynivka",4347,50.83,31.92,1.2e2
 "Ukraine","Poltava","Schyschaky",4347,49.876898646004,34.007095648482,"null"
 "Ukraine","Lviv","Davydiv",4340,49.75,24.13,3.2e2
@@ -962,7 +962,7 @@
 "Ukraine","Cherkask","Matusiv",4337,49.050000000000004,31.580000000000002,1.9e2
 "Ukraine","Chernigov","Kobyzhcha",4332,50.83,31.5,1.3e2
 "Ukraine","Harkov","Dvorichna",4322,49.85,37.69,75.
-"Ukraine","Mykolayivsk","LysaHora",4312,48.17,31.09,1.e2
+"Ukraine","Mykolayivsk","Lysa Hora",4312,48.17,31.09,1.e2
 "Ukraine","Dnipropetrovsk","Novooleksandrivka",4311,48.3006,36.9012,"null"
 "Ukraine","Transcarpathia","Kolchyno",4309,48.47,22.77,1.4e2
 "Ukraine","Herson","Brylivka",4305,46.43,33.15,15.
@@ -970,11 +970,11 @@
 "Ukraine","Sumska","Zhovtneve",4291,51.25,28.1167,"null"
 "Ukraine","Chernivtsi","Ispas",4278,48.31,25.28,3.1e2
 "Ukraine","Kirovograd","Lypnyazhka",4272,48.45,31.080000000000002,1.3e2
-"Ukraine","IvanoFrankivsk","Vorokhta",4270,48.29,24.57,8.e2
+"Ukraine","Ivano‐Frankivsk","Vorokhta",4270,48.29,24.57,8.e2
 "Ukraine","Volyn","Zabolottya",4267,51.63,24.25,1.5e2
 "Ukraine","Transcarpathia","Drahovo",4262,48.24,23.55,3.7e2
 "Ukraine","Chernivtsi","Boyany",4260,48.28,26.13,2.e2
-"Ukraine","Ternopil","SkalaPodilska",4258,48.85,26.2,2.6e2
+"Ukraine","Ternopil","Skala‐Podilska",4258,48.85,26.2,2.6e2
 "Ukraine","Lviv","Murovane",4251,49.52,22.93,3.4e2
 "Ukraine","Lugansk","Biryukove",4250,47.96,39.74,1.9e2
 "Ukraine","Chernivtsi","Toporivtsi",4247,48.38,26.12,2.4e2
@@ -991,7 +991,7 @@
 "Ukraine","Odesa","Krynychne",4181,45.53,28.67,48.
 "Ukraine","Sumska","Popivka",4178,51.25,33.1,1.3e2
 "Ukraine","Dnipropetrovsk","Auly",4167,48.53,34.5,86.
-"Ukraine","IvanoFrankivsk","Kuty",4160,48.25,25.18,3.4e2
+"Ukraine","Ivano‐Frankivsk","Kuty",4160,48.25,25.18,3.4e2
 "Ukraine","Cherkask","Yerky",4159,48.980000000000004,30.990000000000002,1.2e2
 "Ukraine","Cherkask","Mliyiv",4158,49.35,31.52,1.e2
 "Ukraine","Volyn","Lyublynets",4155,51.18,24.62,1.9e2
@@ -1006,7 +1006,7 @@
 "Ukraine","Lugansk","Chmyrivka",4119,49.29,38.96,67.
 "Ukraine","Crimea","Komsomolske",4112,45.33,33.480000000000004,63.
 "Ukraine","Crimea","Voykove",4100,45.39,36.43,32.
-"Ukraine","Dnipropetrovsk","SurskoLytovske",4099,48.32,34.93,99.
+"Ukraine","Dnipropetrovsk","Sursko‐Lytovske",4099,48.32,34.93,99.
 "Ukraine","Chernivtsi","Chahor",4097,48.25,25.98,2.2e2
 "Ukraine","Lugansk","Bilolutsk",4094,49.7,39.01,70.
 "Ukraine","Mykolayivsk","Berezanka",4090,46.87,31.400000000000002,31.
@@ -1017,19 +1017,19 @@
 "Ukraine","Kirovograd","Dmytrivka",4070,48.79,32.72,1.2e2
 "Ukraine","Chernivtsi","Vyzhnytsya",4068,48.25,25.19,3.5e2
 "Ukraine","Transcarpathia","Zolotarovo",4066,48.2,23.5,3.6e2
-"Ukraine","Transcarpathia","KosivskaPolyana",4064,48.01,24.11,4.2e2
+"Ukraine","Transcarpathia","Kosivska Polyana",4064,48.01,24.11,4.2e2
 "Ukraine","Donetsk","Oleksandrivka",4059,47.910000000000004,37.58,1.9e2
 "Ukraine","Volyn","Lokachi",4056,50.730000000000004,24.650000000000002,2.e2
-"Ukraine","IvanoFrankivsk","Zabolotiv",4056,48.47,25.29,2.3e2
+"Ukraine","Ivano‐Frankivsk","Zabolotiv",4056,48.47,25.29,2.3e2
 "Ukraine","Harkov","Lyptsi",4052,50.21,36.43,1.2e2
-"Ukraine","Poltava","VelykiSorochyntsi",4050,50.03,33.94,96.
+"Ukraine","Poltava","Velyki Sorochyntsi",4050,50.03,33.94,96.
 "Ukraine","Kyyivska","Chabany",4048,50.34,30.4228,"null"
 "Ukraine","Kyyivska","Katyuzhanka",4046,50.82,30.13,1.4e2
-"Ukraine","Hmelnickij","Dovzhok",4044,48.660000000000004,26.51,2.6e2
+"Ukraine","Khmelnytskyi","Dovzhok",4044,48.660000000000004,26.51,2.6e2
 "Ukraine","Transcarpathia","Serednye",4044,48.53,22.5,1.1e2
 "Ukraine","Volyn","Kolky",4036,51.1,25.67,1.7e2
 "Ukraine","Lviv","Hnizdychiv",4026,49.35,24.12,2.6e2
-"Ukraine","Donetsk","Oleksandrivka2",4024,48.71,36.92,1.2e2
+"Ukraine","Donetsk","Oleksandrivka",4024,48.71,36.92,1.2e2
 "Ukraine","Lviv","Obroshyne",4021,49.78,23.87,3.e2
 "Ukraine","Dnipropetrovsk","Maryanske",4017,47.550000000000004,33.95,14.
 "Ukraine","Cherkask","Lesky",4013,49.35,32.22,81.
@@ -1041,16 +1041,16 @@
 "Ukraine","Donetsk","Talakivka",4005,47.18,37.72,11.
 "Ukraine","Kirovograd","Ustynivka",4003,47.95,32.53,72.
 "Ukraine","Poltava","Mashivka",3999,49.43,34.87,1.3e2
-"Ukraine","Odesa","NoviTroyany",3992,45.94,28.86,1.3e2
+"Ukraine","Odesa","Novi Troyany",3992,45.94,28.86,1.3e2
 "Ukraine","Ternopil","Skalat",3989,49.43,25.98,3.2e2
 "Ukraine","Lugansk","Shakhtarske",3988,48.13,39.11,2.6e2
-"Ukraine","Harkov","CherkaskaLozova",3972,50.1,36.230000000000004,1.8e2
+"Ukraine","Harkov","Cherkaska Lozova",3972,50.1,36.230000000000004,1.8e2
 "Ukraine","Transcarpathia","Bedevlya",3971,48.0039,23.6642,"null"
 "Ukraine","Odesa","Yasky",3955,46.52,30.080000000000002,6.
 "Ukraine","Dnipropetrovsk","Mezhyrich",3952,48.56,35.75,71.
 "Ukraine","Dnipropetrovsk","Chaplyne",3950,48.18,36.27,1.2e2
 "Ukraine","Lugansk","Leninske",3948,48.07,39.550000000000004,2.9e2
-"Ukraine","IvanoFrankivsk","Rozhnyativ",3947,48.94,24.16,3.6e2
+"Ukraine","Ivano‐Frankivsk","Rozhnyativ",3947,48.94,24.16,3.6e2
 "Ukraine","Odesa","Chervonoznamyanka",3944,47.02,30.3,17.
 "Ukraine","Lviv","Komarno",3944,49.63,23.7,2.6e2
 "Ukraine","Donetsk","Zaitseve",3944,48.429166666667,38.009444444444,"null"
@@ -1059,10 +1059,10 @@
 "Ukraine","Harkov","Chkalovske",3924,49.72,36.92,1.5e2
 "Ukraine","Mykolayivsk","Olshanske",3924,47.2,31.78,17.
 "Ukraine","Dnipropetrovsk","Mohyliv",3923,48.84,34.5,64.
-"Ukraine","Odesa","Dmytrivka2",3915,46.82,31.05,65.
+"Ukraine","Odesa","Dmytrivka",3915,46.82,31.05,65.
 "Ukraine","Crimea","Chystenke",3915,44.8815,34.0472,"null"
 "Ukraine","Chernigov","Kurin",3907,51.14,32.75,1.4e2
-"Ukraine","Crimea","Myrne2",3901,45.93,33.86,5.
+"Ukraine","Crimea","Myrne",3901,45.93,33.86,5.
 "Ukraine","Crimea","Simeiz",3901,44.405277777778,34.004444444444,"null"
 "Ukraine","Poltava","Orzhytsya",3898,49.800000000000004,32.7,86.
 "Ukraine","Kyyivska","Voronkiv",3888,50.22,30.900000000000002,99.
@@ -1072,18 +1072,18 @@
 "Ukraine","Zaporizhzhya","Dniprovka",3873,47.43,34.62,20.
 "Ukraine","Donetsk","Zaytseve",3868,48.54,38.06,1.5e2
 "Ukraine","Donetsk","Shcherbynivka",3868,48.4,37.78,1.e2
-"Ukraine","Ternopil","MelnytsyaPodilska",3866,48.620000000000005,26.17,2.6e2
+"Ukraine","Ternopil","Melnytsya‐Podilska",3866,48.620000000000005,26.17,2.6e2
 "Ukraine","Odesa","Vyhoda",3861,46.62,30.42,59.
 "Ukraine","Dnipropetrovsk","Novomykolayivka",3860,48.56,34.36,1.7e2
 "Ukraine","Kirovograd","Adzhamka",3859,48.54,32.54,1.1e2
-"Ukraine","Transcarpathia","NoveDavydkovo",3853,48.45,22.63,1.2e2
+"Ukraine","Transcarpathia","Nove Davydkovo",3853,48.45,22.63,1.2e2
 "Ukraine","Odesa","Vasylivka",3845,47.4344,35.2808,"null"
 "Ukraine","Zhitomir","Ivanopil",3841,49.85,28.22,2.6e2
 "Ukraine","Zaporizhzhya","Prymorske",3840,47.62,35.29,58.
 "Ukraine","Transcarpathia","Hanychi",3836,48.13,23.82,3.3e2
 "Ukraine","Dnipropetrovsk","Leninske",3835,47.58,34.02,25.
-"Ukraine","Dnipropetrovsk","NyvaTrudova",3833,47.7338,33.6322,"null"
-"Ukraine","IvanoFrankivsk","Zarechye",3832,48.52,24.650000000000002,4.3e2
+"Ukraine","Dnipropetrovsk","Nyva Trudova",3833,47.7338,33.6322,"null"
+"Ukraine","Ivano‐Frankivsk","Zarechye",3832,48.52,24.650000000000002,4.3e2
 "Ukraine","Lugansk","Valuyske",3829,48.67,39.54,54.
 "Ukraine","Lviv","Bibrka",3817,49.660000000000004,24.32,3.6e2
 "Ukraine","Poltava","Suprunivka",3817,49.57,34.45,1.5e2
@@ -1091,17 +1091,17 @@
 "Ukraine","Poltava","Yaresky",3810,49.85,33.9,89.
 "Ukraine","Transcarpathia","Horonda",3810,48.370000000000005,22.57,1.1e2
 "Ukraine","Herson","Radensk",3804,46.550000000000004,32.93,13.
-"Ukraine","IvanoFrankivsk","Solotvyn",3803,48.71,24.42,4.3e2
-"Ukraine","IvanoFrankivsk","Cherniyiv",3801,48.86,24.71,2.7e2
+"Ukraine","Ivano‐Frankivsk","Solotvyn",3803,48.71,24.42,4.3e2
+"Ukraine","Ivano‐Frankivsk","Cherniyiv",3801,48.86,24.71,2.7e2
 "Ukraine","Cherkask","Tsybuliv",3800,49.07,29.85,2.2e2
-"Ukraine","Ternopil","VelykiHayi",3797,49.53,25.67,3.2e2
+"Ukraine","Ternopil","Velyki Hayi",3797,49.53,25.67,3.2e2
 "Ukraine","Cherkask","Stebliv",3791,49.4,31.09,1.3e2
-"Ukraine","Harkov","StaryySaltiv",3776,50.08,36.79,1.1e2
-"Ukraine","Hmelnickij","Hrytsiv",3775,49.96,27.21,2.6e2
+"Ukraine","Harkov","Staryy Saltiv",3776,50.08,36.79,1.1e2
+"Ukraine","Khmelnytskyi","Hrytsiv",3775,49.96,27.21,2.6e2
 "Ukraine","Lugansk","Bilorichenskyy",3772,48.46,39.050000000000004,1.4e2
 "Ukraine","Lviv","Kulykiv",3763,50.32,24.82,2.1e2
-"Ukraine","IvanoFrankivsk","Pistyn",3761,48.36,25.03,3.8e2
-"Ukraine","Harkov","BilyiKolodiaz",3759,50.208611111111,37.096944444444,"null"
+"Ukraine","Ivano‐Frankivsk","Pistyn",3761,48.36,25.03,3.8e2
+"Ukraine","Harkov","Bilyi Kolodiaz",3759,50.208611111111,37.096944444444,"null"
 "Ukraine","Rivne","Horodyshche",3757,50.63,26.37,2.3e2
 "Ukraine","Chernivtsi","Banyliv",3748,48.370000000000005,25.37,2.5e2
 "Ukraine","Crimea","Perove",3746,44.93,34.07,2.7e2
@@ -1126,14 +1126,14 @@
 "Ukraine","Vinnica","Klembivka",3692,48.38,28.42,1.7e2
 "Ukraine","Chernivtsi","Molodiya",3691,48.22,26.03,2.3e2
 "Ukraine","Chernigov","Vertiyivka",3690,51.17,31.86,1.2e2
-"Ukraine","Kyyivska","Kalynivka2",3690,50.58,30.830000000000002,1.3e2
+"Ukraine","Kyyivska","Kalynivka",3690,50.58,30.830000000000002,1.3e2
 "Ukraine","Vinnica","Hlukhivtsi",3690,49.77,28.73,2.7e2
 "Ukraine","Lugansk","Kalynove",3686,48.56,38.51,1.1e2
 "Ukraine","Harkov","Orilka",3685,48.99,36.01,1.e2
 "Ukraine","Harkov","Parkhomivka",3679,50.11,34.99,1.6e2
 "Ukraine","Lviv","Pavliv",3676,50.27,24.53,2.3e2
 "Ukraine","Lviv","Ulychne",3671,49.230000000000004,23.650000000000002,3.3e2
-"Ukraine","Sumska","VerkhnyaSyrovatka",3669,50.83,34.96,1.4e2
+"Ukraine","Sumska","Verkhnya Syrovatka",3669,50.83,34.96,1.4e2
 "Ukraine","Lugansk","Buhayivka",3666,48.410000000000004,38.88,1.9e2
 "Ukraine","Sumska","Terny",3661,50.980000000000004,33.980000000000004,1.4e2
 "Ukraine","Dnipropetrovsk","Verbky",3661,48.58,35.9,63.
@@ -1155,22 +1155,22 @@
 "Ukraine","Vinnica","Pavlivka",3635,49.43,28.48,2.6e2
 "Ukraine","Dnipropetrovsk","Holubivka",3629,48.9,35.33,1.5e2
 "Ukraine","Vinnica","Zarvantsi",3622,49.2572,28.3889,"null"
-"Ukraine","Cherkask","NoveMisto",3619,48.99,29.82,2.4e2
-"Ukraine","IvanoFrankivsk","StaryyLysets",3617,48.88,24.59,2.8e2
+"Ukraine","Cherkask","Nove Misto",3619,48.99,29.82,2.4e2
+"Ukraine","Ivano‐Frankivsk","Staryy Lysets",3617,48.88,24.59,2.8e2
 "Ukraine","Transcarpathia","Neresnytsya",3617,48.120000000000005,23.77,3.2e2
 "Ukraine","Kyyivska","Medvyn",3613,49.38,30.78,1.8e2
 "Ukraine","Lviv","Sukhovolya",3612,49.82,23.830000000000002,2.9e2
 "Ukraine","Vinnica","Sobolivka",3605,49.33,28.650000000000002,2.6e2
 "Ukraine","Lugansk","Frunze",3605,48.660000000000004,38.76,81.
 "Ukraine","Ternopil","Mykulyntsi",3604,49.388055555556,25.617777777778,"null"
-"Ukraine","Chernivtsi","VerkhniPetrivtsi",3603,48.07,25.71,4.e2
+"Ukraine","Chernivtsi","Verkhni Petrivtsi",3603,48.07,25.71,4.e2
 "Ukraine","Odesa","Lypetske",3601,47.74,29.68,1.4e2
-"Ukraine","Herson","KozachiLaheri",3587,46.71,32.980000000000004,15.
-"Ukraine","Sumska","NyzhnyaSyrovatka",3586,50.730000000000004,34.82,1.3e2
+"Ukraine","Herson","Kozachi Laheri",3587,46.71,32.980000000000004,15.
+"Ukraine","Sumska","Nyzhnya Syrovatka",3586,50.730000000000004,34.82,1.3e2
 "Ukraine","Odesa","Broska",3586,45.37,28.78,9.
 "Ukraine","Lugansk","Pidhorivka",3581,49.300000000000004,38.89,55.
 "Ukraine","Odesa","Zatyshshya",3571,47.31,29.84,1.6e2
-"Ukraine","IvanoFrankivsk","Novytsya",3564,48.96,24.330000000000002,3.8e2
+"Ukraine","Ivano‐Frankivsk","Novytsya",3564,48.96,24.330000000000002,3.8e2
 "Ukraine","Chernivtsi","Verenchanka",3560,48.54,25.740000000000002,2.4e2
 "Ukraine","Rivne","Mizoch",3553,50.4,26.150000000000002,2.5e2
 "Ukraine","Sumska","Stetskivka",3551,51.02,34.78,1.7e2
@@ -1178,7 +1178,7 @@
 "Ukraine","Zaporizhzhya","Preobrazhenka",3550,47.58,35.800000000000004,47.
 "Ukraine","Poltava","Lyutenka",3548,50.21,34.03,1.e2
 "Ukraine","Odesa","Pershotravneve",3548,45.49,29.05,15.
-"Ukraine","IvanoFrankivsk","Zahvizdya",3546,48.92,24.650000000000002,2.7e2
+"Ukraine","Ivano‐Frankivsk","Zahvizdya",3546,48.92,24.650000000000002,2.7e2
 "Ukraine","Chernivtsi","Ostrytsya",3546,48.27,26.05,1.5e2
 "Ukraine","Chernivtsi","Myhove",3546,48.160000000000004,25.37,4.6e2
 "Ukraine","Donetsk","Bulavynske",3544,48.28,38.39,2.7e2
@@ -1188,21 +1188,21 @@
 "Ukraine","Lviv","Duliby",3533,49.22,23.830000000000002,3.e2
 "Ukraine","Donetsk","Zuyivka",3532,48.06,38.25,1.1e2
 "Ukraine","Lviv","Zhvyrka",3527,50.480000000000004,24.27,1.9e2
-"Ukraine","Odesa","Oleksandrivka2",3524,48.9667,32.2333,"null"
+"Ukraine","Odesa","Oleksandrivka",3524,48.9667,32.2333,"null"
 "Ukraine","Cherkask","Vilshana",3517,49.22,31.220000000000002,1.5e2
-"Ukraine","Poltava","KamyaniPotoky",3516,48.980000000000004,33.51,73.
+"Ukraine","Poltava","Kamyani Potoky",3516,48.980000000000004,33.51,73.
 "Ukraine","Kyyivska","Tsybli",3512,49.97,31.55,87.
 "Ukraine","Donetsk","Blahodatne",3512,47.88,38.480000000000004,60.
-"Ukraine","Zaporizhzhya","VelykaBilozerka",3511,47.27,34.7,41.
+"Ukraine","Zaporizhzhya","Velyka Bilozerka",3511,47.27,34.7,41.
 "Ukraine","Lugansk","Novosvitlivka",3508,48.51,39.42,1.5e2
 "Ukraine","Zaporizhzhya","Novobohdanivka",3506,47.08,35.33,78.
 "Ukraine","Zaporizhzhya","Chapayevka",3502,47.47,36.36,1.3e2
 "Ukraine","Donetsk","Drobysheve",3487,49.04,37.730000000000004,93.
 "Ukraine","Vinnica","Borivka",3483,48.51,28.25,2.e2
 "Ukraine","Harkov","Kochetok",3481,49.88,36.74,1.4e2
-"Ukraine","Transcarpathia","KobyletskaPolyana",3481,48.07,24.07,5.6e2
+"Ukraine","Transcarpathia","Kobyletska Polyana",3481,48.07,24.07,5.6e2
 "Ukraine","Lviv","Slavsko",3481,48.85,23.45,6.e2
-"Ukraine","Vinnica","LukaMeleshkivska",3479,49.18,28.5,3.e2
+"Ukraine","Vinnica","Luka‐Meleshkivska",3479,49.18,28.5,3.e2
 "Ukraine","Ternopil","Vyshnivets",3469,49.9,25.740000000000002,2.9e2
 "Ukraine","Zhitomir","Pershotravensk",3465,50.22,27.67,2.3e2
 "Ukraine","Herson","Novomykolayivka",3465,46.5,34.01,31.
@@ -1216,11 +1216,11 @@
 "Ukraine","Odesa","Novosilske",3450,45.35,28.560000000000002,10.
 "Ukraine","Harkov","Rogan",3449,49.904444444444,36.488888888889,"null"
 "Ukraine","Crimea","Strohonivka",3447,44.93,34.19,3.4e2
-"Ukraine","Chernivtsi","Vashkivtsi2",3444,48.42,27.11,2.7e2
+"Ukraine","Chernivtsi","Vashkivtsi",3444,48.42,27.11,2.7e2
 "Ukraine","Donetsk","Hranitne",3443,47.45,37.87,46.
-"Ukraine","IvanoFrankivsk","Yasen",3427,48.730000000000004,24.150000000000002,5.7e2
-"Ukraine","IvanoFrankivsk","StariBohorodchany",3426,48.83,24.53,3.1e2
-"Ukraine","IvanoFrankivsk","Pyadyky",3426,48.56,25.060000000000002,2.9e2
+"Ukraine","Ivano‐Frankivsk","Yasen",3427,48.730000000000004,24.150000000000002,5.7e2
+"Ukraine","Ivano‐Frankivsk","Stari Bohorodchany",3426,48.83,24.53,3.1e2
+"Ukraine","Ivano‐Frankivsk","Pyadyky",3426,48.56,25.060000000000002,2.9e2
 "Ukraine","Harkov","Natalyne",3420,49.25,35.53,1.3e2
 "Ukraine","Donetsk","Olhinka",3420,47.7,37.52,1.9e2
 "Ukraine","Mykolayivsk","Pervomayske",3419,47.0433,32.4411,"null"
@@ -1231,21 +1231,21 @@
 "Ukraine","Crimea","Urozhayne",3404,45.07,34.1,1.8e2
 "Ukraine","Transcarpathia","Nelipyno",3403,48.57,23.03,2.3e2
 "Ukraine","Harkov","Starovirivka",3399,49.550000000000004,35.75,1.3e2
-"Ukraine","Lugansk","YuzhnaLomuvatka",3395,48.44,38.53,3.2e2
-"Ukraine","Lviv","VerkhnyeSynovydne",3390,49.09,23.580000000000002,4.1e2
+"Ukraine","Lugansk","Yuzhna‐Lomuvatka",3395,48.44,38.53,3.2e2
+"Ukraine","Lviv","Verkhnye Synovydne",3390,49.09,23.580000000000002,4.1e2
 "Ukraine","Odesa","Kalcheva",3388,45.730000000000004,28.82,58.
 "Ukraine","Transcarpathia","Boronyavo",3379,48.15,23.400000000000002,2.3e2
 "Ukraine","Vinnica","Obodivka",3378,48.4,29.25,2.4e2
 "Ukraine","Harkov","Verbivka",3377,49.42,35.53,1.2e2
 "Ukraine","Donetsk","Novoekonomichna",3375,48.33,37.34,1.2e2
-"Ukraine","Hmelnickij","Makiv",3373,48.800000000000004,26.72,2.8e2
+"Ukraine","Khmelnytskyi","Makiv",3373,48.800000000000004,26.72,2.8e2
 "Ukraine","Lviv","Medenychi",3371,49.43,23.75,2.6e2
 "Ukraine","Kirovograd","Tyshkivka",3368,48.49,30.93,1.5e2
 "Ukraine","Zaporizhzhya","Pryshyb",3365,47.26,35.32,87.
 "Ukraine","Lviv","Zhovtantsi",3364,49.980000000000004,24.23,2.6e2
 "Ukraine","Herson","Kayiry",3364,46.93,33.7,23.
 "Ukraine","Herson","Chornyanka",3363,46.65,33.36,8.
-"Ukraine","Kyyivska","ChervonaMotovylivka",3363,50.155,30.0742,"null"
+"Ukraine","Kyyivska","Chervona Motovylivka",3363,50.155,30.0742,"null"
 "Ukraine","Kyyivska","Kashperivka",3359,49.43,29.68,1.9e2
 "Ukraine","Kyyivska","Krasylivka",3358,50.52,30.91,1.2e2
 "Ukraine","Mykolayivsk","Kalynivka",3358,47.050000000000004,32.17,4.
@@ -1257,7 +1257,7 @@
 "Ukraine","Odesa","Kamyanka",3347,46.18,29.64,34.
 "Ukraine","Odesa","Zaliznychne",3343,45.75,28.6,5.
 "Ukraine","Lugansk","Komsomolskyy",3339,48.13,39.67,2.7e2
-"Ukraine","IvanoFrankivsk","Manyava",3333,48.660000000000004,24.37,5.3e2
+"Ukraine","Ivano‐Frankivsk","Manyava",3333,48.660000000000004,24.37,5.3e2
 "Ukraine","Lviv","Hlynyany",3331,49.82,24.52,2.3e2
 "Ukraine","Cherkask","Chapayevka",3331,49.38,30.47,1.7e2
 "Ukraine","Mykolayivsk","Kinetspil",3330,48.01,30.79,77.
@@ -1267,35 +1267,35 @@
 "Ukraine","Kyyivska","Hora",3325,50.3708,30.8617,"null"
 "Ukraine","Poltava","Seleshchyna",3319,49.47,34.83,1.2e2
 "Ukraine","Crimea","Ishun",3312,45.92,33.82,6.
-"Ukraine","IvanoFrankivsk","Hvizd",3311,48.69,24.55,4.1e2
-"Ukraine","Herson","AskaniyaNova",3309,46.45,33.86,28.
+"Ukraine","Ivano‐Frankivsk","Hvizd",3311,48.69,24.55,4.1e2
+"Ukraine","Herson","Askaniya‐Nova",3309,46.45,33.86,28.
 "Ukraine","Ternopil","Koropets",3304,48.94,25.18,2.1e2
 "Ukraine","Chernivtsi","Rukshyn",3303,48.5,26.400000000000002,2.e2
-"Ukraine","Transcarpathia","VelykaKopanya",3301,48.19,23.1,2.2e2
+"Ukraine","Transcarpathia","Velyka Kopanya",3301,48.19,23.1,2.2e2
 "Ukraine","Kyyivska","Kozyn",3300,50.24,30.650000000000002,99.
-"Ukraine","Kyyivska","Ivankiv2",3299,50.32,31.05,1.1e2
+"Ukraine","Kyyivska","Ivankiv",3299,50.32,31.05,1.1e2
 "Ukraine","Dnipropetrovsk","Novopavlivka",3298,48.14,36.78,97.
-"Ukraine","Hmelnickij","Pluzhne",3297,50.18,26.580000000000002,2.7e2
+"Ukraine","Khmelnytskyi","Pluzhne",3297,50.18,26.580000000000002,2.7e2
 "Ukraine","Lviv","Starychi",3293,49.980000000000004,23.55,2.6e2
 "Ukraine","Lugansk","Lotykove",3292,48.53,38.92,2.e2
 "Ukraine","Zaporizhzhya","Kirove",3291,47.65,35.7,36.
-"Ukraine","IvanoFrankivsk","VelykyyKlyuchiv",3290,48.47,24.95,3.7e2
+"Ukraine","Ivano‐Frankivsk","Velykyy Klyuchiv",3290,48.47,24.95,3.7e2
 "Ukraine","Crimea","Uhlove",3283,44.82,33.62,64.
-"Ukraine","IvanoFrankivsk","Nebyliv",3282,48.81,24.22,4.9e2
+"Ukraine","Ivano‐Frankivsk","Nebyliv",3282,48.81,24.22,4.9e2
 "Ukraine","Poltava","Artemivka",3280,49.76,35.06,1.5e2
 "Ukraine","Rivne","Rafalivka",3278,51.31,25.990000000000002,1.9e2
-"Ukraine","IvanoFrankivsk","Sadzhavka",3278,48.58,24.82,3.5e2
+"Ukraine","Ivano‐Frankivsk","Sadzhavka",3278,48.58,24.82,3.5e2
 "Ukraine","Zaporizhzhya","Andriyivka",3276,47.1,36.58,98.
 "Ukraine","Transcarpathia","Vylok",3274,48.1,22.830000000000002,1.2e2
 "Ukraine","Lviv","Solonka",3265,49.74,24.03,"null"
 "Ukraine","Chernivtsi","Putyla",3265,48.1,25.04,5.4e2
-"Ukraine","IvanoFrankivsk","Obertyn",3264,48.7,25.17,2.9e2
-"Ukraine","IvanoFrankivsk","Verbovets",3263,48.33,25.13,3.4e2
+"Ukraine","Ivano‐Frankivsk","Obertyn",3264,48.7,25.17,2.9e2
+"Ukraine","Ivano‐Frankivsk","Verbovets",3263,48.33,25.13,3.4e2
 "Ukraine","Kyyivska","Shevchenkove",3260,51.120000000000005,29.82,1.2e2
 "Ukraine","Vinnica","Mazurivka",3259,48.53,28.1,1.8e2
 "Ukraine","Transcarpathia","Strabychovo",3255,48.38,22.55,1.1e2
 "Ukraine","Cherkask","Rodnykivka",3252,48.79,30.21,2.4e2
-"Ukraine","Zhitomir","NoviBilokorovychi",3251,51.120000000000005,28.05,1.9e2
+"Ukraine","Zhitomir","Novi Bilokorovychi",3251,51.120000000000005,28.05,1.9e2
 "Ukraine","Chernigov","Dobryanka",3250,52.06,31.18,1.4e2
 "Ukraine","Transcarpathia","Vilkhivtsi",3246,48.07,23.72,2.7e2
 "Ukraine","Dnipropetrovsk","Pushkarivka",3244,48.67,34.25,64.
@@ -1305,65 +1305,65 @@
 "Ukraine","Kirovograd","Pryyutivka",3238,48.72,33.07,1.1e2
 "Ukraine","Chernigov","Honcharivske",3233,51.3,30.9333,"null"
 "Ukraine","Harkov","Kurylivka",3226,49.660000000000004,37.72,1.1e2
-"Ukraine","IvanoFrankivsk","Yamnytsya",3223,48.99,24.71,2.3e2
+"Ukraine","Ivano‐Frankivsk","Yamnytsya",3223,48.99,24.71,2.3e2
 "Ukraine","Cherkask","Dubiyivka",3219,49.35,31.94,89.
 "Ukraine","Crimea","Shchebetovka",3213,44.93,35.15,1.7e2
 "Ukraine","Poltava","Machukhy",3203,49.52,34.43,1.5e2
 "Ukraine","Sumska","Kyrykivka",3202,50.36,35.11,1.1e2
 "Ukraine","Cherkask","Sahunivka",3201,49.300000000000004,32.4,77.
 "Ukraine","Donetsk","Andriyivka",3201,47.42,37.64,1.5e2
-"Ukraine","Dnipropetrovsk","Mykolayivka2",3200,48.38,36.28,73.
+"Ukraine","Dnipropetrovsk","Mykolayivka",3200,48.38,36.28,73.
 "Ukraine","Transcarpathia","Lopukhiv",3199,48.370000000000005,23.97,6.4e2
 "Ukraine","Odesa","Velykoploske",3192,47.01,29.67,1.8e2
 "Ukraine","Lugansk","Horodyshche",3190,49.06,39.67,54.
 "Ukraine","Chernivtsi","Ropcha",3189,48.1,25.77,3.6e2
-"Ukraine","Hmelnickij","Novoselytsya",3185,50.08,27.55,2.5e2
+"Ukraine","Khmelnytskyi","Novoselytsya",3185,50.08,27.55,2.5e2
 "Ukraine","Odesa","Kuchurhan",3183,47.160000000000004,29.79,1.3e2
 "Ukraine","Crimea","Novoselivske",3179,45.44,33.6,86.
 "Ukraine","Zaporizhzhya","Malokaterynivka",3174,47.65,35.25,13.
-"Ukraine","Transcarpathia","TuryiRemety",3172,48.72,22.6,1.8e2
+"Ukraine","Transcarpathia","Turyi Remety",3172,48.72,22.6,1.8e2
 "Ukraine","Vinnica","Orativ",3170,49.2,29.53,2.2e2
 "Ukraine","Donetsk","Dmytrivka",3170,47.93,38.93,71.
 "Ukraine","Harkov","Petrivske",3163,49.18,36.9,1.e2
 "Ukraine","Chernivtsi","Kadubivtsi",3161,48.58,25.77,2.6e2
-"Ukraine","Chernigov","NovaBasan",3160,50.56,31.51,1.2e2
+"Ukraine","Chernigov","Nova Basan",3160,50.56,31.51,1.2e2
 "Ukraine","Chernivtsi","Shypyntsi",3160,48.370000000000005,25.75,1.8e2
-"Ukraine","Lugansk","ChervonaPolyana",3157,48.245,39.1036,"null"
+"Ukraine","Lugansk","Chervona Polyana",3157,48.245,39.1036,"null"
 "Ukraine","Chernivtsi","Zarozhany",3156,48.42,26.3,2.3e2
 "Ukraine","Transcarpathia","Bohdan",3155,48.04,24.36,6.5e2
 "Ukraine","Crimea","Sofiyivka",3155,48.7408,37.5131,"null"
 "Ukraine","Poltava","Popivka",3153,49.96,34.58,1.8e2
 "Ukraine","Volyn","Holovne",3152,51.33,24.080000000000002,2.e2
 "Ukraine","Chernigov","Kholmy",3146,51.870000000000005,32.59,1.5e2
-"Ukraine","IvanoFrankivsk","YasenivPilnyy",3145,48.63,25.52,2.8e2
+"Ukraine","Ivano‐Frankivsk","Yaseniv‐Pilnyy",3145,48.63,25.52,2.8e2
 "Ukraine","Transcarpathia","Rakoshyno",3145,48.47,22.6,1.1e2
-"Ukraine","Ternopil","VelykiBirky",3141,49.52,25.73,3.1e2
+"Ukraine","Ternopil","Velyki Birky",3141,49.52,25.73,3.1e2
 "Ukraine","Kyyivska","Rozkishna",3140,49.38,30.18,2.1e2
 "Ukraine","Volyn","Olyka",3130,50.72,25.82,2.e2
 "Ukraine","Herson","Lazurne",3127,46.07,32.53,0
 "Ukraine","Lugansk","Mykhaylivka",3126,48.5,38.910000000000004,93.
 "Ukraine","Ternopil","Pidhaytsi",3125,49.27,25.13,3.5e2
-"Ukraine","IvanoFrankivsk","Khymchyn",3124,48.38,25.16,3.3e2
+"Ukraine","Ivano‐Frankivsk","Khymchyn",3124,48.38,25.16,3.3e2
 "Ukraine","Chernivtsi","Ivanivtsi",3117,48.5,27.05,2.3e2
 "Ukraine","Lugansk","Kamyane",3116,48.17,39.160000000000004,2.9e2
 "Ukraine","Lviv","Rykhtychi",3115,49.38,23.55,2.9e2
-"Ukraine","Odesa","Vynohradivka2",3110,45.67,28.55,1.2e2
+"Ukraine","Odesa","Vynohradivka",3110,45.67,28.55,1.2e2
 "Ukraine","Crimea","Sadove",3104,45.300000000000004,34.64,55.
 "Ukraine","Lviv","Rozvadiv",3098,49.5,23.62,2.6e2
 "Ukraine","Dnipropetrovsk","Sholokhove",3097,47.7,34.05,11.
-"Ukraine","IvanoFrankivsk","Krasna",3096,48.58,24.7,4.5e2
+"Ukraine","Ivano‐Frankivsk","Krasna",3096,48.58,24.7,4.5e2
 "Ukraine","Kyyivska","Shchaslyve",3096,46.7308,34.4064,"null"
 "Ukraine","Kirovograd","Subottsi",3095,48.660000000000004,32.52,1.6e2
 "Ukraine","Odesa","Pishchana",3094,48.11,29.73,1.9e2
-"Ukraine","Crimea","ZolotePole",3094,45.1236,34.9903,"null"
-"Ukraine","IvanoFrankivsk","Uhryniv",3090,48.96,24.7,2.6e2
+"Ukraine","Crimea","Zolote Pole",3094,45.1236,34.9903,"null"
+"Ukraine","Ivano‐Frankivsk","Uhryniv",3090,48.96,24.7,2.6e2
 "Ukraine","Lugansk","Volodarsk",3089,48.13,39.59,2.3e2
-"Ukraine","Vinnica","VelykaKisnytsya",3088,48.14,28.47,75.
-"Ukraine","Harkov","ChervonyyOskil",3081,49.18,37.42,90.
-"Ukraine","Zaporizhzhya","Polohy2",3077,47.4796,36.2611,"null"
-"Ukraine","IvanoFrankivsk","Stetseva",3076,48.53,25.57,2.7e2
+"Ukraine","Vinnica","Velyka Kisnytsya",3088,48.14,28.47,75.
+"Ukraine","Harkov","Chervonyy Oskil",3081,49.18,37.42,90.
+"Ukraine","Zaporizhzhya","Polohy",3077,47.4796,36.2611,"null"
+"Ukraine","Ivano‐Frankivsk","Stetseva",3076,48.53,25.57,2.7e2
 "Ukraine","Odesa","Kryzhanivka",3076,46.57,30.8,34.
-"Ukraine","Odesa","Lymanske2",3075,45.45,28.42,3.
+"Ukraine","Odesa","Lymanske",3075,45.45,28.42,3.
 "Ukraine","Transcarpathia","Lysychovo",3068,48.5,23.28,3.5e2
 "Ukraine","Crimea","Zhuravky",3068,45.13,35.230000000000004,83.
 "Ukraine","Cherkask","Shramkivka",3066,50.14,32.13,1.2e2
@@ -1376,26 +1376,26 @@
 "Ukraine","Rivne","Kolodenka",3052,50.58,26.32,2.e2
 "Ukraine","Chernivtsi","Nedoboyivtsi",3049,48.43,26.35,2.1e2
 "Ukraine","Transcarpathia","Batovo",3048,48.370000000000005,22.400000000000002,1.e2
-"Ukraine","IvanoFrankivsk","Chernyatyn",3046,48.660000000000004,25.45,2.9e2
+"Ukraine","Ivano‐Frankivsk","Chernyatyn",3046,48.660000000000004,25.45,2.9e2
 "Ukraine","Ternopil","Zavodske",3044,50.4002,33.3908,"null"
 "Ukraine","Volyn","Lukiv",3043,51.050000000000004,25.400000000000002,1.7e2
 "Ukraine","Ternopil","Petrykiv",3033,49.53,25.580000000000002,3.2e2
-"Ukraine","Lugansk","UraloKavkaz",3033,48.300000000000004,39.83,78.
+"Ukraine","Lugansk","Uralo‐Kavkaz",3033,48.300000000000004,39.83,78.
 "Ukraine","Sumska","Shalyhyne",3031,51.57,34.07,1.6e2
 "Ukraine","Mykolayivsk","Shevchenkove",3031,46.87,32.21,45.
 "Ukraine","Odesa","Ivanivka",3028,46.980000000000004,30.48,13.
-"Ukraine","Chernigov","MykhailoKotsiubynske",3028,51.455,31.077222222222,"null"
+"Ukraine","Chernigov","Mykhailo-Kotsiubynske",3028,51.455,31.077222222222,"null"
 "Ukraine","Dnipropetrovsk","Spasskoye",3017,48.67,35.03,63.
 "Ukraine","Rivne","Smyha",3015,50.2378,25.7645,"null"
 "Ukraine","Crimea","Pryozerne",3013,45.27,36.34,6.
 "Ukraine","Mykolayivsk","Peresadivka",3012,47.12,32.18,50.
-"Ukraine","IvanoFrankivsk","Rosilna",3010,48.77,24.38,4.4e2
+"Ukraine","Ivano‐Frankivsk","Rosilna",3010,48.77,24.38,4.4e2
 "Ukraine","Transcarpathia","Kopashnovo",3010,48.230000000000004,23.5,3.3e2
 "Ukraine","Donetsk","Verkhnotoretske",3008,48.230000000000004,37.89,1.6e2
 "Ukraine","Donetsk","Korsun",3008,48.2,38.1,1.4e2
 "Ukraine","Odesa","Petrodolynske",3007,46.43,30.400000000000002,41.
 "Ukraine","Kyyivska","Hatne",3004,50.370000000000005,30.400000000000002,1.8e2
-"Ukraine","IvanoFrankivsk","Porohy",3004,48.69,24.27,5.4e2
+"Ukraine","Ivano‐Frankivsk","Porohy",3004,48.69,24.27,5.4e2
 "Ukraine","Donetsk","Hrodivka",3004,48.42,37.49,1.5e2
 "Ukraine","Crimea","Orikhove",3000,45.13,33.63,17.
 "Ukraine","Lugansk","Nyzhnye",2999,48.77,38.6,88.
@@ -1403,14 +1403,14 @@
 "Ukraine","Lviv","Voronyaky",2994,49.78,24.900000000000002,3.5e2
 "Ukraine","Transcarpathia","Shalanky",2994,48.22,22.88,1.2e2
 "Ukraine","Vinnica","Kynashiv",2989,48.67,28.92,2.e2
-"Ukraine","Zaporizhzhya","KinskiRozdory",2985,47.42,36.410000000000004,1.2e2
+"Ukraine","Zaporizhzhya","Kinski Rozdory",2985,47.42,36.410000000000004,1.2e2
 "Ukraine","Rivne","Nemovychi",2984,51.27,26.63,1.5e2
-"Ukraine","Lugansk","KrasnyyKut",2983,48.21,38.79,1.8e2
+"Ukraine","Lugansk","Krasnyy Kut",2983,48.21,38.79,1.8e2
 "Ukraine","Harkov","Kulynychi",2981,49.980000000000004,36.38,1.4e2
 "Ukraine","Chernivtsi","Davydivka",2981,48.120000000000005,25.560000000000002,4.1e2
 "Ukraine","Vinnica","Ulaniv",2980,49.7,28.13,2.6e2
 "Ukraine","Dnipropetrovsk","Shchorsk",2979,48.4,34.12,1.3e2
-"Ukraine","IvanoFrankivsk","Spas",2976,48.88,24.060000000000002,4.3e2
+"Ukraine","Ivano‐Frankivsk","Spas",2976,48.88,24.060000000000002,4.3e2
 "Ukraine","Zaporizhzhya","Tymoshivka",2975,47.18,35.11,71.
 "Ukraine","Lugansk","Vilkhove",2975,48.6722,39.5717,"null"
 "Ukraine","Transcarpathia","Mynay",2973,48.58,22.28,1.1e2
@@ -1421,58 +1421,58 @@
 "Ukraine","Kyyivska","Havrylivka",2968,49.0119,38.6711,"null"
 "Ukraine","Transcarpathia","Hat",2966,48.32,22.63,1.1e2
 "Ukraine","Transcarpathia","Onok",2966,48.2236,23.0039,"null"
-"Ukraine","IvanoFrankivsk","Chornoliztsi",2965,48.83,24.89,2.5e2
-"Ukraine","Lugansk","BokovePlatove",2965,48.11,39.01,1.4e2
+"Ukraine","Ivano‐Frankivsk","Chornoliztsi",2965,48.83,24.89,2.5e2
+"Ukraine","Lugansk","Bokove‐Platove",2965,48.11,39.01,1.4e2
 "Ukraine","Chernigov","Baturyn",2964,51.35,32.88,1.3e2
 "Ukraine","Chernivtsi","Rzhavyntsi",2961,48.52,26.080000000000002,2.4e2
 "Ukraine","Kyyivska","Karapyshi",2960,49.65,30.78,1.4e2
-"Ukraine","IvanoFrankivsk","Zhovten",2960,49.03,24.78,2.1e2
+"Ukraine","Ivano‐Frankivsk","Zhovten",2960,49.03,24.78,2.1e2
 "Ukraine","Transcarpathia","Horinchovo",2959,48.27,23.44,2.3e2
-"Ukraine","Volyn","RakivLis",2958,51.61,24.91,1.5e2
-"Ukraine","Transcarpathia","MalyyRakovets",2958,48.27,23.2,2.7e2
+"Ukraine","Volyn","Rakiv Lis",2958,51.61,24.91,1.5e2
+"Ukraine","Transcarpathia","Malyy Rakovets",2958,48.27,23.2,2.7e2
 "Ukraine","Crimea","Frunze",2958,45.02,33.63,13.
 "Ukraine","Poltava","Sencha",2953,50.25,33.35,96.
 "Ukraine","Sumska","Sloboda",2949,51.18,33.62,1.5e2
 "Ukraine","Kirovograd","Kapitanivka",2945,48.910000000000004,31.71,1.9e2
 "Ukraine","Crimea","Pryvitne",2945,44.8222,34.6778,"null"
-"Ukraine","IvanoFrankivsk","Tysmenychany",2944,48.78,24.67,3.1e2
+"Ukraine","Ivano‐Frankivsk","Tysmenychany",2944,48.78,24.67,3.1e2
 "Ukraine","Kyyivska","Semypolky",2939,50.72,30.93,1.1e2
-"Ukraine","Chernigov","MykhayloKotsyubynske",2938,51.44,31.07,1.4e2
+"Ukraine","Chernigov","Mykhaylo‐Kotsyubynske",2938,51.44,31.07,1.4e2
 "Ukraine","Herson","Chulakivka",2938,46.36,32.36,13.
 "Ukraine","Crimea","Zhelyabovka",2930,45.4,34.75,28.
-"Ukraine","IvanoFrankivsk","Petranka",2929,48.910000000000004,24.3,4.e2
+"Ukraine","Ivano‐Frankivsk","Petranka",2929,48.910000000000004,24.3,4.e2
 "Ukraine","Dnipropetrovsk","Loboykivka",2929,48.7,34.65,58.
-"Ukraine","IvanoFrankivsk","Radcha",2927,48.86,24.650000000000002,2.9e2
+"Ukraine","Ivano‐Frankivsk","Radcha",2927,48.86,24.650000000000002,2.9e2
 "Ukraine","Donetsk","Pervomayskyy",2922,47.980000000000004,38.79,2.4e2
 "Ukraine","Odesa","Tayirove",2922,46.37,30.67,44.
 "Ukraine","Chernivtsi","Bilousivka",2921,48.53,27.35,2.5e2
 "Ukraine","Cherkask","Vilkhovets",2919,48.5601,26.153,"null"
 "Ukraine","Kirovograd","Pantayivka",2918,48.68,32.88,1.8e2
-"Ukraine","Odesa","StaraNekrasivka",2916,45.32,28.94,0
-"Ukraine","Transcarpathia","BilaTserkva",2916,49.8517,30.1344,"null"
+"Ukraine","Odesa","Stara Nekrasivka",2916,45.32,28.94,0
+"Ukraine","Transcarpathia","Bila Tserkva",2916,49.8517,30.1344,"null"
 "Ukraine","Transcarpathia","Koshelovo",2915,48.24,23.34,1.9e2
 "Ukraine","Chernivtsi","Voloka",2915,48.19,25.93,2.4e2
-"Ukraine","Zaporizhzhya","MalaTokmachka",2912,47.54,35.89,63.
+"Ukraine","Zaporizhzhya","Mala Tokmachka",2912,47.54,35.89,63.
 "Ukraine","Transcarpathia","Kryva",2911,48.17,23.25,2.4e2
 "Ukraine","Herson","Bekhtery",2909,46.25,32.29,5.
-"Ukraine","IvanoFrankivsk","Knyazholuka",2908,48.9966,23.9058,"null"
+"Ukraine","Ivano‐Frankivsk","Knyazholuka",2908,48.9966,23.9058,"null"
 "Ukraine","Vinnica","Serebriya",2906,48.47,27.7,1.7e2
 "Ukraine","Chernivtsi","Shylivtsi",2906,48.45,26.18,3.7e2
-"Ukraine","IvanoFrankivsk","Chortovets",2904,48.7,25.28,2.7e2
-"Ukraine","Transcarpathia","NyzhnyeSelyshche",2901,48.19,23.45,2.2e2
+"Ukraine","Ivano‐Frankivsk","Chortovets",2904,48.7,25.28,2.7e2
+"Ukraine","Transcarpathia","Nyzhnye Selyshche",2901,48.19,23.45,2.2e2
 "Ukraine","Chernigov","Zhuravka",2900,50.480000000000004,32.6,1.1e2
-"Ukraine","Odesa","Dmytrivka3",2899,45.84,29.490000000000002,44.
+"Ukraine","Odesa","Dmytrivka",2899,45.84,29.490000000000002,44.
 "Ukraine","Herson","Krasne",2898,46.12,32.78,0
-"Ukraine","IvanoFrankivsk","Markova",2896,48.69,24.42,4.7e2
+"Ukraine","Ivano‐Frankivsk","Markova",2896,48.69,24.42,4.7e2
 "Ukraine","Kyyivska","Bohdanivka",2894,50.63,30.92,1.2e2
 "Ukraine","Odesa","Zahnitkiv",2893,48.050000000000004,28.900000000000002,2.2e2
 "Ukraine","Sumska","Dubovyazivka",2892,51.13,33.37,1.6e2
 "Ukraine","Lviv","Rozdil",2892,49.47,24.060000000000002,2.9e2
-"Ukraine","IvanoFrankivsk","NyzhniyStrutyn",2892,48.94,24.12,3.7e2
+"Ukraine","Ivano‐Frankivsk","Nyzhniy Strutyn",2892,48.94,24.12,3.7e2
 "Ukraine","Dnipropetrovsk","Malomykhaylivka",2888,48.08,36.42,1.3e2
 "Ukraine","Cherkask","Yurkivka",2887,49.02,31.11,1.4e2
-"Ukraine","Chernivtsi","NyzhniPetrivtsi",2887,48.03,25.73,3.7e2
-"Ukraine","Cherkask","VelykaSevastyanivka",2885,48.88,29.79,2.4e2
+"Ukraine","Chernivtsi","Nyzhni Petrivtsi",2887,48.03,25.73,3.7e2
+"Ukraine","Cherkask","Velyka Sevastyanivka",2885,48.88,29.79,2.4e2
 "Ukraine","Transcarpathia","Berezovo",2885,48.300000000000004,23.48,2.6e2
 "Ukraine","Crimea","Poshtove",2882,44.83,33.95,1.7e2
 "Ukraine","Zhitomir","Chervone",2880,49.97,28.87,2.2e2
@@ -1482,7 +1482,7 @@
 "Ukraine","Odesa","Novoselivka",2860,47.15,30.830000000000002,91.
 "Ukraine","Donetsk","Laryne",2854,47.88,37.93,1.1e2
 "Ukraine","Odesa","Tsebrykove",2854,47.15,30.1,67.
-"Ukraine","Lviv","NovyyYarychiv",2841,49.92,24.3,2.4e2
+"Ukraine","Lviv","Novyy Yarychiv",2841,49.92,24.3,2.4e2
 "Ukraine","Odesa","Mykolayivka",2840,47.54,30.77,50.
 "Ukraine","Lugansk","Seleznivka",2828,48.38,38.77,1.8e2
 "Ukraine","Sumska","Nyzy",2819,50.78,34.78,1.2e2
@@ -1490,33 +1490,33 @@
 "Ukraine","Crimea","Mykolayivka",2817,44.97,33.62,18.
 "Ukraine","Donetsk","Kirovsk",2811,49.02,37.93,72.
 "Ukraine","Crimea","Koktebel",2807,44.95,35.25,56.
-"Ukraine","IvanoFrankivsk","Yezupil",2807,49.043055555556,24.776388888889,"null"
+"Ukraine","Ivano‐Frankivsk","Yezupil",2807,49.043055555556,24.776388888889,"null"
 "Ukraine","Harkov","Chapayeve",2800,49.370000000000005,35.87,1.7e2
 "Ukraine","Lviv","Hirnyk",2794,50.31,24.2,1.9e2
-"Ukraine","Lugansk","Mykhaylivka2",2777,48.07,39.27,2.3e2
+"Ukraine","Lugansk","Mykhaylivka",2777,48.07,39.27,2.3e2
 "Ukraine","Crimea","Ordzhonikidze",2773,44.92,35.33,0
 "Ukraine","Kyyivska","Trypillya",2767,50.120000000000005,30.77,1.e2
-"Ukraine","Hmelnickij","Dunayivtsi2",2755,49.02,26.810000000000002,3.e2
+"Ukraine","Khmelnytskyi","Dunaivtsi",2755,49.02,26.810000000000002,3.e2
 "Ukraine","Dnipropetrovsk","Bozhedarivka",2750,48.3546202807,34.115876856441,"null"
 "Ukraine","Lugansk","Komyshuvakha",2748,48.71,38.37,2.3e2
-"Ukraine","Lugansk","Fashchivka2",2741,48.2742,38.6031,"null"
-"Ukraine","Herson","AskaniaNova",2741,46.451111111111,33.868333333333,"null"
+"Ukraine","Lugansk","Fashchivka",2741,48.2742,38.6031,"null"
+"Ukraine","Herson","Askania-Nova",2741,46.451111111111,33.868333333333,"null"
 "Ukraine","Vinnica","Sytkivtsi",2740,48.910000000000004,29.21,2.5e2
 "Ukraine","Lviv","Pidbuzh",2739,49.35,23.25,4.e2
-"Ukraine","IvanoFrankivsk","Lysets",2732,48.870000000000005,24.61,2.9e2
+"Ukraine","Ivano‐Frankivsk","Lysets",2732,48.870000000000005,24.61,2.9e2
 "Ukraine","Zaporizhzhya","Novovasylivka",2724,46.84,35.76,32.
 "Ukraine","Sumska","Ulyanivka",2715,50.980000000000004,34.29,1.6e2
 "Ukraine","Mykolayivsk","Kostyantynivka",2705,47.83,31.150000000000002,63.
 "Ukraine","Chernigov","Dmytrivka",2700,50.94,32.96,1.3e2
-"Ukraine","Zhitomir","KamyanyyBrid",2699,50.480000000000004,28.95,1.8e2
+"Ukraine","Zhitomir","Kamyanyy Brid",2699,50.480000000000004,28.95,1.8e2
 "Ukraine","Kyyivska","Kozhanka",2697,49.97,29.77,1.9e2
 "Ukraine","Chernivtsi","Kostryzhivka",2683,48.65,25.71,2.4e2
 "Ukraine","Ternopil","Zaliztsi",2680,49.78,25.37,3.3e2
 "Ukraine","Harkov","Slobozhanske",2679,49.364444444444,35.878611111111,"null"
 "Ukraine","Chernigov","Ponornytsya",2677,51.72,32.85,1.6e2
 "Ukraine","Lviv","Zapytiv",2673,49.92,24.2,2.4e2
-"Ukraine","IvanoFrankivsk","Voynyliv",2673,49.13,24.5,2.7e2
-"Ukraine","Zhitomir","VelykiKorovyntsi",2662,49.980000000000004,28.28,2.5e2
+"Ukraine","Ivano‐Frankivsk","Voynyliv",2673,49.13,24.5,2.7e2
+"Ukraine","Zhitomir","Velyki Korovyntsi",2662,49.980000000000004,28.28,2.5e2
 "Ukraine","Donetsk","Syedove",2661,47.08,38.160000000000004,0
 "Ukraine","Chernigov","Parafiyivka",2660,50.88,32.63,1.5e2
 "Ukraine","Harkov","Vvedenka",2628,49.83,36.5,1.1e2
@@ -1528,11 +1528,11 @@
 "Ukraine","Poltava","Chornukhy",2572,50.27,32.95,1.2e2
 "Ukraine","Rivne","Demydivka",2572,50.4275033,25.3368641,2.1e2
 "Ukraine","Poltava","Hoholeve",2564,49.92,33.83,1.3e2
-"Ukraine","Hmelnickij","Vovkovyntsi",2556,49.2,27.66,3.6e2
+"Ukraine","Khmelnytskyi","Vovkovyntsi",2556,49.2,27.66,3.6e2
 "Ukraine","Chernigov","Lyubech",2550,51.7,30.650000000000002,1.4e2
 "Ukraine","Poltava","Komyshnya",2539,50.18,33.68,1.5e2
 "Ukraine","Donetsk","Zalisne",2539,48.03,38.79,2.7e2
-"Ukraine","Zhitomir","KamianyiBrid",2533,50.417222222222,27.838055555556,"null"
+"Ukraine","Zhitomir","Kamianyi Brid",2533,50.417222222222,27.838055555556,"null"
 "Ukraine","Odesa","Slobidka",2530,47.89,29.35,2.5e2
 "Ukraine","Zhitomir","Pershotravneve",2523,51.4,28.88,1.7e2
 "Ukraine","Kyyivska","Babyntsi",2523,50.65,30.03,1.5e2
@@ -1549,62 +1549,62 @@
 "Ukraine","Lugansk","Komisarivka",2451,48.47,39.5,75.
 "Ukraine","Dnipropetrovsk","Slavhorod",2450,48.1,35.52,1.4e2
 "Ukraine","Chernivtsi","Nepolokivtsi",2449,48.39,25.63,1.9e2
-"Ukraine","Poltava","NovaHaleshchyna",2443,49.17,33.74,74.
+"Ukraine","Poltava","Nova Haleshchyna",2443,49.17,33.74,74.
 "Ukraine","Dnipropetrovsk","Aviatorske",2438,48.366445389357,35.082998400699,"null"
-"Ukraine","Hmelnickij","Sataniv",2413,49.25,26.27,3.3e2
-"Ukraine","Hmelnickij","Antoniny",2400,49.800000000000004,26.87,2.9e2
+"Ukraine","Khmelnytskyi","Sataniv",2413,49.25,26.27,3.3e2
+"Ukraine","Khmelnytskyi","Antoniny",2400,49.800000000000004,26.87,2.9e2
 "Ukraine","Rivne","Tomashhorod",2395,51.370000000000005,27.080000000000002,1.5e2
-"Ukraine","Ternopil","ZolotyyPotik",2395,48.910000000000004,25.34,3.4e2
+"Ukraine","Ternopil","Zolotyy Potik",2395,48.910000000000004,25.34,3.4e2
 "Ukraine","Dnipropetrovsk","Lykhivka",2382,48.68,33.93,74.
 "Ukraine","Vinnica","Brodetske",2370,49.75,28.63,2.7e2
 "Ukraine","Sumska","Shalygino",2363,51.5676286367,34.119724993898,"null"
-"Ukraine","Lugansk","NyzhnyaDuvanka",2353,49.58,38.160000000000004,76.
+"Ukraine","Lugansk","Nyzhnya Duvanka",2353,49.58,38.160000000000004,76.
 "Ukraine","Zhitomir","Lyubar",2351,49.92,27.75,2.3e2
 "Ukraine","Crimea","Kuybysheve",2344,44.65,33.87,2.5e2
 "Ukraine","Lugansk","Yashchykove",2327,48.4,38.74,1.5e2
-"Ukraine","Zaporizhzhya","KomyshZorya",2321,47.33,36.67,2.3e2
+"Ukraine","Zaporizhzhya","Komysh‐Zorya",2321,47.33,36.67,2.3e2
 "Ukraine","Chernigov","Olyshivka",2317,51.22,31.330000000000002,1.2e2
 "Ukraine","Donetsk","Tsukuryne",2313,48.1,37.32,2.e2
 "Ukraine","Lviv","Belz",2308,50.38,24.02,1.9e2
-"Ukraine","Chernigov","MalaDivytsya",2294,50.7,32.160000000000004,1.2e2
+"Ukraine","Chernigov","Mala Divytsya",2294,50.7,32.160000000000004,1.2e2
 "Ukraine","Sumska","Ulianivka",2287,50.973291060652,34.29800818963,"null"
 "Ukraine","Sumska","Uhroyidy",2265,50.86,35.28,1.8e2
-"Ukraine","IvanoFrankivsk","Vyhoda",2263,48.92,23.900000000000002,4.6e2
+"Ukraine","Ivano‐Frankivsk","Vyhoda",2263,48.92,23.900000000000002,4.6e2
 "Ukraine","Lugansk","Klenovyy",2259,48.120000000000005,39.46,2.8e2
 "Ukraine","Crimea","Nikita",2257,44.53,34.230000000000004,6.7e2
-"Ukraine","Donetsk","Andriyivka2",2244,47.8266,38.1294,"null"
+"Ukraine","Donetsk","Andriyivka",2244,47.8266,38.1294,"null"
 "Ukraine","Lugansk","Syevernyy",2243,48.35,39.88,1.4e2
 "Ukraine","Lviv","Skhidnytsya",2226,49.230000000000004,23.35,5.5e2
 "Ukraine","Dnipropetrovsk","Yuryivka",2216,48.730000000000004,36.03,1.1e2
 "Ukraine","Volyn","Ustyluh",2200,50.870000000000005,24.150000000000002,1.8e2
 "Ukraine","Zhitomir","Chopovychi",2183,50.83,28.95,1.7e2
-"Ukraine","Donetsk","YasnaPolyana",2170,48.75,37.53,89.
+"Ukraine","Donetsk","Yasna Polyana",2170,48.75,37.53,89.
 "Ukraine","Herson","Arkhanhelske",2162,47.43,33.4,16.
 "Ukraine","Cherkask","Buky",2158,49.09,30.41,1.8e2
-"Ukraine","Sumska","ZnobNovhorodske",2139,52.27,33.6,1.4e2
+"Ukraine","Sumska","Znob‐Novhorodske",2139,52.27,33.6,1.4e2
 "Ukraine","Donetsk","Zemlyanky",2130,48.120000000000005,37.92,1.9e2
 "Ukraine","Chernivtsi","Hertsa",2119,48.15,26.25,1.8e2
-"Ukraine","Lugansk","NaholnoTarasivka",2113,48.01,39.47,1.6e2
+"Ukraine","Lugansk","Naholno‐Tarasivka",2113,48.01,39.47,1.6e2
 "Ukraine","Donetsk","Yarova",2106,49.06,37.64,61.
 "Ukraine","Lviv","Pidkamin",2103,49.95,25.32,3.7e2
 "Ukraine","Zhitomir","Vakulenchuk",2101,49.9417,28.3031,"null"
 "Ukraine","Dnipropetrovsk","Novopokrovka",2092,48.050000000000004,34.62,90.
-"Ukraine","Lviv","Dublyany2",2086,49.5,23.41,2.7e2
+"Ukraine","Lviv","Dublyany",2086,49.5,23.41,2.7e2
 "Ukraine","Donetsk","Kuteynykove",2076,47.81,38.29,1.8e2
 "Ukraine","Mykolayivsk","Kudryavtsivka",2076,47.300000000000004,31.02,1.1e2
 "Ukraine","Kyyivska","Doslidnytske",2046,49.92,30.150000000000002,1.8e2
 "Ukraine","Herson","Myrne",2036,46.5,33.45,34.
-"Ukraine","Hmelnickij","Bazaliya",2035,49.72,26.47,3.2e2
+"Ukraine","Khmelnytskyi","Bazaliya",2035,49.72,26.47,3.2e2
 "Ukraine","Donetsk","Myrne",2032,47.44,37.730000000000004,1.3e2
 "Ukraine","Donetsk","Yampil",2031,48.93,37.97,53.
-"Ukraine","IvanoFrankivsk","Bilshivtsi",2029,49.18,24.740000000000002,2.2e2
+"Ukraine","Ivano‐Frankivsk","Bilshivtsi",2029,49.18,24.740000000000002,2.2e2
 "Ukraine","Donetsk","Shevchenko",2023,48.69,38.03,90.
 "Ukraine","Mykolayivsk","Tokarivka",2014,47.303055555556,31.0125,"null"
 "Ukraine","Donetsk","Svyatohorivka",2013,48.480000000000004,37.050000000000004,1.4e2
 "Ukraine","Lugansk","Izvaryne",2013,48.29,39.89,1.1e2
 "Ukraine","Rivne","Sosnove",2010,50.8217,27.0056,"null"
 "Ukraine","Ternopil","Hrymayliv",2004,49.33,26.03,3.1e2
-"Ukraine","Hmelnickij","Yampil",1996,49.97,26.25,2.4e2
+"Ukraine","Khmelnytskyi","Yampil",1996,49.97,26.25,2.4e2
 "Ukraine","Harkov","Huty",1978,50.138785,35.3471935,1.2e2
 "Ukraine","Lviv","Nemyriv",1966,50.1,23.45,2.7e2
 "Ukraine","Lugansk","Malomykolayivka",1959,48.31,39.03,2.e2
@@ -1615,10 +1615,10 @@
 "Ukraine","Odesa","Zatoka",1921,46.07,30.47,0
 "Ukraine","Donetsk","Serdyte",1920,48.04,38.4,2.4e2
 "Ukraine","Kirovograd","Salkove",1916,48.25,29.98,1.3e2
-"Ukraine","Hmelnickij","Smotrych",1912,48.95,26.55,2.7e2
+"Ukraine","Khmelnytskyi","Smotrych",1912,48.95,26.55,2.7e2
 "Ukraine","Zhitomir","Bykivka",1911,50.28,27.98,2.4e2
-"Ukraine","Lugansk","VerkhniyNaholchyk",1910,48.08,39.09,1.7e2
-"Ukraine","Sumska","ZnobNovgorodskoye",1910,52.264767356656,33.601310379326,"null"
+"Ukraine","Lugansk","Verkhniy Naholchyk",1910,48.08,39.09,1.7e2
+"Ukraine","Sumska","Znob Novgorodskoye",1910,52.264767356656,33.601310379326,"null"
 "Ukraine","Donetsk","Oleksandrivske",1902,48.2861,38.3622,"null"
 "Ukraine","Crimea","Aeroflotske",1897,45.02,34.03,1.9e2
 "Ukraine","Zhitomir","Holovyne",1891,50.47,28.830000000000002,2.e2
@@ -1628,11 +1628,11 @@
 "Ukraine","Harkov","Sharivka",1878,50.01,35.44,1.5e2
 "Ukraine","Donetsk","Leninske",1878,47.76,38.44,1.5e2
 "Ukraine","Lugansk","Kalininskyy",1862,48.02,39.59,2.6e2
-"Ukraine","IvanoFrankivsk","Hvizdets",1851,48.59,25.27,3.e2
+"Ukraine","Ivano‐Frankivsk","Hvizdets",1851,48.59,25.27,3.e2
 "Ukraine","Lviv","Nyzhankovychi",1809,49.67,22.79,2.4e2
-"Ukraine","IvanoFrankivsk","Chernelytsya",1809,48.81,25.43,3.3e2
+"Ukraine","Ivano‐Frankivsk","Chernelytsya",1809,48.81,25.43,3.3e2
 "Ukraine","Sumska","Chervone",1800,51.77,34.06,1.8e2
-"Ukraine","IvanoFrankivsk","Yabluniv",1798,48.4,24.95,3.8e2
+"Ukraine","Ivano‐Frankivsk","Yabluniv",1798,48.4,24.95,3.8e2
 "Ukraine","Dnipropetrovsk","Rozdory",1782,48.32,35.71,1.2e2
 "Ukraine","Lugansk","Khrustalne",1775,48.160000000000004,38.84,1.8e2
 "Ukraine","Lviv","Nizhankovichi",1771,49.678611111111,22.8125,"null"
@@ -1641,18 +1641,18 @@
 "Ukraine","Odesa","Borodino",1758,46.300000000000004,29.240000000000002,70.
 "Ukraine","Kyyivska","Kodra",1756,50.6,29.57,1.6e2
 "Ukraine","Lugansk","Chervonohvardiyske",1732,48.59,38.77,1.6e2
-"Ukraine","Hmelnickij","Medzhybizh",1731,49.43,27.42,2.8e2
+"Ukraine","Khmelnytskyi","Medzhybizh",1731,49.43,27.42,2.8e2
 "Ukraine","Volyn","Berestechko",1727,50.35,25.12,1.9e2
 "Ukraine","Lviv","Olesko",1726,49.97,24.88,2.2e2
 "Ukraine","Odesa","Radisne",1714,49.7783,28.0925,"null"
-"Ukraine","Harkov","StaryyMerchyk",1709,49.97,35.78,1.8e2
+"Ukraine","Harkov","Staryy Merchyk",1709,49.97,35.78,1.8e2
 "Ukraine","Zhitomir","Polyanka",1693,50.25,27.7,2.3e2
-"Ukraine","Lugansk","NyzhniyNaholchyk",1681,48.01,39.550000000000004,2.2e2
+"Ukraine","Lugansk","Nyzhniy Naholchyk",1681,48.01,39.550000000000004,2.2e2
 "Ukraine","Lugansk","Vrubivskyy",1675,48.44,39.11,1.9e2
 "Ukraine","Kirovograd","Yelyzavethradka",1673,48.800000000000004,32.410000000000004,1.6e2
 "Ukraine","Donetsk","Vodyanske",1653,48.4,37.08,1.7e2
 "Ukraine","Donetsk","Udachne",1652,48.230000000000004,36.980000000000004,1.8e2
-"Ukraine","Hmelnickij","Lozove",1650,49.32,27.32,3.3e2
+"Ukraine","Khmelnytskyi","Lozove",1650,49.32,27.32,3.3e2
 "Ukraine","Lviv","Dubliany",1647,49.499166666667,23.406111111111,"null"
 "Ukraine","Odesa","Zelenohirske",1646,47.88,30.1,1.8e2
 "Ukraine","Harkov","Berezivka",1618,49.45,35.7,1.e2
@@ -1661,32 +1661,32 @@
 "Ukraine","Lugansk","Shterivka",1598,48.22,38.95,3.3e2
 "Ukraine","Ternopil","Druzhba",1586,49.050000000000004,25.45,3.2e2
 "Ukraine","Harkov","Vilcha",1585,50.2478,36.9528,"null"
-"Ukraine","Transcarpathia","UstChorna",1543,48.33,23.93,5.5e2
+"Ukraine","Transcarpathia","Ust‐Chorna",1543,48.33,23.93,5.5e2
 "Ukraine","Kirovograd","Molodizhne",1541,48.18,32.660000000000004,1.5e2
 "Ukraine","Zhitomir","Hranitne",1540,50.75,29.43,1.4e2
 "Ukraine","Donetsk","Zhelanne",1540,48.22,37.43,2.e2
 "Ukraine","Donetsk","Pivdenne",1535,48.360277777778,37.927777777778,"null"
-"Ukraine","Hmelnickij","Narkevychi",1530,49.52,26.63,3.e2
+"Ukraine","Khmelnytskyi","Narkevychi",1530,49.52,26.63,3.e2
 "Ukraine","Dnipropetrovsk","Khrystoforivka",1524,47.92,34.22,98.
 "Ukraine","Herson","Kalininske",1521,47.12,32.980000000000004,17.
-"Ukraine","Herson","BilaKrynytsya",1518,47.9675,25.8811,"null"
+"Ukraine","Herson","Bila Krynytsya",1518,47.9675,25.8811,"null"
 "Ukraine","Zaporizhzhya","Ternuvate",1510,47.83,36.13,1.5e2
 "Ukraine","Lugansk","Proletarskyy",1506,48.120000000000005,39.31,2.9e2
 "Ukraine","Crimea","Vynohradne",1494,44.480000000000004,34.09,5.9e2
 "Ukraine","Zhitomir","Marianivka",1488,50.304722222222,27.873611111111,"null"
 "Ukraine","Kyyivska","Terezyne",1480,49.8575,30.11,"null"
-"Ukraine","IvanoFrankivsk","Bukachivtsi",1451,49.25,24.5,2.3e2
+"Ukraine","Ivano‐Frankivsk","Bukachivtsi",1451,49.25,24.5,2.3e2
 "Ukraine","Lviv","Pomoryany",1449,49.63,24.93,3.1e2
 "Ukraine","Lugansk","Talove",1441,48.31,39.67,1.4e2
 "Ukraine","Zhitomir","Maryanivka",1439,50.300000000000004,27.87,2.4e2
 "Ukraine","Vinnica","Kopayhorod",1437,48.870000000000005,27.78,2.9e2
-"Ukraine","Donetsk","HruzkoZoryanske",1433,47.94,38.09,1.2e2
-"Ukraine","Lugansk","SyeveroHundorivskyy",1430,48.38,39.88,1.3e2
+"Ukraine","Donetsk","Hruzko‐Zoryanske",1433,47.94,38.09,1.2e2
+"Ukraine","Lugansk","Syevero‐Hundorivskyy",1430,48.38,39.88,1.3e2
 "Ukraine","Zaporizhzhya","Kyrylivka",1422,46.37,35.37,7.
 "Ukraine","Volyn","Rokyni",1422,50.8333,25.2833,"null"
 "Ukraine","Donetsk","Voykovskyy",1421,47.77,38.33,1.5e2
 "Ukraine","Lviv","Borynia",1402,49.077777777778,22.995277777778,"null"
-"Ukraine","Hmelnickij","Zakupne",1371,49.120000000000005,26.35,3.1e2
+"Ukraine","Khmelnytskyi","Zakupne",1371,49.120000000000005,26.35,3.1e2
 "Ukraine","Lugansk","Verhulivka",1369,48.4,38.49,3.1e2
 "Ukraine","Sumska","Esman",1348,51.77,34.067222222222,"null"
 "Ukraine","Donetsk","Novoselivka",1328,49.0701,37.6952,"null"
@@ -1694,7 +1694,7 @@
 "Ukraine","Zhitomir","Yablunets",1304,50.800000000000004,28.07,2.1e2
 "Ukraine","Chernigov","Sedniv",1301,51.65,31.560000000000002,1.4e2
 "Ukraine","Chernigov","Dihtyari",1289,50.59,32.76,1.1e2
-"Ukraine","Donetsk","Andriyivka3",1276,47.8266,38.1294,"null"
+"Ukraine","Donetsk","Andriyivka",1276,47.8266,38.1294,"null"
 "Ukraine","Dnipropetrovsk","Chortomlyk",1275,47.62,34.14,33.
 "Ukraine","Harkov","Utkivka",1272,49.79,36.08,1.1e2
 "Ukraine","Lugansk","Chelyuskinets",1268,48.44,39.2,1.7e2
@@ -1705,12 +1705,12 @@
 "Ukraine","Dnipropetrovsk","Pysmenne",1248,48.22,35.81,1.5e2
 "Ukraine","Donetsk","Nelipivka",1240,48.33,37.77,1.9e2
 "Ukraine","Lugansk","Knyahynivka",1233,48.120000000000005,38.86,1.4e2
-"Ukraine","Dnipropetrovsk","Mykolayivka3",1233,48.7871,35.1814,"null"
+"Ukraine","Dnipropetrovsk","Mykolayivka",1233,48.7871,35.1814,"null"
 "Ukraine","Lugansk","Vovchoyarivka",1229,49.82,38.35,1.9e2
 "Ukraine","Lugansk","Lenina",1228,48.43,39.15,1.8e2
 "Ukraine","Vinnica","Rudnytsya",1228,48.27,28.900000000000002,2.7e2
 "Ukraine","Dnipropetrovsk","Mykolaivka",1228,48.543665626189,34.708629908655,"null"
-"Ukraine","Lviv","StaraSil",1221,49.480000000000004,22.97,3.9e2
+"Ukraine","Lviv","Stara Sil",1221,49.480000000000004,22.97,3.9e2
 "Ukraine","Donetsk","Hirnytske",1219,48.006,38.8314,"null"
 "Ukraine","Lugansk","Velykokamyanka",1213,48.13,39.44,2.5e2
 "Ukraine","Zaporizhzhya","Zaliznychne",1206,47.65,36.15,1.3e2
@@ -1720,14 +1720,14 @@
 "Ukraine","Vinnica","Desna",1188,50.45,30.5233,"null"
 "Ukraine","Donetsk","Mayak",1173,45.3478,32.4961,"null"
 "Ukraine","Lugansk","Enhelsove",1152,48.29,39.62,1.2e2
-"Ukraine","Lugansk","LoznoOleksandrivka",1149,49.83,38.730000000000004,1.1e2
+"Ukraine","Lugansk","Lozno‐Oleksandrivka",1149,49.83,38.730000000000004,1.1e2
 "Ukraine","Harkov","Manchenky",1147,49.980000000000004,35.87,1.9e2
 "Ukraine","Herson","Naddnipryanske",1147,46.730000000000004,32.7,46.
 "Ukraine","Lugansk","Hrushove",1145,48.26,38.77,2.5e2
 "Ukraine","Lugansk","Bilohorivka",1142,48.93,38.25,80.
 "Ukraine","Herson","Kalynivske",1142,47.115,32.974722222222,"null"
 "Ukraine","Harkov","Konstantovka",1138,49.950555555556,35.116388888889,"null"
-"Ukraine","Donetsk","TroyitskoKhartsyzk",1137,47.97,38.27,1.e2
+"Ukraine","Donetsk","Troyitsko‐Khartsyzk",1137,47.97,38.27,1.e2
 "Ukraine","Lugansk","Pavlivka",1135,49.61,38.69,1.2e2
 "Ukraine","Lugansk","Zaporizhzhya",1132,47.8378,35.1383,"null"
 "Ukraine","Kirovograd","Lisove",1130,48.838611111111,32.327777777778,"null"
@@ -1735,52 +1735,52 @@
 "Ukraine","Donetsk","Kurdyumivka",1118,48.47,37.97,2.1e2
 "Ukraine","Lugansk","Vrubivka",1117,48.77,38.39,1.8e2
 "Ukraine","Lviv","Krakovets",1108,49.97,23.17,2.e2
-"Ukraine","Crimea","NovyiSvit",1100,44.829166666667,34.912777777778,"null"
+"Ukraine","Crimea","Novyi Svit",1100,44.829166666667,34.912777777778,"null"
 "Ukraine","Transcarpathia","Zhdeniyevo",1078,48.77,22.98,4.4e2
 "Ukraine","Crimea","Livadiya",1074,44.47,34.15,1.1e2
-"Ukraine","Zhitomir","BilaKrynytsya",1029,50.65,29.47,1.3e2
+"Ukraine","Zhitomir","Bila Krynytsya",1029,50.65,29.47,1.3e2
 "Ukraine","Lugansk","Bayrachky",1025,48.39,38.61,2.1e2
 "Ukraine","Crimea","Krasnokamyanka",1019,44.57,34.28,4.8e2
-"Ukraine","Crimea","NovyySvit",1017,45.480000000000004,36.300000000000004,15.
+"Ukraine","Crimea","Novyy Svit",1017,45.480000000000004,36.300000000000004,15.
 "Ukraine","Dnipropetrovsk","Zelene",1009,47.75,33.25,43.
 "Ukraine","Lviv","Uhniv",1007,50.370000000000005,23.75,2.1e2
 "Ukraine","Donetsk","Rayske",1004,48.57,37.42,79.
 "Ukraine","Lugansk","Lomuvatka",1002,48.45,38.550000000000004,3.e2
 "Ukraine","Donetsk","Shyroke",1001,47.96,38.230000000000004,1.4e2
 "Ukraine","Cherkask","Irdyn",996,49.38,31.73,1.2e2
-"Ukraine","Donetsk","KrasnyyOktyabr",979,48.24,38.19,2.2e2
-"Ukraine","Hmelnickij","ChornyyOstriv",978,49.5,26.75,"null"
+"Ukraine","Donetsk","Krasnyy Oktyabr",979,48.24,38.19,2.2e2
+"Ukraine","Khmelnytskyi","Chornyy Ostriv",978,49.5,26.75,"null"
 "Ukraine","Donetsk","Shakhtne",975,47.99,38.27,1.1e2
 "Ukraine","Vinnica","Zaliznychne",971,47.6504,36.1662,"null"
 "Ukraine","Lugansk","Maloryazantseve",947,48.88,38.39,1.1e2
 "Ukraine","Kirovograd","Balakhivka",946,48.480000000000004,33.18,94.
 "Ukraine","Donetsk","Lymanchuk",919,48.02,38.81,2.7e2
-"Ukraine","Donetsk","Olenivka2",913,48.27,38.27,1.9e2
+"Ukraine","Donetsk","Olenivka",913,48.27,38.27,1.9e2
 "Ukraine","Donetsk","Hostre",908,47.9917,37.4018,"null"
 "Ukraine","Donetsk","Vilkhivka",906,48.1128,38.3108,"null"
-"Ukraine","Lviv","NoviStrilyshcha",903,49.52,24.41,3.2e2
-"Ukraine","Hmelnickij","Viytivtsi",902,49.4917,26.45,"null"
+"Ukraine","Lviv","Novi Strilyshcha",903,49.52,24.41,3.2e2
+"Ukraine","Khmelnytskyi","Viytivtsi",902,49.4917,26.45,"null"
 "Ukraine","Donetsk","Moskovske",891,48.120000000000005,38.550000000000004,2.9e2
 "Ukraine","Donetsk","Sofiyivka",878,48.7052,36.8653,"null"
 "Ukraine","Lugansk","Hirnyk",869,48.08,39.21,1.8e2
-"Ukraine","Dnipropetrovsk","Mykolayivka4",867,48.7871,35.1814,"null"
+"Ukraine","Dnipropetrovsk","Mykolayivka",867,48.7871,35.1814,"null"
 "Ukraine","Crimea","Oreanda",835,44.47,34.17,0
 "Ukraine","Crimea","Nauchne",832,44.730000000000004,34.02,5.5e2
-"Ukraine","Donetsk","HorbachevoMykhaylivka",797,47.85,38.02,1.3e2
+"Ukraine","Donetsk","Horbachevo‐Mykhaylivka",797,47.85,38.02,1.3e2
 "Ukraine","Chernigov","Druzhba",793,50.800000000000004,32.37,1.6e2
 "Ukraine","Zhitomir","Buchmany",792,51.050000000000004,28.05,1.9e2
 "Ukraine","Chernigov","Radul",763,51.83,30.7,1.1e2
-"Ukraine","Donetsk","VelykeOrikhove",736,48.0867,38.1325,"null"
+"Ukraine","Donetsk","Velyke Orikhove",736,48.0867,38.1325,"null"
 "Ukraine","Lugansk","Voronove",735,48.9,38.58,85.
-"Ukraine","Donetsk","HruzkoLomivka",685,47.9,38.1,1.2e2
+"Ukraine","Donetsk","Hruzko‐Lomivka",685,47.9,38.1,1.2e2
 "Ukraine","Donetsk","Donetske",678,48.93,37.67,1.2e2
-"Ukraine","Lugansk","SadovoKhrustalnenskyy",678,48.15,38.730000000000004,1.8e2
+"Ukraine","Lugansk","Sadovo‐Khrustalnenskyy",678,48.15,38.730000000000004,1.8e2
 "Ukraine","Donetsk","Druzhne",671,48.18,38.300000000000004,2.5e2
-"Ukraine","Donetsk","KrasnaHora",656,48.660000000000004,38.01,80.
+"Ukraine","Donetsk","Krasna Hora",656,48.660000000000004,38.01,80.
 "Ukraine","Dnipropetrovsk","Brahynivka",648,48.480000000000004,36.36,1.1e2
 "Ukraine","Harkov","Birky",634,49.72,36.0556,"null"
 "Ukraine","Kyyivska","Krasiatychi",629,51.076388888889,29.6375,"null"
-"Ukraine","Crimea","HolubaZatoka",615,44.4197,33.9889,"null"
+"Ukraine","Crimea","Holuba Zatoka",615,44.4197,33.9889,"null"
 "Ukraine","Zhitomir","Zhovtneve",609,49.99,29.51,2.e2
 "Ukraine","Donetsk","Pervomayske",603,48.0972,37.592,"null"
 "Ukraine","Crimea","Sovietske",575,44.531388888889,34.188055555556,"null"
@@ -1797,12 +1797,12 @@
 "Ukraine","Crimea","Berehove",500,44.9,33.62,30.
 "Ukraine","Herson","Karyerne",474,47.32,33.22,41.
 "Ukraine","Donetsk","Keramik",469,48.25,37.68,2.1e2
-"Ukraine","Lugansk","MyrnaDolyna",462,48.81,38.480000000000004,1.6e2
-"Ukraine","Crimea","Voskhod2",462,44.52,34.22,4.3e2
+"Ukraine","Lugansk","Myrna Dolyna",462,48.81,38.480000000000004,1.6e2
+"Ukraine","Crimea","Voskhod",462,44.52,34.22,4.3e2
 "Ukraine","Dnipropetrovsk","Sad",461,48.42,35.27,1.5e2
 "Ukraine","Lugansk","Myrne",453,48.29,39.65,1.2e2
 "Ukraine","Donetsk","Illinka",443,48.2728,38.4272,"null"
-"Ukraine","Donetsk","Oleksandrivka3",415,49.1155,37.5885,"null"
+"Ukraine","Donetsk","Oleksandrivka",415,49.1155,37.5885,"null"
 "Ukraine","Crimea","Parkove",403,44.4,33.95,64.
 "Ukraine","Lugansk","Fedorivka",396,48.71,38.47,1.6e2
 "Ukraine","Donetsk","Nykyforove",393,48.0077,38.8534,"null"
@@ -1815,14 +1815,14 @@
 "Ukraine","Crimea","Kurortne",304,44.9131,35.1914,"null"
 "Ukraine","Lugansk","Tatsyne",291,48.07,39.21,1.8e2
 "Ukraine","Donetsk","Vyshneve",271,50.3833,30.3667,"null"
-"Ukraine","Donetsk","Mykolayivka2",240,48.8543,37.7751,"null"
+"Ukraine","Donetsk","Mykolayivka",240,48.8543,37.7751,"null"
 "Ukraine","Lugansk","Hlybokyy",233,48.46,38.57,2.9e2
 "Ukraine","Crimea","Sanatorne",229,44.398333333333,33.813055555556,"null"
 "Ukraine","Lugansk","Hirne",216,48.27,39.62,79.
 "Ukraine","Crimea","Ponyzivka",213,44.4,33.97,70.
 "Ukraine","Dnipropetrovsk","Zaliznychne",212,48.433291209133,36.492234748668,"null"
 "Ukraine","Zhitomir","Dibrova",187,51.15,27.97,2.1e2
-"Ukraine","Odesa","NoviBiliari",184,46.629722222222,31.001111111111,"null"
+"Ukraine","Odesa","Novi Biliari",184,46.629722222222,31.001111111111,"null"
 "Ukraine","Donetsk","Pokrovka",179,47.9108,38.33,"null"
 "Ukraine","Donetsk","Lesnoye",166,48.1,38.13,1.8e2
 "Ukraine","Donetsk","Pryberezhne",162,48.2403,38.3606,"null"
