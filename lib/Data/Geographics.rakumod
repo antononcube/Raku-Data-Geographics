@@ -254,9 +254,9 @@ sub interpret-geographics-id(Str $id, Bool :p(:$pairs) = False, Str :$sep = '.',
     }
     if $pairs {
         if @parts.elems == 2 {
-            return (<type name>.Array Z=> @parts).List;
+            return (<Type Name>.Array Z=> @parts).List;
         } elsif @parts.elems == 3 {
-            return (<country state city>.Array Z=> @parts).List;
+            return (<Country State City>.Array Z=> @parts).List;
         } else {
             warn 'Cannot interpret the geographics ID parititioning into pairs.';
             return Nil;
