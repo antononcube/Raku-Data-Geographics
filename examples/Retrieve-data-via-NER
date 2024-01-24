@@ -1,10 +1,13 @@
 #!/usr/bin/env raku
 use v6.d;
 
+use lib '.';
+
 use Data::Geographics;
 use DSL::Entity::Geographics;
 
 my @dsCityData = city-data();
+my %countryStateCity = city-data():nested;
 
 say "Number of city data records : {@dsCityData.elems}";
 
@@ -35,6 +38,8 @@ my $tend = now;
 say "Total NER time : {$tend - $tstart} for {@specs.elems} specs";
 say "NER time per spec: {($tend - $tstart) / @specs.elems}";
 
+say '=' x 100;
+
 my @res;
 
 $tstart = now;
@@ -52,9 +57,32 @@ for @geoIDs -> $geoID {
 }
 $tend = now;
 
-say "Total Search time : {$tend - $tstart} for {@specs.elems} specs";
+say "Total search time : {$tend - $tstart} for {@specs.elems} specs";
 say "Search time per spec: {($tend - $tstart) / @specs.elems}";
 
 .say for @res.unique;
+
+say '=' x 100;
+
+my @res2;
+
+$tstart = now;
+for @geoIDs -> $geoID {
+    my %geoIDParts = interpret-geographics-id($geoID):p;
+
+    my $res;
+    if %geoIDParts<Type> // 'NONE' eq 'CITYNAME' {
+        $res = %countryStateCity{'United States';*;%geoIDParts<Name>}.grep(*.defined);
+    } else {
+        $res = %countryStateCity{'United States';%geoIDParts<State>;%geoIDParts<City>};
+    }
+    @res2.push(|$res);
+}
+$tend = now;
+
+say "Total fast-search time : {$tend - $tstart} for {@specs.elems} specs";
+say "Fast-search time per spec: {($tend - $tstart) / @specs.elems}";
+
+.say for @res2.unique;
 
 
