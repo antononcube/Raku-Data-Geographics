@@ -78,6 +78,9 @@ sub ingest-city-data(:$sep is copy = Whatever) is export {
     my &nsplit = -> $n { $n ~~ Str:D ?? $n.subst(/ <?after <:Ll>> (<:Lu>) <?before <:Ll>> /, { ' ' ~ $0.Str }) !! $n };
     @city-records = @city-records.map({ my %h = $_.Hash , %( City => &nsplit($_<City>) ); %h });
 
+    # Add IDs
+    @city-records  = @city-records.map({ my %h = $_.Hash , %('ID', make-geographics-id( |$_<Country State City>, sep=>'.' )); %h });
+
     # Result
     return %(:@city-records, :@city-record-fields);
 }
@@ -196,6 +199,71 @@ multi sub city-data(:$country = Whatever, :$state = Whatever, :$city = Whatever,
     return city-data([$country, $state, $city], :$fields);
 }
 
+#============================================================
+#| Makes Geographical identifier from given country, state, and city names.
+proto sub make-geographics-id(|) is export {*}
+
+multi sub make-geographics-id($country, $state, $city,
+                              :$default-country = Whatever,
+                              Str :$sep = '|',
+                              Str :$spc = '_',
+                              Str :$comma = '') {
+    return make-geographics-id(:$country, :$state, :$city, :$default-country, :$sep, :$spc, :$comma);
+}
+
+multi sub make-geographics-id(:$country!, :$state!, :$city!,
+                              :$default-country is copy = Whatever,
+                              Str :$sep = '|',
+                              Str :$spc = '_',
+                              Str :$comma = '') {
+
+    if $default-country.isa(Whatever) { $default-country = 'United_States'; }
+
+    return do given ($country, $state, $city) {
+        when (Whatever, Whatever, Whatever) {
+            die 'At least one of the arguments have to be string.';
+        }
+        when (Whatever, Whatever, Str:D) {
+            'CITYNAME' ~ $sep ~ $city.subst(/\h+/, $spc, :g);
+        }
+        when (Whatever, Str:D, Whatever) {
+            'STATENAME' ~ $sep ~ $state.subst(/\h+/, $spc, :g);
+        }
+        when (Str:D, Whatever, Whatever) {
+            'COUNTRYNAME' ~ $sep ~ $country.subst(/\h+/, $spc, :g);
+        }
+        when (Whatever, Str:D, Str:D) {
+            # Of course, we have to verify that that ID can be found in the data.
+            # But that is not done in this "lightweight" function.
+            make-geographics-id($default-country, $state, $city, :$sep, :$spc);
+        }
+        default {
+            ($country, $state, $city).join($sep).subst(/\h+/, $spc, :g).subst(',', $comma, :g);
+        }
+    }
+}
+
+#============================================================
+sub interpret-geographics-id(Str $id, Bool :p(:$pairs) = False, Str :$sep = '.', Str :$spc = '_', Str :$comma = '') is export {
+    my @parts = $id.split($sep);
+    if $spc {
+        @parts = @parts.map({ $_.subst($spc, ' '):g })
+    }
+    if $comma {
+        @parts = @parts.map({ $_.subst($comma, ','):g })
+    }
+    if $pairs {
+        if @parts.elems == 2 {
+            return (<type name>.Array Z=> @parts).List;
+        } elsif @parts.elems == 3 {
+            return (<country state city>.Array Z=> @parts).List;
+        } else {
+            warn 'Cannot interpret the geographics ID parititioning into pairs.';
+            return Nil;
+        }
+    }
+    return @parts;
+}
 
 #============================================================
 # Optimization
