@@ -130,11 +130,11 @@ multi sub country-data($spec = Whatever, :$fields is copy = Whatever) {
 #============================================================
 proto sub city-data(|) is export {*}
 
-multi sub city-data($spec, $fields = Whatever) {
-    return city-data($spec, :$fields);
+multi sub city-data($spec, $fields = Whatever, Bool :$nested = False) {
+    return city-data($spec, :$fields, :$nested);
 }
 
-multi sub city-data($spec, :$fields is copy = Whatever) {
+multi sub city-data($spec, :$fields is copy = Whatever, Bool :$nested = False) {
 
     # Ingest city data if needed
     if !@city-records { ingest-city-data(); }
@@ -182,21 +182,42 @@ multi sub city-data($spec, :$fields is copy = Whatever) {
     # Enhance
     if $fields ~~ Str:D { $fields = [$fields,]; }
 
+    # Properties / fields validation function
+    my &valid-props = { ($_ ~~ Positional) && ($_.all ~~ Str:D) && ($_ (-) @city-record-fields).elems == 0 };
+
     # Return result with required properties
-    return do given $fields {
-        when Whatever { @res }
-        when ($_ ~~ Positional) && ($_.all ~~ Str:D) && ($_ (-) @city-record-fields).elems == 0 {
-            @res.map({ $_.grep({ $_.key ∈ $fields }).Hash }).Array
+
+    my $errMsg = "The second argument is expected to a string, a list of strings, or Whatever.";
+
+    if $nested {
+        my $nFields = do given $fields {
+            when Whatever { @city-record-fields }
+            when &valid-props($_) { $fields }
+            default { die $errMsg; }
         }
-        default {
-            die "The second argument is expected to a string, a list of strings, or Whatever."
+
+        my %countryStateCity = @res
+                    .classify(*<Country>)
+                    .map({ $_.key => $_.value.classify(*<State>)
+                    .map({ $_.key => $_.value.map({ $_<City> => $_.grep({ $_.key ∈ $nFields }).Hash }).Hash }).Hash });
+
+        return %countryStateCity;
+
+    } else {
+
+        return do given $fields {
+            when Whatever { @res }
+            when &valid-props($_) {
+                @res.map({ $_.grep({ $_.key ∈ $fields }).Hash }).Array
+            }
+            default { die $errMsg; }
         }
     }
 }
 
 
-multi sub city-data(:$country = Whatever, :$state = Whatever, :$city = Whatever, :$fields is copy = Whatever) {
-    return city-data([$country, $state, $city], :$fields);
+multi sub city-data(:$country = Whatever, :$state = Whatever, :$city = Whatever, :$fields is copy = Whatever, Bool :$nested = False) {
+    return city-data([$country, $state, $city], :$fields, :$nested);
 }
 
 #============================================================
