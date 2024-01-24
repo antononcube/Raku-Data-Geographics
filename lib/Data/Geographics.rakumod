@@ -128,6 +128,10 @@ multi sub country-data($spec = Whatever, :$fields is copy = Whatever) {
 }
 
 #============================================================
+#| C<city-data> function provides information about cities based on the provided specifications.
+#| C<$spec> -- can be a string, a regex, a list of strings or regexes, or Whatever. It is used to filter the city records.
+#| C<$fields> -- can be a string, a list of strings, or Whatever. It is used to select the properties of the city records to return.
+#| C<:$nested> -- named argument is a boolean value that determines whether the result should be nested by country, state, and city.
 proto sub city-data(|) is export {*}
 
 multi sub city-data($spec, $fields = Whatever, Bool :$nested = False) {
