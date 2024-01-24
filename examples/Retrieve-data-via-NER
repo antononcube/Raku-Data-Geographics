@@ -1,0 +1,60 @@
+#!/usr/bin/env raku
+use v6.d;
+
+use Data::Geographics;
+use DSL::Entity::Geographics;
+
+my @dsCityData = city-data();
+
+say "Number of city data records : {@dsCityData.elems}";
+
+my @specs = [
+    'Atlanta, GA',
+    'atlanta Georgia',
+    'Fort Lauderdale, FL',
+    'Fort Lauderdale Florida',
+    'Miami, Florida',
+    'Chicago',
+    'Chicago IL',
+    'Champaign Illinois',
+    'Urbana, Illinois',
+    'san diego CA',
+];
+
+@specs = (@specs xx 10).flat;
+
+my @geoIDs;
+
+my $tstart = now;
+for @specs -> $s {
+    my $geoID = ToGeographicEntityCode($s, 'Raku-System');
+    @geoIDs.push($geoID);
+}
+my $tend = now;
+
+say "Total NER time : {$tend - $tstart} for {@specs.elems} specs";
+say "NER time per spec: {($tend - $tstart) / @specs.elems}";
+
+my @res;
+
+$tstart = now;
+for @geoIDs -> $geoID {
+    my %geoIDParts = interpret-geographics-id($geoID):p;
+
+    my $res;
+    if %geoIDParts<Type> // 'NONE' eq 'CITYNAME' {
+        $res = @dsCityData.grep(*<City> eq %geoIDParts<Name>);
+    } else {
+        $res = @dsCityData.grep(*<ID> eq $geoID);
+    }
+
+    @res.push(|$res);
+}
+$tend = now;
+
+say "Total Search time : {$tend - $tstart} for {@specs.elems} specs";
+say "Search time per spec: {($tend - $tstart) / @specs.elems}";
+
+.say for @res.unique;
+
+
