@@ -14,10 +14,7 @@ group-by(@dsCityData, <Country>).Array.map({ $_.key => $_.value.elems }).Hash
         ==> to-pretty-table()
         ==> say();
 
-my %countryStateCity3 = @dsCityData
-        .classify(*<Country>)
-        .map({ $_.key => $_.value.classify(*<State>)
-                .map({ $_.key => $_.value.map({ $_<City> => $_.grep({ $_.key ∈ <Population Latitude Longitude ID> }).Hash }).Hash }).Hash });
+my %countryStateCity3 = city-data():nested;
 
 say deduce-type(%countryStateCity3);
 
