@@ -230,7 +230,7 @@ proto sub make-geographics-id(|) is export {*}
 
 multi sub make-geographics-id($country, $state, $city,
                               :$default-country = Whatever,
-                              Str :$sep = '|',
+                              Str :$sep = '.',
                               Str :$spc = '_',
                               Str :$comma = '') {
     return make-geographics-id(:$country, :$state, :$city, :$default-country, :$sep, :$spc, :$comma);
@@ -238,7 +238,7 @@ multi sub make-geographics-id($country, $state, $city,
 
 multi sub make-geographics-id(:$country!, :$state!, :$city!,
                               :$default-country is copy = Whatever,
-                              Str :$sep = '|',
+                              Str :$sep = '.',
                               Str :$spc = '_',
                               Str :$comma = '') {
 
