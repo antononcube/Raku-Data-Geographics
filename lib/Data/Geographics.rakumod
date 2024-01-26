@@ -17,6 +17,12 @@ sub ingest-country-data() is export {
 }
 
 #============================================================
+
+sub location-link($lat, $lon, UInt :$zoom = 12) is export {
+    return "http://maps.google.com/maps?q=$lat,$lon&z=$zoom&t=h";
+}
+
+#============================================================
 my @city-records;
 my @city-record-fields;
 
@@ -72,6 +78,10 @@ sub ingest-city-data(:$sep is copy = Whatever) is export {
                                      Elevation => &nconv($_<Elevation>));
                 %h
             });
+
+    # Add location link
+    @city-records = @city-records.map({ my %h = $_.Hash , %(LocationLink => location-link($_<Latitude>, $_<Longitude>) ); %h });
+    @city-record-fields.push('LocationLink');
 
     # Split city and country names over capital letters.
     # Temporary: this is not a completely reliable way of getting the real geographical names.
