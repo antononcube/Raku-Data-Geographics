@@ -1,7 +1,7 @@
 {
   "name": "Data::Geographics",
   "description": "Country data and city data.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "perl": "6.d",
   "authors": [
     "Anton Antonov"
