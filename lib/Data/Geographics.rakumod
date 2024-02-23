@@ -301,6 +301,39 @@ sub interpret-geographics-id(Str $id, Bool :p(:$pairs) = False, Str :$sep = '.',
 }
 
 #============================================================
+#| Computes Geo-distance using the Haversine formula
+proto sub geo-distance(|) is export {*}
+
+multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') {
+    my $R = 6371e3;
+    my $φ1 = $lat1 * π/180;
+    my $φ2 = $lat2 * π/180;
+    my $Δφ = ($lat2-$lat1) * π/180;
+    my $Δλ = ($lon2-$lon1) * π/180;
+
+    my $a = sin($Δφ/2) * sin($Δφ/2) + cos($φ1) * cos($φ2) * sin($Δλ/2) * sin($Δλ/2);
+    my $c = 2 * atan2(sqrt($a), sqrt(1-$a));
+
+    return $R * $c;
+}
+
+multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'kilometers') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') / 1000;
+}
+
+multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'miles') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') / 1609.344;
+}
+
+multi sub geo-distance(($lat1, $lon1), ($lat2, $lon2), $units = 'meters') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
+multi sub geo-distance(($lat1, $lon1, $lat2, $lon2), $units = 'meters') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
+#============================================================
 # Optimization
 #============================================================
 BEGIN {
