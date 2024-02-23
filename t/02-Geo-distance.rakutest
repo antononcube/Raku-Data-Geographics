@@ -1,0 +1,27 @@
+use v6.d;
+
+use lib <.>;
+use Data::Geographics;
+
+use Test;
+
+my $loc1 = city-data(state => 'Florida', city => 'Orlando').head;
+my $loc2 = city-data(state => 'Georgia', city => 'Atlanta').head;
+
+$loc1 = $loc1<Latitude Longitude>;
+$loc2 = $loc2<Latitude Longitude>;
+
+plan *;
+
+## 1
+ok geo-distance($loc1, $loc2, 'meters');
+
+## 2
+#note geo-distance($loc1, $loc2, 'miles');
+is 380 ≤ geo-distance($loc1, $loc2, 'miles') ≤ 410, True;
+
+## 3
+#note geo-distance($loc1, $loc2, 'kilometers');
+is 620 ≤ geo-distance($loc1, $loc2, 'kilometers') ≤ 660, True;
+
+done-testing;
