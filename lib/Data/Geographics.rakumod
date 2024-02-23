@@ -305,7 +305,7 @@ sub interpret-geographics-id(Str $id, Bool :p(:$pairs) = False, Str :$sep = '.',
 proto sub geo-distance(|) is export {*}
 
 multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') {
-    my $R = 6371e3;
+    my $R = 6378.14*10**3;
     my $φ1 = $lat1 * π/180;
     my $φ2 = $lat2 * π/180;
     my $Δφ = ($lat2-$lat1) * π/180;
