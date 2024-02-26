@@ -304,7 +304,7 @@ sub interpret-geographics-id(Str $id, Bool :p(:$pairs) = False, Str :$sep = '.',
 #| Computes Geo-distance using the Haversine formula
 proto sub geo-distance(|) is export {*}
 
-multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') {
+multi sub geo-distance-meters($lat1, $lon1, $lat2, $lon2) {
     my $R = 6378.14*10**3;
     my $φ1 = $lat1 * π/180;
     my $φ2 = $lat2 * π/180;
@@ -317,12 +317,17 @@ multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') {
     return $R * $c;
 }
 
-multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'kilometers') {
-    return geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') / 1000;
-}
-
-multi sub geo-distance($lat1, $lon1, $lat2, $lon2, 'miles') {
-    return geo-distance($lat1, $lon1, $lat2, $lon2, 'meters') / 1609.344;
+multi sub geo-distance($lat1, $lon1, $lat2, $lon2, $units = 'meters') {
+    return do given $units {
+        when Whatever { geo-distance-meters($lat1, $lon1, $lat2, $lon2); }
+        when $_ ∈ <meters m> { geo-distance-meters($lat1, $lon1, $lat2, $lon2); }
+        when $_ ∈ <kilometers km> { geo-distance-meters($lat1, $lon1, $lat2, $lon2) / 1000; }
+        when $_ ∈ <yards yd> { geo-distance-meters($lat1, $lon1, $lat2, $lon2) * 1.094; }
+        when $_ ∈ <miles mi> { geo-distance-meters($lat1, $lon1, $lat2, $lon2) / 1609.344; }
+        default {
+            die "The value of the last argument (or :\$units) is exptected to be one of 'meters', 'kilometers', 'yards', 'miles', or Whatever.";
+        }
+    }
 }
 
 multi sub geo-distance(($lat1, $lon1), ($lat2, $lon2), $units = 'meters') {
@@ -332,6 +337,23 @@ multi sub geo-distance(($lat1, $lon1), ($lat2, $lon2), $units = 'meters') {
 multi sub geo-distance(($lat1, $lon1, $lat2, $lon2), $units = 'meters') {
     return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
 }
+
+multi sub geo-distance($lat1, $lon1, $lat2, $lon2, :$units = 'meters') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
+multi sub geo-distance(($lat1, $lon1), ($lat2, $lon2), :$units = 'meters') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
+multi sub geo-distance(($lat1, $lon1, $lat2, $lon2), :$units = 'meters') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
+multi sub geo-distance(:$lat1, :$lon1, :$lat2, :$lon2, :$units = 'meters') {
+    return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
 
 #============================================================
 # Optimization
