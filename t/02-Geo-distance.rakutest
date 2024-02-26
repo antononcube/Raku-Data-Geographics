@@ -21,7 +21,15 @@ ok geo-distance($loc1, $loc2, 'meters');
 is 380 ≤ geo-distance($loc1, $loc2, 'miles') ≤ 410, True;
 
 ## 3
+#note geo-distance(lat1 => $loc1.head, lon1 => $loc1.tail, lat2 => $loc2.head, lon2 => $loc2.tail, units => 'miles');
+is 380 ≤ geo-distance(lat1 => $loc1.head, lon1 => $loc1.tail, lat2 => $loc2.head, lon2 => $loc2.tail, units => 'miles') ≤ 410, True;
+
+## 4
 #note geo-distance($loc1, $loc2, 'kilometers');
 is 620 ≤ geo-distance($loc1, $loc2, 'kilometers') ≤ 660, True;
+
+## 5
+#note  geo-distance($loc1, $loc2);
+is 620 * 1_000 ≤ geo-distance($loc1, $loc2) ≤ 660 * 1_000, True;
 
 done-testing;
