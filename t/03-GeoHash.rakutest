@@ -1,0 +1,55 @@
+use v6.d;
+
+use lib <.>;
+use Data::Geographics;
+
+use Test;
+
+my $loc1 = city-data(state => 'Florida', city => 'Orlando').head;
+my $loc2 = city-data(state => 'Georgia', city => 'Atlanta').head;
+
+$loc1 = $loc1<Latitude Longitude>;
+$loc2 = $loc2<Latitude Longitude>;
+
+plan *;
+
+## 1
+isa-ok geohash($loc1), Str:D;
+
+## 2
+isa-ok geohash($loc1.head, $loc2.tail), Str:D;
+
+## 3
+isa-ok geohash(latitude => $loc1.head, longitude => $loc2.tail), Str:D;
+
+## 4
+isa-ok geohash(lat => $loc1.head, lon => $loc2.tail), Str:D;
+
+## 5
+isa-ok geohash('dq12'), Associative:D;
+
+## 6
+isa-ok geohash('dq12', format => Associative), Associative:D;
+
+## 7
+isa-ok geohash('dq12', format => 'Mean'), Associative:D;
+
+## 8
+is geohash('dq12', f => 'Mean').values.all ~~ Numeric:D, True;
+
+## 9
+isa-ok geohash('dq12', f => 'GeoPosition'), Positional:D;
+
+## 10
+is geohash('dq12', f => 'GeoPosition').all ~~ Numeric:D, True;
+
+## 11
+isa-ok geohash("Alphabet"), Positional:D;
+
+## 12
+isa-ok geohash("df3t", f => "Neighbors"), Positional:D;
+
+## 13
+is geohash("df3t", f => "Neighbors").all ~~ Str:D, True;
+
+done-testing;

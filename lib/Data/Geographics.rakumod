@@ -1,6 +1,7 @@
 unit module Data::Geographics;
 
 use JSON::Fast;
+use Data::Geographics::GeoHash;
 
 #============================================================
 my %country-records;
@@ -301,6 +302,8 @@ sub interpret-geographics-id(Str $id, Bool :p(:$pairs) = False, Str :$sep = '.',
 }
 
 #============================================================
+# Geo-distance
+#============================================================
 #| Computes Geo-distance using the Haversine formula
 proto sub geo-distance(|) is export {*}
 
@@ -352,6 +355,67 @@ multi sub geo-distance(($lat1, $lon1, $lat2, $lon2), :$units = 'meters') {
 
 multi sub geo-distance(:$lat1, :$lon1, :$lat2, :$lon2, :$units = 'meters') {
     return geo-distance($lat1, $lon1, $lat2, $lon2, $units);
+}
+
+#============================================================
+# GeoHash
+#============================================================
+
+#| Encode or decode geohashes
+proto sub geohash(|) is export {*}
+
+multi sub geohash(Str:D $spec where *.lc eq 'alphabet') {
+    return Data::Geographics::GeoHash::geohash-alphabet();
+}
+
+multi sub geohash(Str:D $gh, Str:D :f(:$format) where *.lc eq 'neighbors') {
+    return Data::Geographics::GeoHash::geohash-neighbors($gh);
+}
+
+multi sub geohash(Str:D $gh, :f(:$format) = Whatever) {
+    my %res = Data::Geographics::GeoHash::geohash-decode($gh);
+    return do given $format {
+        when $_.isa(Whatever) || $_ ~~ Str:D && $_.lc eq 'mean' {
+            %res.map({ $_.key => $_.value.values.sum / 2 }).Hash;
+        }
+
+        when $_ ~~ Str:D && $_.lc ∈ <point geoposition geo-position> {
+            %res = %res.map({ $_.key => $_.values.values.sum / 2 });
+            (%res<latitude>, %res<longitude>)
+        }
+
+        when $_ ~~ Str:D && $_.lc ∈ <box geoboundingbox geo-bounding-box bounding-box> {
+            ((%res<latitude><min>, %res<longitude><min>),
+             (%res<latitude><max>, %res<longitude><max>))
+        }
+
+        default {
+            # "full" or Associative
+            %res
+        }
+    }
+}
+
+multi sub geohash((Numeric:D $latitude, Numeric:D $longitude), *%args) {
+    return geohash(:$latitude, :$longitude, |%args);
+}
+multi sub geohash(Numeric:D $latitude, Numeric:D $longitude, UInt :p(:$precision) = 9) {
+    return Data::Geographics::GeoHash::geohash-encode(:$latitude, :$longitude, :$precision);
+}
+
+multi sub geohash(Numeric:D :lat(:$latitude), Numeric:D :lon(:$longitude), UInt :p(:$precision) = 9) {
+    return Data::Geographics::GeoHash::geohash-encode(:$latitude, :$longitude, :$precision);
+}
+
+multi sub geohash(%h, UInt :p(:$precision) is copy = 9) {
+    my $latitude = %h<latitude> // %h<lat>;
+    my $longitude = %h<longitude> // %h<lon>;
+    $precision = %h<precision> // %h<prec> // $precision;
+
+    die "Cannot find latitude and longitude in given Associative object."
+    unless $latitude.definded && $longitude.define;
+
+    return Data::Geographics::GeoHash::geohash-encode(:$latitude, :$longitude, :$precision);
 }
 
 
